@@ -33,27 +33,36 @@ jobs:
           script: |
             const fs = require('fs');
             const summary = JSON.parse(fs.readFileSync('run_summary.json', 'utf8'));
+            const firstRun = !!summary.firstRun;
             const newly = summary.new || [];
             const errors = summary.errors || [];
+
+            if (firstRun) {
+              core.info("First run detected: creating baseline only. Skipping issue creation.");
+              return;
+            }
 
             if (newly.length === 0 && errors.length === 0) {
               core.info("No new jobs and no errors; not creating an issue.");
               return;
             }
 
-            // Build issue body
+            // Build issue body (keep it compact)
             let body = '';
             if (newly.length > 0) {
               body += '## New jobs found\n\n';
               for (const b of newly) {
                 body += `### ${b.board}\n`;
-                for (const j of b.jobs) {
+                // safety: limit jobs per board to keep body small
+                const jobs = (b.jobs || []).slice(0, 25);
+                for (const j of jobs) {
                   const title = j.title || '(no title)';
                   const url = j.jobUrl || '';
                   const published = j.publishedAt || '';
                   const location = j.location || '';
                   body += `- ${title}${location ? ' — ' + location : ''}${published ? ' — ' + published : ''}${url ? `\n  ${url}\n` : '\n'}`;
                 }
+                if ((b.jobs || []).length > 25) body += `- …and ${(b.jobs || []).length - 25} more\n`;
                 body += '\n';
               }
             } else {
@@ -64,6 +73,12 @@ jobs:
               body += '## Errors\n\n';
               for (const e of errors) body += `- ${e}\n`;
               body += '\n';
+            }
+
+            // Hard safety: GitHub issue body limit (~65536 chars). Keep margin.
+            const LIMIT = 60000;
+            if (body.length > LIMIT) {
+              body = body.slice(0, LIMIT) + "\n\n---\n(Truncated: output was too long. Check run_summary.json in the repo for full details.)\n";
             }
 
             const now = new Date().toISOString();
