@@ -67,6 +67,10 @@ def simplify_jobs(board_data: Dict[str, Any]) -> List[Dict[str, Any]]:
 
 def main() -> None:
     state = load_json(STATE_PATH, default={})
+    # Detect first run: no boards stored yet (only empty or just _meta)
+    existing_board_keys = [k for k in state.keys() if not k.startswith("_")]
+    first_run = (len(existing_board_keys) == 0)
+
     boards = load_boards()
 
     # state structure:
@@ -108,12 +112,14 @@ def main() -> None:
 
     # Write a summary file for the workflow step to read
     summary = {
+        "firstRun": first_run,
         "new": [
             {"board": slug, "jobs": jobs}
             for slug, jobs in all_new
         ],
         "errors": any_errors,
     }
+
     save_json("run_summary.json", summary)
 
     if any_errors:
