@@ -1,0 +1,91 @@
+name: Scan Ashby job boards
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # 07:00 Stockholm in winter (UTC+1)
+    - cron: "0 14 * * *"  # 15:00 Stockholm in winter (UTC+1)
+  workflow_dispatch:
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run scanner
+        run: python scan_ashby.py
+
+      - name: Create issue if new jobs found
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const summary = JSON.parse(fs.readFileSync('run_summary.json', 'utf8'));
+            const newly = summary.new || [];
+            const errors = summary.errors || [];
+
+            if (newly.length === 0 && errors.length === 0) {
+              core.info("No new jobs and no errors; not creating an issue.");
+              return;
+            }
+
+            // Build issue body
+            let body = '';
+            if (newly.length > 0) {
+              body += '## New jobs found\n\n';
+              for (const b of newly) {
+                body += `### ${b.board}\n`;
+                for (const j of b.jobs) {
+                  const title = j.title || '(no title)';
+                  const url = j.jobUrl || '';
+                  const published = j.publishedAt || '';
+                  const location = j.location || '';
+                  body += `- ${title}${location ? ' — ' + location : ''}${published ? ' — ' + published : ''}${url ? `\n  ${url}\n` : '\n'}`;
+                }
+                body += '\n';
+              }
+            } else {
+              body += '## No new jobs\n\n';
+            }
+
+            if (errors.length > 0) {
+              body += '## Errors\n\n';
+              for (const e of errors) body += `- ${e}\n`;
+              body += '\n';
+            }
+
+            const now = new Date().toISOString();
+            const title = newly.length > 0
+              ? `New Ashby jobs detected (${now})`
+              : `Ashby scan had errors (${now})`;
+
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title,
+              body
+            });
+
+      - name: Commit updated state.json
+        run: |
+          if git diff --quiet; then
+            echo "No state changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add state.json run_summary.json
+          git commit -m "Update scan state"
+          git push
