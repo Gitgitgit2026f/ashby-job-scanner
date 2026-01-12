@@ -1,0 +1,16 @@
+name: Schedule test
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # 07:00 Stockholm (winter, UTC+1)
+    - cron: "0 14 * * *"  # 15:00 Stockholm (winter, UTC+1)
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Say hello
+        run: |
+          echo "Hello from a scheduled workflow!"
+          date -u
