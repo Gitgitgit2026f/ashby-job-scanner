@@ -18,54 +18,41 @@
       "board": "n8n",
       "jobs": [
         {
-          "department": "Operations",
-          "id": "9abdec0d-3e64-4902-be58-1e232442e2c8",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/9abdec0d-3e64-4902-be58-1e232442e2c8",
-          "location": "London Office",
-          "publishedAt": "2026-01-12T22:30:03.383+00:00",
-          "team": "People",
-          "title": "Senior Talent Acquisition Partner, R&D (Remote, Europe)"
+          "department": "Product",
+          "id": "8c73b755-9089-404b-8653-8ab292624944",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/8c73b755-9089-404b-8653-8ab292624944",
+          "location": "Berlin Office",
+          "publishedAt": "2026-01-13T09:30:23.716+00:00",
+          "team": "Product",
+          "title": "Head of Product Growth (Remote Europe)"
         }
       ]
     },
     {
-      "board": "1password",
+      "board": "ashby",
       "jobs": [
         {
-          "department": "Product",
-          "id": "7386b919-d414-4975-99bd-f6be516f8580",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/7386b919-d414-4975-99bd-f6be516f8580",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-01-13T01:17:44.108+00:00",
-          "team": "Design & UX",
-          "title": "Senior Manager, Product Design, EPM"
-        },
+          "department": "Sales",
+          "id": "dc344264-ccec-47c1-b4fc-0862633b26ba",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/dc344264-ccec-47c1-b4fc-0862633b26ba",
+          "location": "Remote - Europe",
+          "publishedAt": "2026-01-13T13:23:30.236+00:00",
+          "team": "Sales",
+          "title": "Sales Manager, Mid-Market - EMEA"
+        }
+      ]
+    },
+    {
+      "board": "gt-hq",
+      "jobs": [
         {
-          "department": "G&A",
-          "id": "4aedfb1b-1adf-4062-9e70-de6797bc7686",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/4aedfb1b-1adf-4062-9e70-de6797bc7686",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-01-12T21:30:31.771+00:00",
-          "team": "G&A",
-          "title": "Director, Corporate Development "
-        },
-        {
-          "department": "Marketing",
-          "id": "79ab585b-48b4-4629-8f58-f69e74302024",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/79ab585b-48b4-4629-8f58-f69e74302024",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-01-12T21:03:15.625+00:00",
-          "team": "Marketing",
-          "title": "Senior Social Media Specialist"
-        },
-        {
-          "department": "Technology",
-          "id": "838222c8-6907-4266-b697-53d5808a5b67",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/838222c8-6907-4266-b697-53d5808a5b67",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-01-12T20:48:59.580+00:00",
-          "team": "IT",
-          "title": "Manager IT, Enterprise Tools"
+          "department": "Quorso",
+          "id": "db233771-5b92-48af-933e-b1504d210ceb",
+          "jobUrl": "https://jobs.ashbyhq.com/gt-hq/db233771-5b92-48af-933e-b1504d210ceb",
+          "location": "Poland - Remote",
+          "publishedAt": "2026-01-13T11:55:47.954+00:00",
+          "team": "Quorso",
+          "title": "Senior Manual QA Engineer | Quorso, UK"
         }
       ]
     }
