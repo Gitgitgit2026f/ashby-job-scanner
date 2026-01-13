@@ -15,25 +15,57 @@
   "firstRun": false,
   "new": [
     {
-      "board": "gt-hq",
+      "board": "n8n",
       "jobs": [
         {
-          "department": "Vodori",
-          "id": "2d13ed3d-65a9-42fc-a191-b6d47a4c35a5",
-          "jobUrl": "https://jobs.ashbyhq.com/gt-hq/2d13ed3d-65a9-42fc-a191-b6d47a4c35a5",
-          "location": "Europe - Remote",
-          "publishedAt": "2026-01-12T12:52:42.004+00:00",
-          "team": "Vodori",
-          "title": "Configuration Quality Assurance Associate | Vodori "
+          "department": "Operations",
+          "id": "9abdec0d-3e64-4902-be58-1e232442e2c8",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/9abdec0d-3e64-4902-be58-1e232442e2c8",
+          "location": "London Office",
+          "publishedAt": "2026-01-12T22:30:03.383+00:00",
+          "team": "People",
+          "title": "Senior Talent Acquisition Partner, R&D (Remote, Europe)"
+        }
+      ]
+    },
+    {
+      "board": "1password",
+      "jobs": [
+        {
+          "department": "Product",
+          "id": "7386b919-d414-4975-99bd-f6be516f8580",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/7386b919-d414-4975-99bd-f6be516f8580",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-01-13T01:17:44.108+00:00",
+          "team": "Design & UX",
+          "title": "Senior Manager, Product Design, EPM"
         },
         {
-          "department": "Confidential",
-          "id": "aadced62-7acb-4d92-8f03-7d1d82020c90",
-          "jobUrl": "https://jobs.ashbyhq.com/gt-hq/aadced62-7acb-4d92-8f03-7d1d82020c90",
-          "location": "Kyiv, Ukraine",
-          "publishedAt": "2026-01-12T11:00:49.363+00:00",
-          "team": "Confidential",
-          "title": "HR Generalist | Defense-Tech Company"
+          "department": "G&A",
+          "id": "4aedfb1b-1adf-4062-9e70-de6797bc7686",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/4aedfb1b-1adf-4062-9e70-de6797bc7686",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-01-12T21:30:31.771+00:00",
+          "team": "G&A",
+          "title": "Director, Corporate Development "
+        },
+        {
+          "department": "Marketing",
+          "id": "79ab585b-48b4-4629-8f58-f69e74302024",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/79ab585b-48b4-4629-8f58-f69e74302024",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-01-12T21:03:15.625+00:00",
+          "team": "Marketing",
+          "title": "Senior Social Media Specialist"
+        },
+        {
+          "department": "Technology",
+          "id": "838222c8-6907-4266-b697-53d5808a5b67",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/838222c8-6907-4266-b697-53d5808a5b67",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-01-12T20:48:59.580+00:00",
+          "team": "IT",
+          "title": "Manager IT, Enterprise Tools"
         }
       ]
     }
