@@ -1,0 +1,23 @@
+# Scan history
+
+---
+
+## 2026-01-14T07:51:38.815943+00:00
+
+- Boards: 36
+- New jobs: 0
+- Errors: 11
+- First run: no
+
+Errors:
+- gitlab: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/gitlab
+- mailer-lite: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/mailer-lite
+- help-scout: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/help-scout
+- cloud-devs: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/cloud-devs
+- xapo: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/xapo
+- modern-tribe: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/modern-tribe
+- ably: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/ably
+- lynx-educate: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/lynx-educate
+- teylor: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/teylor
+- lokalise: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/lokalise
+- superside: 404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/superside
