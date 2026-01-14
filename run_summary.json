@@ -15,44 +15,440 @@
   "firstRun": false,
   "new": [
     {
-      "board": "n8n",
+      "board": "everai",
       "jobs": [
         {
-          "department": "Product",
-          "id": "8c73b755-9089-404b-8653-8ab292624944",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/8c73b755-9089-404b-8653-8ab292624944",
-          "location": "Berlin Office",
-          "publishedAt": "2026-01-13T09:30:23.716+00:00",
-          "team": "Product",
-          "title": "Head of Product Growth (Remote Europe)"
+          "department": "Operations",
+          "id": "177cb4fa-1ce6-4926-a7b5-b41adae8845d",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/177cb4fa-1ce6-4926-a7b5-b41adae8845d",
+          "location": "United Kingdom",
+          "publishedAt": "2026-01-13T16:41:23.558+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - United Kingdom)"
+        },
+        {
+          "department": "Operations",
+          "id": "389263da-9069-474f-b24c-6e04a33b67a8",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/389263da-9069-474f-b24c-6e04a33b67a8",
+          "location": "Ukraine",
+          "publishedAt": "2026-01-13T16:40:52.245+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Ukraine)"
+        },
+        {
+          "department": "Operations",
+          "id": "872d3f3e-454c-42e2-b6ad-ec9810508c9c",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/872d3f3e-454c-42e2-b6ad-ec9810508c9c",
+          "location": "Switzerland",
+          "publishedAt": "2026-01-13T16:40:31.496+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Switzerland)"
+        },
+        {
+          "department": "Operations",
+          "id": "75557a97-acfa-402e-9cac-60da6efd7cbe",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/75557a97-acfa-402e-9cac-60da6efd7cbe",
+          "location": "Sweden",
+          "publishedAt": "2026-01-13T16:40:06.598+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Sweden)"
+        },
+        {
+          "department": "Operations",
+          "id": "b188e1fe-0887-4792-a77e-a7f828614deb",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/b188e1fe-0887-4792-a77e-a7f828614deb",
+          "location": "Spain",
+          "publishedAt": "2026-01-13T16:37:53.584+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Spain)"
+        },
+        {
+          "department": "Operations",
+          "id": "ca82557b-8f95-4705-af1f-aded61c4982c",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/ca82557b-8f95-4705-af1f-aded61c4982c",
+          "location": "Slovenia",
+          "publishedAt": "2026-01-13T16:37:31.252+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Slovenia)"
+        },
+        {
+          "department": "Operations",
+          "id": "66bc4ce3-14ea-420a-abe2-1677452dec11",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/66bc4ce3-14ea-420a-abe2-1677452dec11",
+          "location": "Slovakia",
+          "publishedAt": "2026-01-13T16:37:13.869+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Slovakia)"
+        },
+        {
+          "department": "Operations",
+          "id": "5c754242-c71f-4e43-b595-d1e3c72a366d",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/5c754242-c71f-4e43-b595-d1e3c72a366d",
+          "location": "Serbia",
+          "publishedAt": "2026-01-13T16:36:52.676+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Serbia)"
+        },
+        {
+          "department": "Operations",
+          "id": "a73f7aaa-b210-4645-8bbb-2b5e5a885b54",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/a73f7aaa-b210-4645-8bbb-2b5e5a885b54",
+          "location": "Romania",
+          "publishedAt": "2026-01-13T16:36:25.366+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Romania)"
+        },
+        {
+          "department": "Operations",
+          "id": "40777919-9ddc-4ea0-9e38-7710e1f79337",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/40777919-9ddc-4ea0-9e38-7710e1f79337",
+          "location": "Portugal",
+          "publishedAt": "2026-01-13T16:36:07.273+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Portugal)"
+        },
+        {
+          "department": "Operations",
+          "id": "78dc3725-d7c1-48ab-a548-47dd9fd99004",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/78dc3725-d7c1-48ab-a548-47dd9fd99004",
+          "location": "Poland",
+          "publishedAt": "2026-01-13T16:35:51.305+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Poland)"
+        },
+        {
+          "department": "Operations",
+          "id": "a25daa3c-a685-4375-ae48-c3d229ceeac7",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/a25daa3c-a685-4375-ae48-c3d229ceeac7",
+          "location": "Norway",
+          "publishedAt": "2026-01-13T16:35:28.839+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Norway)"
+        },
+        {
+          "department": "Operations",
+          "id": "67c95276-7f3a-42d8-a956-c16fc9b1d76a",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/67c95276-7f3a-42d8-a956-c16fc9b1d76a",
+          "location": "North Macedonia",
+          "publishedAt": "2026-01-13T16:35:09.631+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - North Macedonia)"
+        },
+        {
+          "department": "Operations",
+          "id": "b7571623-8049-4db0-9ea1-b100becffa9c",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/b7571623-8049-4db0-9ea1-b100becffa9c",
+          "location": "Netherlands",
+          "publishedAt": "2026-01-13T16:33:50.017+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Netherlands)"
+        },
+        {
+          "department": "Operations",
+          "id": "e0bc132e-71d7-442b-b2cc-1262c2a5f263",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/e0bc132e-71d7-442b-b2cc-1262c2a5f263",
+          "location": "Montenegro",
+          "publishedAt": "2026-01-13T16:33:32.037+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Montenegro)"
+        },
+        {
+          "department": "Operations",
+          "id": "b1d319be-2c42-445e-9584-918131bd1258",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/b1d319be-2c42-445e-9584-918131bd1258",
+          "location": "Moldova",
+          "publishedAt": "2026-01-13T16:33:11.246+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Moldova)"
+        },
+        {
+          "department": "Operations",
+          "id": "3fcdf699-085b-4971-a03a-3cb2edfb48b8",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/3fcdf699-085b-4971-a03a-3cb2edfb48b8",
+          "location": "Malta",
+          "publishedAt": "2026-01-13T16:32:49.903+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Malta)"
+        },
+        {
+          "department": "Operations",
+          "id": "6b7eea5c-8ec0-4397-b3fb-1651f5c4b4a4",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/6b7eea5c-8ec0-4397-b3fb-1651f5c4b4a4",
+          "location": "Luxembourg",
+          "publishedAt": "2026-01-13T16:32:31.757+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Luxembourg)"
+        },
+        {
+          "department": "Operations",
+          "id": "31174aaa-481e-4845-939d-a4d57b3e49ef",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/31174aaa-481e-4845-939d-a4d57b3e49ef",
+          "location": "Lithuania",
+          "publishedAt": "2026-01-13T16:32:11.324+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Lithuania)"
+        },
+        {
+          "department": "Operations",
+          "id": "a1eab91b-484f-4594-84ca-475bb546084a",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/a1eab91b-484f-4594-84ca-475bb546084a",
+          "location": "Latvia",
+          "publishedAt": "2026-01-13T16:31:49.737+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Latvia)"
+        },
+        {
+          "department": "Operations",
+          "id": "f8e4e2a6-fd6c-445a-ad0f-14672558e6bf",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/f8e4e2a6-fd6c-445a-ad0f-14672558e6bf",
+          "location": "Italy",
+          "publishedAt": "2026-01-13T16:31:23.849+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Italy)"
+        },
+        {
+          "department": "Operations",
+          "id": "4e2d01c0-da60-4b3f-85dd-772a114931e2",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/4e2d01c0-da60-4b3f-85dd-772a114931e2",
+          "location": "Ireland",
+          "publishedAt": "2026-01-13T16:31:04.808+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Ireland)"
+        },
+        {
+          "department": "Operations",
+          "id": "5cc2912b-6ca4-4b01-a7a0-4faf5a896fba",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/5cc2912b-6ca4-4b01-a7a0-4faf5a896fba",
+          "location": "Hungary",
+          "publishedAt": "2026-01-13T16:30:46.584+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Hungary)"
+        },
+        {
+          "department": "Operations",
+          "id": "6442afeb-7576-4b6e-97b9-0f563738c790",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/6442afeb-7576-4b6e-97b9-0f563738c790",
+          "location": "Greece",
+          "publishedAt": "2026-01-13T16:30:20.465+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Greece)"
+        },
+        {
+          "department": "Operations",
+          "id": "5bd77eb1-c0b9-4e97-b919-0dd4d64e9c06",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/5bd77eb1-c0b9-4e97-b919-0dd4d64e9c06",
+          "location": "Gibraltar",
+          "publishedAt": "2026-01-13T16:30:01.341+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Gibraltar)"
+        },
+        {
+          "department": "Operations",
+          "id": "338bc3e9-9f17-48af-a970-6fab0fc3c556",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/338bc3e9-9f17-48af-a970-6fab0fc3c556",
+          "location": "Germany",
+          "publishedAt": "2026-01-13T16:29:38.995+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Germany)"
+        },
+        {
+          "department": "Operations",
+          "id": "81c42e36-f545-41f5-b0e9-4016b7f3b82d",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/81c42e36-f545-41f5-b0e9-4016b7f3b82d",
+          "location": "Georgia",
+          "publishedAt": "2026-01-13T16:29:20.460+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Georgia)"
+        },
+        {
+          "department": "Operations",
+          "id": "f663401f-99f8-4d0e-b16c-26ff1f461d69",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/f663401f-99f8-4d0e-b16c-26ff1f461d69",
+          "location": "France",
+          "publishedAt": "2026-01-13T16:27:53.299+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - France)"
+        },
+        {
+          "department": "Operations",
+          "id": "11d70d63-d8a3-42af-a89d-dea142422809",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/11d70d63-d8a3-42af-a89d-dea142422809",
+          "location": "Finland",
+          "publishedAt": "2026-01-13T16:27:33.388+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Finland)"
+        },
+        {
+          "department": "Operations",
+          "id": "f103b74c-36db-4617-93b9-a5373020de66",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/f103b74c-36db-4617-93b9-a5373020de66",
+          "location": "Estonia",
+          "publishedAt": "2026-01-13T16:27:05.087+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Estonia)"
+        },
+        {
+          "department": "Operations",
+          "id": "f5aee6e0-8990-4073-a4d8-8d8e08f1d28b",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/f5aee6e0-8990-4073-a4d8-8d8e08f1d28b",
+          "location": "Denmark",
+          "publishedAt": "2026-01-13T16:26:47.808+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Denmark)"
+        },
+        {
+          "department": "Operations",
+          "id": "57fa186e-b1f8-4888-b94f-c2609a64de60",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/57fa186e-b1f8-4888-b94f-c2609a64de60",
+          "location": "Czech Republic",
+          "publishedAt": "2026-01-13T16:26:28.096+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Czech Republic)"
+        },
+        {
+          "department": "Operations",
+          "id": "dfc143f1-a776-4cb4-a8f8-a3ac284be4d2",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/dfc143f1-a776-4cb4-a8f8-a3ac284be4d2",
+          "location": "Cyprus",
+          "publishedAt": "2026-01-13T16:26:04.161+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Cyprus)"
+        },
+        {
+          "department": "Operations",
+          "id": "7c809e47-b95f-4138-8f65-1425addf0fea",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/7c809e47-b95f-4138-8f65-1425addf0fea",
+          "location": "Croatia",
+          "publishedAt": "2026-01-13T16:24:00.433+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Croatia)"
+        },
+        {
+          "department": "Operations",
+          "id": "55df092f-02f0-4a14-99b1-4722d3f20f4d",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/55df092f-02f0-4a14-99b1-4722d3f20f4d",
+          "location": "Bulgaria",
+          "publishedAt": "2026-01-13T16:23:23.628+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Bulgaria)"
+        },
+        {
+          "department": "Operations",
+          "id": "3ded1297-8eac-494b-8b03-2955e602682d",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/3ded1297-8eac-494b-8b03-2955e602682d",
+          "location": "Bosnia and Herzegovina",
+          "publishedAt": "2026-01-13T16:22:54.326+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Bosnia and Herzegovina)"
+        },
+        {
+          "department": "Operations",
+          "id": "b9904b07-6427-4ca3-a40e-3723a520b0a0",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/b9904b07-6427-4ca3-a40e-3723a520b0a0",
+          "location": "Belgium",
+          "publishedAt": "2026-01-13T16:22:20.697+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Belgium)"
+        },
+        {
+          "department": "Operations",
+          "id": "f576f8e5-0182-43d7-9a58-265693c671e2",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/f576f8e5-0182-43d7-9a58-265693c671e2",
+          "location": "Azerbaijan",
+          "publishedAt": "2026-01-13T16:15:00.210+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Azerbaijan)"
+        },
+        {
+          "department": "Operations",
+          "id": "de256829-b467-4bac-8ee4-49e5a6697e11",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/de256829-b467-4bac-8ee4-49e5a6697e11",
+          "location": "Austria",
+          "publishedAt": "2026-01-13T16:12:27.205+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Austria)"
+        },
+        {
+          "department": "Operations",
+          "id": "16669137-43e1-41a0-88f9-2aaa54a616d5",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/16669137-43e1-41a0-88f9-2aaa54a616d5",
+          "location": "Andorra",
+          "publishedAt": "2026-01-13T16:11:55.958+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Andorra)"
+        },
+        {
+          "department": "Operations",
+          "id": "23c0ba80-1ea5-4d58-8cb2-7b8e2fb11061",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/23c0ba80-1ea5-4d58-8cb2-7b8e2fb11061",
+          "location": "Albania",
+          "publishedAt": "2026-01-13T16:08:30.868+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Albania)"
+        },
+        {
+          "department": "Operations",
+          "id": "fd92eff4-b02e-4990-96c9-7431e437c8c3",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/fd92eff4-b02e-4990-96c9-7431e437c8c3",
+          "location": "Turkey",
+          "publishedAt": "2026-01-13T16:08:10.042+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Turkey)"
+        },
+        {
+          "department": "Operations",
+          "id": "1e494cc7-bc70-4fdf-bbf7-d4d56a1ad1a0",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/1e494cc7-bc70-4fdf-bbf7-d4d56a1ad1a0",
+          "location": "Armenia",
+          "publishedAt": "2026-01-13T16:07:49.013+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Armenia)"
+        },
+        {
+          "department": "Operations",
+          "id": "e274af82-4176-434b-b4f2-7241890b1716",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/e274af82-4176-434b-b4f2-7241890b1716",
+          "location": "Europe",
+          "publishedAt": "2026-01-13T16:05:56.200+00:00",
+          "team": "Finance",
+          "title": "Junior Accounts Payable & Finance Operations Specialist (Full Remote - Europe)"
         }
       ]
     },
     {
-      "board": "ashby",
+      "board": "sardine",
       "jobs": [
         {
-          "department": "Sales",
-          "id": "dc344264-ccec-47c1-b4fc-0862633b26ba",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/dc344264-ccec-47c1-b4fc-0862633b26ba",
-          "location": "Remote - Europe",
-          "publishedAt": "2026-01-13T13:23:30.236+00:00",
-          "team": "Sales",
-          "title": "Sales Manager, Mid-Market - EMEA"
+          "department": "Post-Sales ",
+          "id": "030e9a89-d3f9-4021-9b5d-3b2b386beebc",
+          "jobUrl": "https://jobs.ashbyhq.com/sardine/030e9a89-d3f9-4021-9b5d-3b2b386beebc",
+          "location": "UK - Remote",
+          "publishedAt": "2026-01-13T19:35:04.147+00:00",
+          "team": "Data Analytics",
+          "title": "Data Scientist-Post Sales"
         }
       ]
     },
     {
-      "board": "gt-hq",
+      "board": "incard",
       "jobs": [
         {
-          "department": "Quorso",
-          "id": "db233771-5b92-48af-933e-b1504d210ceb",
-          "jobUrl": "https://jobs.ashbyhq.com/gt-hq/db233771-5b92-48af-933e-b1504d210ceb",
-          "location": "Poland - Remote",
-          "publishedAt": "2026-01-13T11:55:47.954+00:00",
-          "team": "Quorso",
-          "title": "Senior Manual QA Engineer | Quorso, UK"
+          "department": "Marketing & Growth",
+          "id": "1405bfcc-16bc-49fb-8f10-66141f8935a1",
+          "jobUrl": "https://jobs.ashbyhq.com/incard/1405bfcc-16bc-49fb-8f10-66141f8935a1",
+          "location": "London",
+          "publishedAt": "2026-01-13T16:35:46.014+00:00",
+          "team": "Marketing & Growth",
+          "title": "Head of Growth & Performance Marketing"
+        },
+        {
+          "department": "Marketing & Growth",
+          "id": "f02689f9-8b93-486a-ab38-386583bf5ed2",
+          "jobUrl": "https://jobs.ashbyhq.com/incard/f02689f9-8b93-486a-ab38-386583bf5ed2",
+          "location": "Paris",
+          "publishedAt": "2026-01-13T16:34:54.938+00:00",
+          "team": "Marketing & Growth",
+          "title": "Head of Growth & Performance Marketing"
         }
       ]
     }
