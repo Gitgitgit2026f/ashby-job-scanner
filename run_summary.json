@@ -3,19 +3,84 @@
   "firstRun": false,
   "new": [
     {
-      "board": "n8n",
+      "board": "ashby",
       "jobs": [
         {
-          "department": "Sales",
-          "id": "8187beff-f8ff-4de9-82c2-66a5336c328f",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/8187beff-f8ff-4de9-82c2-66a5336c328f",
-          "location": "Berlin Office",
-          "publishedAt": "2025-12-30T15:04:11.465+00:00",
-          "team": "Sales",
-          "title": "Head of Agency Partnerships (Remote Europe)"
+          "department": "Customer Success",
+          "id": "b64e1498-04ae-4747-8930-a42d4ce6c047",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/b64e1498-04ae-4747-8930-a42d4ce6c047",
+          "location": "Remote - North to South America",
+          "publishedAt": "2026-01-14T20:58:26.038+00:00",
+          "team": "Customer Support",
+          "title": "Product Support Specialist - Americas"
+        }
+      ]
+    },
+    {
+      "board": "dourolabs.xyz",
+      "jobs": [
+        {
+          "department": "⚙️ Operations",
+          "id": "6d599526-77b5-449d-8d2b-641d374344a8",
+          "jobUrl": "https://jobs.ashbyhq.com/dourolabs.xyz/6d599526-77b5-449d-8d2b-641d374344a8",
+          "location": "Worldwide - Remote",
+          "publishedAt": "2026-01-14T15:26:56.317+00:00",
+          "team": "⚙️ Operations",
+          "title": "HR Business Partner"
+        }
+      ]
+    },
+    {
+      "board": "substack",
+      "jobs": [
+        {
+          "department": "Partnerships",
+          "id": "417ef638-74c1-4a22-919d-61489f6c7948",
+          "jobUrl": "https://jobs.ashbyhq.com/substack/417ef638-74c1-4a22-919d-61489f6c7948",
+          "location": "San Francisco (HQ)",
+          "publishedAt": "2026-01-14T20:58:23.750+00:00",
+          "team": "Communications",
+          "title": "Deputy Editor"
+        }
+      ]
+    },
+    {
+      "board": "dash0",
+      "jobs": [
+        {
+          "department": "G&A",
+          "id": "9eb5b1aa-a0ec-4535-8700-2250e79ddcd8",
+          "jobUrl": "https://jobs.ashbyhq.com/dash0/9eb5b1aa-a0ec-4535-8700-2250e79ddcd8",
+          "location": "EMEA - Remote",
+          "publishedAt": "2026-01-14T16:12:20.620+00:00",
+          "team": "People",
+          "title": "(Senior) Talent Acquisition Partner"
+        }
+      ]
+    },
+    {
+      "board": "incard",
+      "jobs": [
+        {
+          "department": "Marketing & Growth",
+          "id": "64c08b1d-59df-42b2-ae67-5a24cee82ba6",
+          "jobUrl": "https://jobs.ashbyhq.com/incard/64c08b1d-59df-42b2-ae67-5a24cee82ba6",
+          "location": "London",
+          "publishedAt": "2026-01-14T17:54:12.537+00:00",
+          "team": "Marketing & Growth",
+          "title": "Senior Copywriter"
+        },
+        {
+          "department": "Product",
+          "id": "460cb0b7-9641-48f1-8fb5-e2d1281e2f62",
+          "jobUrl": "https://jobs.ashbyhq.com/incard/460cb0b7-9641-48f1-8fb5-e2d1281e2f62",
+          "location": "London",
+          "publishedAt": "2026-01-14T17:50:41.396+00:00",
+          "team": "Product",
+          "title": "Product Content Lead"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-01-14T14:55:39.142777+00:00"
+  "scannedAtUtc": "2026-01-15T07:00:54.875589+00:00"
 }
