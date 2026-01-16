@@ -3,30 +3,58 @@
   "firstRun": false,
   "new": [
     {
-      "board": "dourolabs.xyz",
+      "board": "ashby",
       "jobs": [
         {
-          "department": "⚙️ Operations",
-          "id": "f80534e7-2049-43e1-93fc-720cf2678ce7",
-          "jobUrl": "https://jobs.ashbyhq.com/dourolabs.xyz/f80534e7-2049-43e1-93fc-720cf2678ce7",
-          "location": "Worldwide - Remote",
-          "publishedAt": "2026-01-15T14:08:50.899+00:00",
-          "team": "⚙️ Operations",
-          "title": "Finance Manager"
+          "department": "Customer Success",
+          "id": "51061458-3a38-4bea-84f4-7ea0ac3e417f",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/51061458-3a38-4bea-84f4-7ea0ac3e417f",
+          "location": "Remote - Europe",
+          "publishedAt": "2026-01-15T20:47:45.544+00:00",
+          "team": "Customer Support",
+          "title": "Product Support Specialist - EMEA"
         }
       ]
     },
     {
-      "board": "cradlebio",
+      "board": "sardine",
       "jobs": [
         {
-          "department": "Biology",
-          "id": "d6d7e52f-71de-4c6e-be39-da715652b3e2",
-          "jobUrl": "https://jobs.ashbyhq.com/cradlebio/d6d7e52f-71de-4c6e-be39-da715652b3e2",
-          "location": "Amsterdam",
-          "publishedAt": "2026-01-15T12:48:54.655+00:00",
-          "team": "Biology",
-          "title": "Research Associate Biology, High Throughput Experimentation (f/*/m)"
+          "department": "Revenue Operations",
+          "id": "4533b94e-2819-4787-82cf-dfbac19e8b7a",
+          "jobUrl": "https://jobs.ashbyhq.com/sardine/4533b94e-2819-4787-82cf-dfbac19e8b7a",
+          "location": "North America - Remote",
+          "publishedAt": "2026-01-15T21:35:56.034+00:00",
+          "team": "Revenue Operations",
+          "title": "Deal Desk Manager"
+        }
+      ]
+    },
+    {
+      "board": "substack",
+      "jobs": [
+        {
+          "department": "Partnerships",
+          "id": "00ec952b-3241-4571-b801-b502fff26ce0",
+          "jobUrl": "https://jobs.ashbyhq.com/substack/00ec952b-3241-4571-b801-b502fff26ce0",
+          "location": "New York",
+          "publishedAt": "2026-01-15T17:25:03.167+00:00",
+          "team": "Communications",
+          "title": "Events Lead"
+        }
+      ]
+    },
+    {
+      "board": "1password",
+      "jobs": [
+        {
+          "department": "GTM",
+          "id": "42d46688-3661-45c1-a195-8627b809c59b",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/42d46688-3661-45c1-a195-8627b809c59b",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-01-15T16:29:40.787+00:00",
+          "team": "Customer Success",
+          "title": "Solutions Engineer, Commercial"
         }
       ]
     },
@@ -34,16 +62,25 @@
       "board": "poolside",
       "jobs": [
         {
-          "department": "G&A",
-          "id": "7aa52fce-3e14-4e66-95ca-9bc829436ab8",
-          "jobUrl": "https://jobs.ashbyhq.com/poolside/7aa52fce-3e14-4e66-95ca-9bc829436ab8",
-          "location": "Remote (EMEA)",
-          "publishedAt": "2026-01-15T13:27:54.507+00:00",
-          "team": "People",
-          "title": "People Operations Specialist"
+          "department": "Data Center",
+          "id": "6ab1b9cc-a89e-479c-8943-291f20dac785",
+          "jobUrl": "https://jobs.ashbyhq.com/poolside/6ab1b9cc-a89e-479c-8943-291f20dac785",
+          "location": "Fort Stockton, Texas",
+          "publishedAt": "2026-01-15T20:52:36.317+00:00",
+          "team": "Data Center",
+          "title": "Chief Electrical Engineer"
+        },
+        {
+          "department": "Data Center",
+          "id": "4b00b721-7b1a-473b-85b2-17f24cc4891c",
+          "jobUrl": "https://jobs.ashbyhq.com/poolside/4b00b721-7b1a-473b-85b2-17f24cc4891c",
+          "location": "Fort Stockton, Texas",
+          "publishedAt": "2026-01-15T20:31:10.652+00:00",
+          "team": "Data Center",
+          "title": "Facilities Manager"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-01-15T14:53:42.544271+00:00"
+  "scannedAtUtc": "2026-01-16T07:00:25.038100+00:00"
 }
