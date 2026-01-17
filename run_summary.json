@@ -3,34 +3,16 @@
   "firstRun": false,
   "new": [
     {
-      "board": "n8n",
+      "board": "ashby",
       "jobs": [
         {
-          "department": "Sales",
-          "id": "3f93e345-e648-4db5-9f1a-e88e79f38964",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/3f93e345-e648-4db5-9f1a-e88e79f38964",
-          "location": "New York",
-          "publishedAt": "2026-01-16T14:39:29.089+00:00",
-          "team": "Account Executives",
-          "title": "Mid-Market Account Executive (Hybrid NYC/Boston)"
-        },
-        {
-          "department": "Engineering",
-          "id": "a79aa548-6381-4c08-a4e4-f024435f9db9",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/a79aa548-6381-4c08-a4e4-f024435f9db9",
-          "location": "Berlin Office",
-          "publishedAt": "2026-01-16T13:32:28.216+00:00",
-          "team": "Nodes",
-          "title": "Senior Product Engineer | TS/NodeJS/Vue | Europe Remote"
-        },
-        {
-          "department": "Marketing",
-          "id": "a8aea5b5-bde5-491e-adc0-affde5b3af3d",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/a8aea5b5-bde5-491e-adc0-affde5b3af3d",
-          "location": "New York",
-          "publishedAt": "2026-01-16T11:58:34.856+00:00",
-          "team": "Marketing",
-          "title": "Head of DevRel (Remote East Coast)"
+          "department": "Customer Success",
+          "id": "033ce772-ed08-4a59-bb52-4ff0eaac9bcd",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/033ce772-ed08-4a59-bb52-4ff0eaac9bcd",
+          "location": "Singapore",
+          "publishedAt": "2026-01-15T21:05:51.728+00:00",
+          "team": "Customer Support",
+          "title": "Product Support Specialist - APAC"
         }
       ]
     },
@@ -38,30 +20,76 @@
       "board": "cradlebio",
       "jobs": [
         {
-          "department": "Customer Success",
-          "id": "c4c51260-a885-42c5-9946-f2fd562dfac8",
-          "jobUrl": "https://jobs.ashbyhq.com/cradlebio/c4c51260-a885-42c5-9946-f2fd562dfac8",
-          "location": "Zürich",
-          "publishedAt": "2026-01-16T14:21:28.401+00:00",
-          "team": "Customer Success",
-          "title": "Scientific Consultant, Computational Protein Design"
+          "department": "Marketing",
+          "id": "960201b5-5546-45e4-982c-14dae54c0d73",
+          "jobUrl": "https://jobs.ashbyhq.com/cradlebio/960201b5-5546-45e4-982c-14dae54c0d73",
+          "location": "Amsterdam",
+          "publishedAt": "2026-01-16T15:44:59.795+00:00",
+          "team": "Marketing",
+          "title": "Senior Editor"
         }
       ]
     },
     {
-      "board": "1password",
+      "board": "sardine",
       "jobs": [
         {
-          "department": "Marketing",
-          "id": "ef1f2c68-3f6c-498e-ad06-6803ada49548",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/ef1f2c68-3f6c-498e-ad06-6803ada49548",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-01-16T14:49:04.894+00:00",
-          "team": "Growth Marketing",
-          "title": "Director of Strategic Partnerships, Consumer Growth"
+          "department": "Product",
+          "id": "4934e3e3-406c-40bb-b0a4-b5e79ffbb512",
+          "jobUrl": "https://jobs.ashbyhq.com/sardine/4934e3e3-406c-40bb-b0a4-b5e79ffbb512",
+          "location": "North America - Remote",
+          "publishedAt": "2026-01-17T00:25:33.730+00:00",
+          "team": "Product",
+          "title": "Product Manager - Bot Detection"
+        },
+        {
+          "department": "Security and IT",
+          "id": "c626ba41-22aa-475e-8607-96be7b77b6e4",
+          "jobUrl": "https://jobs.ashbyhq.com/sardine/c626ba41-22aa-475e-8607-96be7b77b6e4",
+          "location": "United States - Remote",
+          "publishedAt": "2026-01-16T20:19:40.410+00:00",
+          "team": "Security and IT",
+          "title": "IT Operations Lead"
+        }
+      ]
+    },
+    {
+      "board": "chronospherejobs",
+      "jobs": [
+        {
+          "department": "Engineering",
+          "id": "6333f9c1-04d9-499f-92db-ee3e8eeb8837",
+          "jobUrl": "https://jobs.ashbyhq.com/chronospherejobs/6333f9c1-04d9-499f-92db-ee3e8eeb8837",
+          "location": "US - Remote",
+          "publishedAt": "2026-01-16T23:43:34.965+00:00",
+          "team": "Engineering",
+          "title": "Member of Technical Staff - Control"
+        }
+      ]
+    },
+    {
+      "board": "poolside",
+      "jobs": [
+        {
+          "department": "Data Center",
+          "id": "0ef67f44-5b51-4807-aa0e-1b758fa2133d",
+          "jobUrl": "https://jobs.ashbyhq.com/poolside/0ef67f44-5b51-4807-aa0e-1b758fa2133d",
+          "location": "Fort Stockton, Texas",
+          "publishedAt": "2026-01-16T21:25:25.297+00:00",
+          "team": "Data Center",
+          "title": "Chief Controls Engineer"
+        },
+        {
+          "department": "Data Center",
+          "id": "6625ff6b-ed8b-41da-a4a8-41c716648fe7",
+          "jobUrl": "https://jobs.ashbyhq.com/poolside/6625ff6b-ed8b-41da-a4a8-41c716648fe7",
+          "location": "Fort Stockton, Texas",
+          "publishedAt": "2026-01-16T21:22:43.303+00:00",
+          "team": "Data Center",
+          "title": "Chief Mechanical Engineer"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-01-16T14:52:34.000558+00:00"
+  "scannedAtUtc": "2026-01-17T06:55:23.145247+00:00"
 }
