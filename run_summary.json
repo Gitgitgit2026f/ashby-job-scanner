@@ -6,16 +6,44 @@
       "board": "n8n",
       "jobs": [
         {
-          "department": "Engineering",
-          "id": "49e569f0-503e-4e42-a1ba-7e63684e90d3",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/49e569f0-503e-4e42-a1ba-7e63684e90d3",
-          "location": "Berlin Office",
-          "publishedAt": "2026-01-18T15:20:06.374+00:00",
-          "team": "Security",
-          "title": "Sr Product Security Engineer "
+          "department": "Operations",
+          "id": "9e2cb7bd-051a-4360-aef8-d455ac962cac",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/9e2cb7bd-051a-4360-aef8-d455ac962cac",
+          "location": "London Office",
+          "publishedAt": "2026-01-19T12:17:56.192+00:00",
+          "team": "People",
+          "title": "Senior Talent Acquisition Partner, GTM (Remote, Europe, 1 year FTC)"
+        }
+      ]
+    },
+    {
+      "board": "nango",
+      "jobs": [
+        {
+          "department": "Nango",
+          "id": "08ae6672-9ba6-41b7-8503-0585aad2c588",
+          "jobUrl": "https://jobs.ashbyhq.com/nango/08ae6672-9ba6-41b7-8503-0585aad2c588",
+          "location": "USA",
+          "publishedAt": "2026-01-19T13:24:30.350+00:00",
+          "team": "Nango",
+          "title": "Senior Solutions Engineer (Remote, USA)"
+        }
+      ]
+    },
+    {
+      "board": "gt-hq",
+      "jobs": [
+        {
+          "department": "Big Blue Swim School",
+          "id": "095db61f-7769-4eca-a960-6dfcf611b8cf",
+          "jobUrl": "https://jobs.ashbyhq.com/gt-hq/095db61f-7769-4eca-a960-6dfcf611b8cf",
+          "location": "Europe - Remote",
+          "publishedAt": "2026-01-19T09:31:48.701+00:00",
+          "team": "Big Blue Swim School",
+          "title": "Full Stack Developer (Vue+Node.js) | Big Blue Swim School"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-01-19T07:19:33.803469+00:00"
+  "scannedAtUtc": "2026-01-19T14:57:14.260287+00:00"
 }

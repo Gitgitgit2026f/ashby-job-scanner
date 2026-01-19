@@ -62,7 +62,7 @@
   "_meta": {
     "boardsCount": 27,
     "errorsCount": 0,
-    "updatedAtUtc": "2026-01-19T07:19:33.803469+00:00"
+    "updatedAtUtc": "2026-01-19T14:57:14.260287+00:00"
   },
   "airtable": [],
   "ashby": [
@@ -117,7 +117,6 @@
     "d46e79d4-43fd-477f-aa06-25b604715223",
     "d573471b-2005-482c-9fbf-d1df9550cb57",
     "dc344264-ccec-47c1-b4fc-0862633b26ba",
-    "f15965ad-e40f-4f12-8d09-587bcec5adf1",
     "f19ebe65-f31e-4547-864e-0ae523c05afc",
     "f40ef345-82a8-4956-9150-193b4fdf8183",
     "f690c542-2d2e-46f1-ba8c-42ffa95e8a20",
@@ -159,7 +158,6 @@
     "0d0007c7-b154-4372-8b40-77639425999c",
     "3f2603a2-0afa-45e8-9d06-e9447fd18342",
     "6e08abe6-6651-4124-bc0d-85c8a79af411",
-    "78815e67-30e3-44f5-a578-10ed0876a1ca",
     "c65ccff8-5a04-45c4-bb19-8537e9fc5a35",
     "ff5d1f66-81e5-4bba-bcd8-56849516817f"
   ],
@@ -495,11 +493,11 @@
   ],
   "gt-hq": [
     "02d45583-5424-4b7b-b431-4131b7cc9654",
+    "095db61f-7769-4eca-a960-6dfcf611b8cf",
     "1a9583ea-b213-4765-b8d7-cd8e8bbeda3a",
     "2b9b42d6-3ac8-4dfb-a1b7-02e7cff077fb",
     "2d13ed3d-65a9-42fc-a191-b6d47a4c35a5",
     "2dca0201-acad-494f-9c52-70dfce2d5b0a",
-    "74f2bab4-3eaf-4afc-b367-f9aa8baa6666",
     "89dd0a95-7c37-4568-a4da-6de8a529f787",
     "8ffa5000-62d9-4a9c-ab46-9d479ccae659",
     "aacd60ba-f6fe-48fb-9af0-d075bd88aa43",
@@ -573,6 +571,7 @@
     "8187beff-f8ff-4de9-82c2-66a5336c328f",
     "8c73b755-9089-404b-8653-8ab292624944",
     "9abdec0d-3e64-4902-be58-1e232442e2c8",
+    "9e2cb7bd-051a-4360-aef8-d455ac962cac",
     "a259b31d-3df5-4bc0-9feb-865e85016fba",
     "a79aa548-6381-4c08-a4e4-f024435f9db9",
     "a8aea5b5-bde5-491e-adc0-affde5b3af3d",
@@ -590,20 +589,9 @@
     "ffafc55a-6fcc-4dfb-aef2-7979391d3ffb"
   ],
   "nango": [
+    "08ae6672-9ba6-41b7-8503-0585aad2c588",
     "3467f495-c833-4dcc-b119-cf43b7b93f84",
-    "35c99053-7425-4366-9dc2-102c1f2170d0",
-    "4f0ab5c4-4bfe-4f3c-aa58-bca8fdd8c3ca",
-    "5daa4859-7fa8-4a2e-a181-aac1b3428b9f",
-    "605b8a1e-3c2c-456e-8316-dbc5c08d631f",
-    "64f22bfc-1448-4786-a965-2645c1af83ba",
-    "6ec9116a-ecc4-4768-a3ca-fa38b32d854b",
-    "6ee99ad3-b5a1-4593-9950-55526bf998d5",
-    "8d02eb2e-bc47-4a5d-bd1d-724acef3f304",
-    "8f6da27a-07e1-4071-8310-0a4f432e34ea",
-    "93147663-b70c-4966-82b9-39a33f9927aa",
-    "93bf67d4-be66-4307-801f-79b905130f70",
-    "b8c49904-c300-4b0f-ab06-661fafc6e508",
-    "bc377d10-7ffc-4714-b756-7c0b6995ac3f"
+    "8f6da27a-07e1-4071-8310-0a4f432e34ea"
   ],
   "oh": [
     "3f593f3c-65cc-4323-964f-5db0968e189c",
