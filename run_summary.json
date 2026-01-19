@@ -1,6 +1,21 @@
 {
   "errors": [],
   "firstRun": false,
-  "new": [],
-  "scannedAtUtc": "2026-01-18T14:38:05.339621+00:00"
+  "new": [
+    {
+      "board": "n8n",
+      "jobs": [
+        {
+          "department": "Engineering",
+          "id": "49e569f0-503e-4e42-a1ba-7e63684e90d3",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/49e569f0-503e-4e42-a1ba-7e63684e90d3",
+          "location": "Berlin Office",
+          "publishedAt": "2026-01-18T15:20:06.374+00:00",
+          "team": "Security",
+          "title": "Sr Product Security Engineer "
+        }
+      ]
+    }
+  ],
+  "scannedAtUtc": "2026-01-19T07:19:33.803469+00:00"
 }

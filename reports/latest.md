@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-01-18T14:38:05.339621+00:00
+- **Scanned at (UTC):** 2026-01-19T07:19:33.803469+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 0
+- **New jobs found:** 1
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -10,7 +10,7 @@
 
 | Board | New jobs |
 |---|---:|
-| n8n | 0 |
+| n8n | 1 |
 | reedsy | 0 |
 | mazehq | 0 |
 | supabase | 0 |
@@ -40,5 +40,7 @@
 
 ## New jobs
 
-_No new jobs found._
+### n8n
+
+- [Sr Product Security Engineer](https://jobs.ashbyhq.com/n8n/49e569f0-503e-4e42-a1ba-7e63684e90d3) — Berlin Office — 2026-01-18T15:20:06.374+00:00
 
