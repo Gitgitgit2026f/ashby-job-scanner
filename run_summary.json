@@ -3,47 +3,33 @@
   "firstRun": false,
   "new": [
     {
-      "board": "n8n",
-      "jobs": [
-        {
-          "department": "Operations",
-          "id": "9e2cb7bd-051a-4360-aef8-d455ac962cac",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/9e2cb7bd-051a-4360-aef8-d455ac962cac",
-          "location": "London Office",
-          "publishedAt": "2026-01-19T12:17:56.192+00:00",
-          "team": "People",
-          "title": "Senior Talent Acquisition Partner, GTM (Remote, Europe, 1 year FTC)"
-        }
-      ]
-    },
-    {
       "board": "nango",
       "jobs": [
         {
           "department": "Nango",
-          "id": "08ae6672-9ba6-41b7-8503-0585aad2c588",
-          "jobUrl": "https://jobs.ashbyhq.com/nango/08ae6672-9ba6-41b7-8503-0585aad2c588",
+          "id": "0fd15188-123b-4afe-9f5b-52eaa5be63c3",
+          "jobUrl": "https://jobs.ashbyhq.com/nango/0fd15188-123b-4afe-9f5b-52eaa5be63c3",
           "location": "USA",
-          "publishedAt": "2026-01-19T13:24:30.350+00:00",
+          "publishedAt": "2026-01-19T15:16:01.576+00:00",
           "team": "Nango",
-          "title": "Senior Solutions Engineer (Remote, USA)"
+          "title": "Chief of Staff (Remote, USA East Coast)"
         }
       ]
     },
     {
-      "board": "gt-hq",
+      "board": "axelera",
       "jobs": [
         {
-          "department": "Big Blue Swim School",
-          "id": "095db61f-7769-4eca-a960-6dfcf611b8cf",
-          "jobUrl": "https://jobs.ashbyhq.com/gt-hq/095db61f-7769-4eca-a960-6dfcf611b8cf",
-          "location": "Europe - Remote",
-          "publishedAt": "2026-01-19T09:31:48.701+00:00",
-          "team": "Big Blue Swim School",
-          "title": "Full Stack Developer (Vue+Node.js) | Big Blue Swim School"
+          "department": "AI Software",
+          "id": "16912369-6253-450d-a140-8900fa70e5bf",
+          "jobUrl": "https://jobs.ashbyhq.com/axelera/16912369-6253-450d-a140-8900fa70e5bf",
+          "location": "Hybrid/Remote - Europe (incl. UK)",
+          "publishedAt": "2026-01-19T15:07:51.628+00:00",
+          "team": "AI Application Engineering",
+          "title": "Senior/Staff Applications Engineer - Embedded AI"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-01-19T14:57:14.260287+00:00"
+  "scannedAtUtc": "2026-01-20T07:04:18.888641+00:00"
 }

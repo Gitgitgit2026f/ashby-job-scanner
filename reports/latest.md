@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-01-19T14:57:14.260287+00:00
+- **Scanned at (UTC):** 2026-01-20T07:04:18.888641+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 3
+- **New jobs found:** 2
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -10,15 +10,15 @@
 
 | Board | New jobs |
 |---|---:|
-| n8n | 1 |
+| n8n | 0 |
 | reedsy | 0 |
 | mazehq | 0 |
 | supabase | 0 |
 | nango | 1 |
-| axelera | 0 |
+| axelera | 1 |
 | ashby | 0 |
 | cargo-one | 0 |
-| gt-hq | 1 |
+| gt-hq | 0 |
 | dourolabs.xyz | 0 |
 | everai | 0 |
 | toogeza | 0 |
@@ -40,15 +40,11 @@
 
 ## New jobs
 
-### n8n
-
-- [Senior Talent Acquisition Partner, GTM (Remote, Europe, 1 year FTC)](https://jobs.ashbyhq.com/n8n/9e2cb7bd-051a-4360-aef8-d455ac962cac) — London Office — 2026-01-19T12:17:56.192+00:00
-
 ### nango
 
-- [Senior Solutions Engineer (Remote, USA)](https://jobs.ashbyhq.com/nango/08ae6672-9ba6-41b7-8503-0585aad2c588) — USA — 2026-01-19T13:24:30.350+00:00
+- [Chief of Staff (Remote, USA East Coast)](https://jobs.ashbyhq.com/nango/0fd15188-123b-4afe-9f5b-52eaa5be63c3) — USA — 2026-01-19T15:16:01.576+00:00
 
-### gt-hq
+### axelera
 
-- [Full Stack Developer (Vue+Node.js) | Big Blue Swim School](https://jobs.ashbyhq.com/gt-hq/095db61f-7769-4eca-a960-6dfcf611b8cf) — Europe - Remote — 2026-01-19T09:31:48.701+00:00
+- [Senior/Staff Applications Engineer - Embedded AI](https://jobs.ashbyhq.com/axelera/16912369-6253-450d-a140-8900fa70e5bf) — Hybrid/Remote - Europe (incl. UK) — 2026-01-19T15:07:51.628+00:00
 
