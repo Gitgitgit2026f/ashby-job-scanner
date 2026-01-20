@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-01-20T07:04:18.888641+00:00
+- **Scanned at (UTC):** 2026-01-20T15:01:25.325720+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 2
+- **New jobs found:** 0
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -14,8 +14,8 @@
 | reedsy | 0 |
 | mazehq | 0 |
 | supabase | 0 |
-| nango | 1 |
-| axelera | 1 |
+| nango | 0 |
+| axelera | 0 |
 | ashby | 0 |
 | cargo-one | 0 |
 | gt-hq | 0 |
@@ -40,11 +40,5 @@
 
 ## New jobs
 
-### nango
-
-- [Chief of Staff (Remote, USA East Coast)](https://jobs.ashbyhq.com/nango/0fd15188-123b-4afe-9f5b-52eaa5be63c3) — USA — 2026-01-19T15:16:01.576+00:00
-
-### axelera
-
-- [Senior/Staff Applications Engineer - Embedded AI](https://jobs.ashbyhq.com/axelera/16912369-6253-450d-a140-8900fa70e5bf) — Hybrid/Remote - Europe (incl. UK) — 2026-01-19T15:07:51.628+00:00
+_No new jobs found._
 
