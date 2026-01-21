@@ -3,56 +3,28 @@
   "firstRun": false,
   "new": [
     {
-      "board": "ashby",
+      "board": "nango",
       "jobs": [
         {
-          "department": "Sales",
-          "id": "7c027f9c-f371-4bc1-85e9-72f530f4e681",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/7c027f9c-f371-4bc1-85e9-72f530f4e681",
-          "location": "Remote - North America",
-          "publishedAt": "2026-01-20T23:00:09.721+00:00",
-          "team": "Sales",
-          "title": "Sales Manager, Mid-Market - Americas (Central)"
-        }
-      ]
-    },
-    {
-      "board": "substack",
-      "jobs": [
-        {
-          "department": "Engineering",
-          "id": "9fcedb9d-8cf3-498e-a22f-acbfa39ebbb1",
-          "jobUrl": "https://jobs.ashbyhq.com/substack/9fcedb9d-8cf3-498e-a22f-acbfa39ebbb1",
-          "location": "San Francisco (HQ)",
-          "publishedAt": "2026-01-20T19:44:25.892+00:00",
-          "team": "Engineering",
-          "title": "iOS Engineer - Community"
-        }
-      ]
-    },
-    {
-      "board": "1password",
-      "jobs": [
-        {
-          "department": "Technology",
-          "id": "a99cb00d-c71f-4b3a-99fe-071ded4ba3b7",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/a99cb00d-c71f-4b3a-99fe-071ded4ba3b7",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-01-20T22:50:01.185+00:00",
-          "team": "Product Engineering 1",
-          "title": "Senior Developer, Rails"
+          "department": "Nango",
+          "id": "ffa156d2-ef0a-41e8-b4f1-86b1a3f16a57",
+          "jobUrl": "https://jobs.ashbyhq.com/nango/ffa156d2-ef0a-41e8-b4f1-86b1a3f16a57",
+          "location": "USA",
+          "publishedAt": "2026-01-21T09:48:50.879+00:00",
+          "team": "Nango",
+          "title": "Growth Engineer (Remote, USA)"
         },
         {
-          "department": "Customer Experience",
-          "id": "72f6be80-b72e-466c-b4ea-a96d7f2d04a2",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/72f6be80-b72e-466c-b4ea-a96d7f2d04a2",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-01-20T21:32:29.973+00:00",
-          "team": "CX Community",
-          "title": "Insights Manager, Voice of Customer"
+          "department": "Nango",
+          "id": "bb8bdfe3-82b7-4783-99d9-a6b9741efdca",
+          "jobUrl": "https://jobs.ashbyhq.com/nango/bb8bdfe3-82b7-4783-99d9-a6b9741efdca",
+          "location": "USA",
+          "publishedAt": "2026-01-21T09:48:01.096+00:00",
+          "team": "Nango",
+          "title": "Staff Backend Engineer (Remote, Americas & Europe)"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-01-21T07:05:05.538740+00:00"
+  "scannedAtUtc": "2026-01-21T15:01:04.449864+00:00"
 }

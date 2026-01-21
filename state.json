@@ -64,7 +64,7 @@
   "_meta": {
     "boardsCount": 27,
     "errorsCount": 0,
-    "updatedAtUtc": "2026-01-21T07:05:05.538740+00:00"
+    "updatedAtUtc": "2026-01-21T15:01:04.449864+00:00"
   },
   "airtable": [],
   "ashby": [
@@ -157,11 +157,9 @@
   ],
   "cargo-one": [
     "073f8baf-f2ba-48b2-a9fd-68543269fbd7",
-    "0d0007c7-b154-4372-8b40-77639425999c",
     "3f2603a2-0afa-45e8-9d06-e9447fd18342",
     "6e08abe6-6651-4124-bc0d-85c8a79af411",
-    "c65ccff8-5a04-45c4-bb19-8537e9fc5a35",
-    "ff5d1f66-81e5-4bba-bcd8-56849516817f"
+    "c65ccff8-5a04-45c4-bb19-8537e9fc5a35"
   ],
   "chronospherejobs": [
     "033c01e4-f4d5-45c1-8998-4ac970690ab3",
@@ -499,7 +497,6 @@
     "1a9583ea-b213-4765-b8d7-cd8e8bbeda3a",
     "2b9b42d6-3ac8-4dfb-a1b7-02e7cff077fb",
     "2d13ed3d-65a9-42fc-a191-b6d47a4c35a5",
-    "2dca0201-acad-494f-9c52-70dfce2d5b0a",
     "89dd0a95-7c37-4568-a4da-6de8a529f787",
     "8ffa5000-62d9-4a9c-ab46-9d479ccae659",
     "aacd60ba-f6fe-48fb-9af0-d075bd88aa43",
@@ -592,8 +589,9 @@
   "nango": [
     "08ae6672-9ba6-41b7-8503-0585aad2c588",
     "0fd15188-123b-4afe-9f5b-52eaa5be63c3",
-    "3467f495-c833-4dcc-b119-cf43b7b93f84",
-    "8f6da27a-07e1-4071-8310-0a4f432e34ea"
+    "8f6da27a-07e1-4071-8310-0a4f432e34ea",
+    "bb8bdfe3-82b7-4783-99d9-a6b9741efdca",
+    "ffa156d2-ef0a-41e8-b4f1-86b1a3f16a57"
   ],
   "oh": [
     "3f593f3c-65cc-4323-964f-5db0968e189c",
@@ -613,7 +611,6 @@
     "6625ff6b-ed8b-41da-a4a8-41c716648fe7",
     "6659a321-9780-4f5a-bfa7-b285e0b56c62",
     "6ab1b9cc-a89e-479c-8943-291f20dac785",
-    "79a8969e-30e9-4b89-b7cd-22b051d76580",
     "7aa52fce-3e14-4e66-95ca-9bc829436ab8",
     "7f52749a-92c3-4427-8e51-7fffd0e41b6d",
     "819757ab-8e03-4c7b-8fed-be7451372cb4",
