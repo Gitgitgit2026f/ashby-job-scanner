@@ -3,28 +3,47 @@
   "firstRun": false,
   "new": [
     {
-      "board": "nango",
+      "board": "n8n",
       "jobs": [
         {
-          "department": "Nango",
-          "id": "ffa156d2-ef0a-41e8-b4f1-86b1a3f16a57",
-          "jobUrl": "https://jobs.ashbyhq.com/nango/ffa156d2-ef0a-41e8-b4f1-86b1a3f16a57",
-          "location": "USA",
-          "publishedAt": "2026-01-21T09:48:50.879+00:00",
-          "team": "Nango",
-          "title": "Growth Engineer (Remote, USA)"
-        },
+          "department": "Operations",
+          "id": "da0d3b3a-71d9-460e-856d-0d5a52c07dc6",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/da0d3b3a-71d9-460e-856d-0d5a52c07dc6",
+          "location": "Berlin Office",
+          "publishedAt": "2026-01-21T16:58:51.604+00:00",
+          "team": "Revenue Operations",
+          "title": "Sr Customer Data Analyst | Remote | Europe"
+        }
+      ]
+    },
+    {
+      "board": "substack",
+      "jobs": [
         {
-          "department": "Nango",
-          "id": "bb8bdfe3-82b7-4783-99d9-a6b9741efdca",
-          "jobUrl": "https://jobs.ashbyhq.com/nango/bb8bdfe3-82b7-4783-99d9-a6b9741efdca",
-          "location": "USA",
-          "publishedAt": "2026-01-21T09:48:01.096+00:00",
-          "team": "Nango",
-          "title": "Staff Backend Engineer (Remote, Americas & Europe)"
+          "department": "Engineering",
+          "id": "110ac422-58fb-461f-b249-9072eff43f3a",
+          "jobUrl": "https://jobs.ashbyhq.com/substack/110ac422-58fb-461f-b249-9072eff43f3a",
+          "location": "San Francisco (HQ)",
+          "publishedAt": "2026-01-21T18:40:58.373+00:00",
+          "team": "Engineering",
+          "title": "Full Stack Web Engineer - Growth"
+        }
+      ]
+    },
+    {
+      "board": "1password",
+      "jobs": [
+        {
+          "department": "Technology",
+          "id": "3478e762-e816-4404-978d-3209ba018a18",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/3478e762-e816-4404-978d-3209ba018a18",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-01-21T21:36:02.670+00:00",
+          "team": "Engineering Operations",
+          "title": "Senior Executive Assistant, CTO"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-01-21T15:01:04.449864+00:00"
+  "scannedAtUtc": "2026-01-22T07:03:00.073253+00:00"
 }
