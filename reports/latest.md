@@ -1,6 +1,6 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-01-22T07:03:00.073253+00:00
+- **Scanned at (UTC):** 2026-01-22T15:00:28.688839+00:00
 - **Boards scanned:** 27
 - **New jobs found:** 3
 - **Errors:** 0
@@ -10,12 +10,12 @@
 
 | Board | New jobs |
 |---|---:|
-| n8n | 1 |
+| n8n | 0 |
 | reedsy | 0 |
 | mazehq | 0 |
 | supabase | 0 |
 | nango | 0 |
-| axelera | 0 |
+| axelera | 2 |
 | ashby | 0 |
 | cargo-one | 0 |
 | gt-hq | 0 |
@@ -24,13 +24,13 @@
 | toogeza | 0 |
 | enode | 0 |
 | cradlebio | 0 |
-| sardine | 0 |
+| sardine | 1 |
 | rerun | 0 |
 | splitmetrics | 0 |
 | oh | 0 |
-| substack | 1 |
+| substack | 0 |
 | dash0 | 0 |
-| 1password | 1 |
+| 1password | 0 |
 | incard | 0 |
 | atomic-invest | 0 |
 | chronospherejobs | 0 |
@@ -40,15 +40,12 @@
 
 ## New jobs
 
-### n8n
+### axelera
 
-- [Sr Customer Data Analyst | Remote | Europe](https://jobs.ashbyhq.com/n8n/da0d3b3a-71d9-460e-856d-0d5a52c07dc6) — Berlin Office — 2026-01-21T16:58:51.604+00:00
+- [Senior/Staff Verification Engineer](https://jobs.ashbyhq.com/axelera/4741375f-53b3-4c26-907f-fb067e8497bb) — Hybrid/Remote - Europe (incl. UK) — 2026-01-22T14:50:32.097+00:00
+- [Logical Design Engineer](https://jobs.ashbyhq.com/axelera/2c56a9fa-1110-4142-a6d1-0a5cde3a9f03) — Hybrid/Remote - Europe (incl. UK) — 2026-01-22T09:34:03.223+00:00
 
-### substack
+### sardine
 
-- [Full Stack Web Engineer - Growth](https://jobs.ashbyhq.com/substack/110ac422-58fb-461f-b249-9072eff43f3a) — San Francisco (HQ) — 2026-01-21T18:40:58.373+00:00
-
-### 1password
-
-- [Senior Executive Assistant, CTO](https://jobs.ashbyhq.com/1password/3478e762-e816-4404-978d-3209ba018a18) — Remote (United States | Canada) — 2026-01-21T21:36:02.670+00:00
+- [Analytics Engineer](https://jobs.ashbyhq.com/sardine/ca1e0aab-4a2c-4b8b-aedf-6e58de58e382) — India - Remote — 2026-01-22T13:35:36.572+00:00
 
