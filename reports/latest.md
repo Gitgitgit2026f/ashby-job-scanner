@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-01-23T14:55:42.035807+00:00
+- **Scanned at (UTC):** 2026-01-24T06:56:50.998122+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 3
+- **New jobs found:** 7
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -12,25 +12,25 @@
 |---|---:|
 | n8n | 0 |
 | reedsy | 0 |
-| mazehq | 1 |
+| mazehq | 0 |
 | supabase | 0 |
 | nango | 0 |
-| axelera | 0 |
-| ashby | 0 |
+| axelera | 1 |
+| ashby | 1 |
 | cargo-one | 0 |
 | gt-hq | 0 |
 | dourolabs.xyz | 0 |
 | everai | 0 |
-| toogeza | 1 |
+| toogeza | 0 |
 | enode | 0 |
 | cradlebio | 0 |
-| sardine | 1 |
+| sardine | 0 |
 | rerun | 0 |
 | splitmetrics | 0 |
 | oh | 0 |
-| substack | 0 |
-| dash0 | 0 |
-| 1password | 0 |
+| substack | 2 |
+| dash0 | 1 |
+| 1password | 2 |
 | incard | 0 |
 | atomic-invest | 0 |
 | chronospherejobs | 0 |
@@ -40,15 +40,25 @@
 
 ## New jobs
 
-### mazehq
+### axelera
 
-- [Senior Machine Learning Engineer](https://jobs.ashbyhq.com/mazehq/f20f4948-57c1-4aff-a746-128cf2749ec6) — Remote (Europe) — 2026-01-23T11:00:48.890+00:00
+- [Director of Business Development – AI Factories & HPC Solutions](https://jobs.ashbyhq.com/axelera/b047196a-e7f6-426e-9876-e640e7816114) — Hybrid/Remote - Europe (incl. UK) — 2026-01-23T16:51:39.123+00:00
 
-### toogeza
+### ashby
 
-- [Operations Manager (AI-Driven)](https://jobs.ashbyhq.com/toogeza/2e0c9a71-c89b-4309-b801-bdcbb97a14a6) — Europe — 2026-01-23T08:38:14.747+00:00
+- [Strategic Customer Success Manager, EMEA](https://jobs.ashbyhq.com/ashby/1cf7c730-caba-4fc3-8b98-52a0735ef14b) — Remote - Europe — 2026-01-16T14:17:18.624+00:00
 
-### sardine
+### substack
 
-- [Enterprise Business Development Representative](https://jobs.ashbyhq.com/sardine/d913dd28-070b-45c9-8ebf-20f0a2233ed6) — North America - Remote — 2026-01-23T14:17:09.292+00:00
+- [Culture Partnerships Manager](https://jobs.ashbyhq.com/substack/c3eb85dc-072d-4870-9cdd-751c8fa75f3d) — New York — 2026-01-24T00:54:11.052+00:00
+- [Operations Associate](https://jobs.ashbyhq.com/substack/cf30829b-2f71-4c5b-8a7f-acd6591da130) — New York — 2026-01-24T00:51:31.075+00:00
+
+### dash0
+
+- [Entrepreneur in Residence – People & Talent (Intern)](https://jobs.ashbyhq.com/dash0/8a93e570-e589-4fa8-b888-f461ad2e2fea) — EMEA - Remote — 2026-01-23T16:01:11.986+00:00
+
+### 1password
+
+- [Senior Privacy Engineer](https://jobs.ashbyhq.com/1password/55f07928-8cee-4c0c-9883-0c0652d7eb5d) — Remote (United States | Canada) — 2026-01-23T19:02:56.359+00:00
+- [Solutions Engineer Commercial (German)](https://jobs.ashbyhq.com/1password/fb860927-488b-4914-bb35-76e7248f305a) — Remote UK — 2026-01-23T18:26:31.693+00:00
 

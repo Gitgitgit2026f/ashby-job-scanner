@@ -3,47 +3,93 @@
   "firstRun": false,
   "new": [
     {
-      "board": "mazehq",
-      "jobs": [
-        {
-          "department": "Engineering",
-          "id": "f20f4948-57c1-4aff-a746-128cf2749ec6",
-          "jobUrl": "https://jobs.ashbyhq.com/mazehq/f20f4948-57c1-4aff-a746-128cf2749ec6",
-          "location": "Remote (Europe)",
-          "publishedAt": "2026-01-23T11:00:48.890+00:00",
-          "team": "Engineering",
-          "title": "Senior Machine Learning Engineer"
-        }
-      ]
-    },
-    {
-      "board": "toogeza",
-      "jobs": [
-        {
-          "department": "Operations",
-          "id": "2e0c9a71-c89b-4309-b801-bdcbb97a14a6",
-          "jobUrl": "https://jobs.ashbyhq.com/toogeza/2e0c9a71-c89b-4309-b801-bdcbb97a14a6",
-          "location": "Europe",
-          "publishedAt": "2026-01-23T08:38:14.747+00:00",
-          "team": "Operations",
-          "title": "Operations Manager (AI-Driven)"
-        }
-      ]
-    },
-    {
-      "board": "sardine",
+      "board": "axelera",
       "jobs": [
         {
           "department": "Sales",
-          "id": "d913dd28-070b-45c9-8ebf-20f0a2233ed6",
-          "jobUrl": "https://jobs.ashbyhq.com/sardine/d913dd28-070b-45c9-8ebf-20f0a2233ed6",
-          "location": "North America - Remote",
-          "publishedAt": "2026-01-23T14:17:09.292+00:00",
-          "team": "Sales",
-          "title": "Enterprise Business Development Representative"
+          "id": "b047196a-e7f6-426e-9876-e640e7816114",
+          "jobUrl": "https://jobs.ashbyhq.com/axelera/b047196a-e7f6-426e-9876-e640e7816114",
+          "location": "Hybrid/Remote - Europe (incl. UK)",
+          "publishedAt": "2026-01-23T16:51:39.123+00:00",
+          "team": "Business Development",
+          "title": "Director of Business Development – AI Factories & HPC Solutions"
+        }
+      ]
+    },
+    {
+      "board": "ashby",
+      "jobs": [
+        {
+          "department": "Customer Success",
+          "id": "1cf7c730-caba-4fc3-8b98-52a0735ef14b",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/1cf7c730-caba-4fc3-8b98-52a0735ef14b",
+          "location": "Remote - Europe",
+          "publishedAt": "2026-01-16T14:17:18.624+00:00",
+          "team": "Strategic Customer Success",
+          "title": "Strategic Customer Success Manager, EMEA"
+        }
+      ]
+    },
+    {
+      "board": "substack",
+      "jobs": [
+        {
+          "department": "Partnerships",
+          "id": "c3eb85dc-072d-4870-9cdd-751c8fa75f3d",
+          "jobUrl": "https://jobs.ashbyhq.com/substack/c3eb85dc-072d-4870-9cdd-751c8fa75f3d",
+          "location": "New York",
+          "publishedAt": "2026-01-24T00:54:11.052+00:00",
+          "team": "Partnerships",
+          "title": "Culture Partnerships Manager"
+        },
+        {
+          "department": "Operations",
+          "id": "cf30829b-2f71-4c5b-8a7f-acd6591da130",
+          "jobUrl": "https://jobs.ashbyhq.com/substack/cf30829b-2f71-4c5b-8a7f-acd6591da130",
+          "location": "New York",
+          "publishedAt": "2026-01-24T00:51:31.075+00:00",
+          "team": "Operations",
+          "title": "Operations Associate"
+        }
+      ]
+    },
+    {
+      "board": "dash0",
+      "jobs": [
+        {
+          "department": "G&A",
+          "id": "8a93e570-e589-4fa8-b888-f461ad2e2fea",
+          "jobUrl": "https://jobs.ashbyhq.com/dash0/8a93e570-e589-4fa8-b888-f461ad2e2fea",
+          "location": "EMEA - Remote",
+          "publishedAt": "2026-01-23T16:01:11.986+00:00",
+          "team": "G&A",
+          "title": "Entrepreneur in Residence – People & Talent (Intern)"
+        }
+      ]
+    },
+    {
+      "board": "1password",
+      "jobs": [
+        {
+          "department": "Technology",
+          "id": "55f07928-8cee-4c0c-9883-0c0652d7eb5d",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/55f07928-8cee-4c0c-9883-0c0652d7eb5d",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-01-23T19:02:56.359+00:00",
+          "team": "Security",
+          "title": "Senior Privacy Engineer"
+        },
+        {
+          "department": "GTM",
+          "id": "fb860927-488b-4914-bb35-76e7248f305a",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/fb860927-488b-4914-bb35-76e7248f305a",
+          "location": "Remote UK",
+          "publishedAt": "2026-01-23T18:26:31.693+00:00",
+          "team": "Customer Success",
+          "title": "Solutions Engineer Commercial (German)"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-01-23T14:55:42.035807+00:00"
+  "scannedAtUtc": "2026-01-24T06:56:50.998122+00:00"
 }
