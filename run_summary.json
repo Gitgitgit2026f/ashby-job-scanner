@@ -1,6 +1,21 @@
 {
   "errors": [],
   "firstRun": false,
-  "new": [],
-  "scannedAtUtc": "2026-01-24T14:39:58.089140+00:00"
+  "new": [
+    {
+      "board": "sardine",
+      "jobs": [
+        {
+          "department": "Talent and People",
+          "id": "c76f5d65-4a8b-463d-9f80-912697038f79",
+          "jobUrl": "https://jobs.ashbyhq.com/sardine/c76f5d65-4a8b-463d-9f80-912697038f79",
+          "location": "North America - Remote",
+          "publishedAt": "2026-01-25T01:13:07.340+00:00",
+          "team": "Talent and People",
+          "title": "People Business Partner"
+        }
+      ]
+    }
+  ],
+  "scannedAtUtc": "2026-01-25T06:58:23.583671+00:00"
 }
