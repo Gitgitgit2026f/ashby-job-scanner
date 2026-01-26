@@ -1,6 +1,21 @@
 {
   "errors": [],
   "firstRun": false,
-  "new": [],
-  "scannedAtUtc": "2026-01-26T07:04:56.392156+00:00"
+  "new": [
+    {
+      "board": "splitmetrics",
+      "jobs": [
+        {
+          "department": "Agency",
+          "id": "057417b3-4c42-424c-ba8f-8dae2cabcb70",
+          "jobUrl": "https://jobs.ashbyhq.com/splitmetrics/057417b3-4c42-424c-ba8f-8dae2cabcb70",
+          "location": "Remote - Europe Time Zones",
+          "publishedAt": "2026-01-26T13:57:17.147+00:00",
+          "team": "Agency",
+          "title": "User Acquisition Manager"
+        }
+      ]
+    }
+  ],
+  "scannedAtUtc": "2026-01-26T14:58:45.323353+00:00"
 }

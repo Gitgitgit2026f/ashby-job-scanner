@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-01-26T07:04:56.392156+00:00
+- **Scanned at (UTC):** 2026-01-26T14:58:45.323353+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 0
+- **New jobs found:** 1
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -26,7 +26,7 @@
 | cradlebio | 0 |
 | sardine | 0 |
 | rerun | 0 |
-| splitmetrics | 0 |
+| splitmetrics | 1 |
 | oh | 0 |
 | substack | 0 |
 | dash0 | 0 |
@@ -40,5 +40,7 @@
 
 ## New jobs
 
-_No new jobs found._
+### splitmetrics
+
+- [User Acquisition Manager](https://jobs.ashbyhq.com/splitmetrics/057417b3-4c42-424c-ba8f-8dae2cabcb70) — Remote - Europe Time Zones — 2026-01-26T13:57:17.147+00:00
 
