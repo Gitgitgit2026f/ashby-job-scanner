@@ -3,19 +3,103 @@
   "firstRun": false,
   "new": [
     {
+      "board": "n8n",
+      "jobs": [
+        {
+          "department": "Engineering",
+          "id": "5c1d1b67-604c-46b3-9c59-cfe0cd703688",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/5c1d1b67-604c-46b3-9c59-cfe0cd703688",
+          "location": "Berlin Office",
+          "publishedAt": "2026-01-26T16:56:31.075+00:00",
+          "team": "AI",
+          "title": "Staff LLM Interaction Engineer (Europe remote - TS/Vue/NodeJS)"
+        }
+      ]
+    },
+    {
+      "board": "ashby",
+      "jobs": [
+        {
+          "department": "Customer Success",
+          "id": "3dfc4bf1-7ccc-4ca6-a07c-91016a5ebc2e",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/3dfc4bf1-7ccc-4ca6-a07c-91016a5ebc2e",
+          "location": "Remote - Europe",
+          "publishedAt": "2026-01-26T16:32:30.974+00:00",
+          "team": "Professional Services",
+          "title": "Integrations Consultant - EMEA"
+        }
+      ]
+    },
+    {
+      "board": "enode",
+      "jobs": [
+        {
+          "department": "Product",
+          "id": "6ff85544-9580-43a0-9877-0e20bec85613",
+          "jobUrl": "https://jobs.ashbyhq.com/enode/6ff85544-9580-43a0-9877-0e20bec85613",
+          "location": "Remote - Europe",
+          "publishedAt": "2026-01-26T17:19:58.175+00:00",
+          "team": "Product",
+          "title": "Senior Product Manager"
+        }
+      ]
+    },
+    {
+      "board": "sardine",
+      "jobs": [
+        {
+          "department": "Engineering",
+          "id": "42ae8d19-4362-49df-b132-df5b32052576",
+          "jobUrl": "https://jobs.ashbyhq.com/sardine/42ae8d19-4362-49df-b132-df5b32052576",
+          "location": "United States - Remote",
+          "publishedAt": "2026-01-26T20:29:44.948+00:00",
+          "team": "Engineering",
+          "title": "DevOps Engineer "
+        }
+      ]
+    },
+    {
       "board": "splitmetrics",
       "jobs": [
         {
-          "department": "Agency",
-          "id": "057417b3-4c42-424c-ba8f-8dae2cabcb70",
-          "jobUrl": "https://jobs.ashbyhq.com/splitmetrics/057417b3-4c42-424c-ba8f-8dae2cabcb70",
+          "department": "Product",
+          "id": "bc9be6c0-d689-4f0f-a12b-2d37ec933ecf",
+          "jobUrl": "https://jobs.ashbyhq.com/splitmetrics/bc9be6c0-d689-4f0f-a12b-2d37ec933ecf",
           "location": "Remote - Europe Time Zones",
-          "publishedAt": "2026-01-26T13:57:17.147+00:00",
-          "team": "Agency",
-          "title": "User Acquisition Manager"
+          "publishedAt": "2026-01-26T15:08:34.740+00:00",
+          "team": "Product",
+          "title": "Growth Product Manager"
+        }
+      ]
+    },
+    {
+      "board": "1password",
+      "jobs": [
+        {
+          "department": "Marketing",
+          "id": "9515f6e6-9c0d-481b-9c9e-c41b9b110cca",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/9515f6e6-9c0d-481b-9c9e-c41b9b110cca",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-01-26T22:45:34.783+00:00",
+          "team": "Marketing",
+          "title": "Director, Growth Web Experience"
+        }
+      ]
+    },
+    {
+      "board": "atomic-invest",
+      "jobs": [
+        {
+          "department": "Engineering",
+          "id": "edc2c89a-5f5a-4dc0-9264-acd7ed2951fa",
+          "jobUrl": "https://jobs.ashbyhq.com/atomic-invest/edc2c89a-5f5a-4dc0-9264-acd7ed2951fa",
+          "location": "Remote",
+          "publishedAt": "2026-01-26T19:33:21.442+00:00",
+          "team": "Engineering",
+          "title": "Solutions Engineer"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-01-26T14:58:45.323353+00:00"
+  "scannedAtUtc": "2026-01-27T07:03:30.605952+00:00"
 }
