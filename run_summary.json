@@ -3,16 +3,30 @@
   "firstRun": false,
   "new": [
     {
-      "board": "gt-hq",
+      "board": "supabase",
       "jobs": [
         {
-          "department": "Core Team",
-          "id": "ffa25938-ecaf-4cf7-8618-8c57b697d5c9",
-          "jobUrl": "https://jobs.ashbyhq.com/gt-hq/ffa25938-ecaf-4cf7-8618-8c57b697d5c9",
-          "location": "Ukraine - Remote",
-          "publishedAt": "2026-01-27T13:30:45.320+00:00",
-          "team": "Core Team",
-          "title": "Delivery Manager | GT"
+          "department": "Operations",
+          "id": "584115a8-998d-4a7c-bc1f-81b1eb574b29",
+          "jobUrl": "https://jobs.ashbyhq.com/supabase/584115a8-998d-4a7c-bc1f-81b1eb574b29",
+          "location": "Remote",
+          "publishedAt": "2026-01-27T20:21:58.693+00:00",
+          "team": "Legal ",
+          "title": "Corporate Counsel "
+        }
+      ]
+    },
+    {
+      "board": "ashby",
+      "jobs": [
+        {
+          "department": "Sales",
+          "id": "fe4e6752-83ab-45b5-a07f-51d7837fc8de",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/fe4e6752-83ab-45b5-a07f-51d7837fc8de",
+          "location": "Remote - North America",
+          "publishedAt": "2026-01-27T22:20:13.682+00:00",
+          "team": "Sales",
+          "title": "Sales Manager - Startups, AMER"
         }
       ]
     },
@@ -20,16 +34,57 @@
       "board": "sardine",
       "jobs": [
         {
-          "department": "Sales",
-          "id": "612b35b0-8787-475c-9ff1-b4f2d280d90b",
-          "jobUrl": "https://jobs.ashbyhq.com/sardine/612b35b0-8787-475c-9ff1-b4f2d280d90b",
-          "location": "UK - Remote",
-          "publishedAt": "2026-01-27T14:18:49.117+00:00",
-          "team": "Sales",
-          "title": "Enterprise Business Development Representative"
+          "department": "Post-Sales ",
+          "id": "a4d20d64-194e-49c3-8651-7e0898777923",
+          "jobUrl": "https://jobs.ashbyhq.com/sardine/a4d20d64-194e-49c3-8651-7e0898777923",
+          "location": "United States - Remote",
+          "publishedAt": "2026-01-27T16:21:55.350+00:00",
+          "team": "Post-Sales ",
+          "title": "Senior Integrations Manager"
+        },
+        {
+          "department": "Post-Sales ",
+          "id": "92da1cab-a832-4a34-b8fc-18a5b0a675d9",
+          "jobUrl": "https://jobs.ashbyhq.com/sardine/92da1cab-a832-4a34-b8fc-18a5b0a675d9",
+          "location": "United States - Remote",
+          "publishedAt": "2026-01-27T16:21:52.355+00:00",
+          "team": "Post-Sales ",
+          "title": "Senior Strategic Account Manager"
+        }
+      ]
+    },
+    {
+      "board": "1password",
+      "jobs": [
+        {
+          "department": "GTM",
+          "id": "b93c2277-33d8-4095-a381-b3f3fbfbedae",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/b93c2277-33d8-4095-a381-b3f3fbfbedae",
+          "location": "Remote UK",
+          "publishedAt": "2026-01-27T20:12:52.657+00:00",
+          "team": "Customer Success",
+          "title": "Senior Technical Account Manager"
+        },
+        {
+          "department": "Technology",
+          "id": "ff98345b-cc1a-4be9-8fd8-89ed85c7bf89",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/ff98345b-cc1a-4be9-8fd8-89ed85c7bf89",
+          "location": "Remote US",
+          "publishedAt": "2026-01-27T18:05:33.115+00:00",
+          "team": "Platform Engineering",
+          "title": "Senior Director Engineering, Identity Security Platform Infrastructure"
+        },
+        {
+          "department": "GTM",
+          "id": "d91e63b2-abb3-4722-a1ec-280e81604b0b",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/d91e63b2-abb3-4722-a1ec-280e81604b0b",
+          "location": "New York, NY",
+          "publishedAt": "2026-01-27T16:52:44.616+00:00",
+          "team": "Account Executive",
+          "title": "Account Executive, Enterprise — Future Opportunities (NYC & San Francisco)"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-01-27T15:02:45.607927+00:00"
+  "scannedAtUtc": "2026-01-28T07:03:10.520481+00:00"
 }
