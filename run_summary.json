@@ -3,60 +3,56 @@
   "firstRun": false,
   "new": [
     {
-      "board": "gt-hq",
+      "board": "n8n",
       "jobs": [
         {
-          "department": "Dreams",
-          "id": "54af48e8-dbcc-4f72-88a7-52de4b54e8dc",
-          "jobUrl": "https://jobs.ashbyhq.com/gt-hq/54af48e8-dbcc-4f72-88a7-52de4b54e8dc",
-          "location": "Europe - Remote",
-          "publishedAt": "2026-01-28T16:33:10.544+00:00",
-          "team": "Dreams",
-          "title": "Data Engineer (MS Fabric) | Dreams "
+          "department": "Operations",
+          "id": "fb78ec4d-a0f9-4ebc-82cf-52ea16abcdf2",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/fb78ec4d-a0f9-4ebc-82cf-52ea16abcdf2",
+          "location": "London Office",
+          "publishedAt": "2026-01-29T11:11:28.577+00:00",
+          "team": "People",
+          "title": "Talent Partner, 3-6 month contract (Feb 26' start)"
         }
       ]
     },
     {
-      "board": "1password",
+      "board": "nango",
       "jobs": [
         {
-          "department": "GTM",
-          "id": "4132ab0d-16ee-4552-a784-a26a6b043c6c",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/4132ab0d-16ee-4552-a784-a26a6b043c6c",
-          "location": "Toronto, ON",
-          "publishedAt": "2026-01-28T22:08:23.544+00:00",
-          "team": "BDR",
-          "title": "Business Development Representative, SMB - Future Opportunities (Toronto)"
+          "department": "Nango",
+          "id": "87ae18c8-5bef-423e-968e-7ea6ab4f97b8",
+          "jobUrl": "https://jobs.ashbyhq.com/nango/87ae18c8-5bef-423e-968e-7ea6ab4f97b8",
+          "location": "USA",
+          "publishedAt": "2026-01-29T09:00:14.456+00:00",
+          "team": "Nango",
+          "title": "Product Engineer, Customers"
+        }
+      ]
+    },
+    {
+      "board": "poolside",
+      "jobs": [
+        {
+          "department": "R&D",
+          "id": "ac8683a2-4b78-4d10-a528-fa6524548d90",
+          "jobUrl": "https://jobs.ashbyhq.com/poolside/ac8683a2-4b78-4d10-a528-fa6524548d90",
+          "location": "Remote (EMEA/East Coast)",
+          "publishedAt": "2026-01-29T11:13:55.779+00:00",
+          "team": "R&D",
+          "title": "Member of Engineering (Pre-training / Data Engineering)"
         },
         {
-          "department": "GTM",
-          "id": "9825145c-493b-4d2c-9883-73f675c12327",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/9825145c-493b-4d2c-9883-73f675c12327",
-          "location": "Austin, TX",
-          "publishedAt": "2026-01-28T22:04:00.788+00:00",
-          "team": "BDR",
-          "title": "Business Development Representative, Enterprise - Future Opportunities (Austin)"
-        },
-        {
-          "department": "Technology",
-          "id": "4aad5067-3d54-4b2a-b8e0-0fe8c5fd4f3a",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/4aad5067-3d54-4b2a-b8e0-0fe8c5fd4f3a",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-01-28T21:10:33.717+00:00",
-          "team": "Security",
-          "title": "Privacy Engineer"
-        },
-        {
-          "department": "Technology",
-          "id": "a99cb00d-c71f-4b3a-99fe-071ded4ba3b7",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/a99cb00d-c71f-4b3a-99fe-071ded4ba3b7",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-01-28T18:25:07.032+00:00",
-          "team": "Product Engineering 1",
-          "title": "Senior Developer, Rails"
+          "department": "R&D",
+          "id": "f99aaa7d-473b-4710-8d2d-5f9893fb5b15",
+          "jobUrl": "https://jobs.ashbyhq.com/poolside/f99aaa7d-473b-4710-8d2d-5f9893fb5b15",
+          "location": "Remote (US)",
+          "publishedAt": "2026-01-29T10:43:06.958+00:00",
+          "team": "R&D",
+          "title": "Member of Engineering (Pre-training / Synthetic Data)"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-01-29T07:56:37.529188+00:00"
+  "scannedAtUtc": "2026-01-29T15:55:43.886215+00:00"
 }

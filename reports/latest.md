@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-01-29T07:56:37.529188+00:00
+- **Scanned at (UTC):** 2026-01-29T15:55:43.886215+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 5
+- **New jobs found:** 4
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -10,15 +10,15 @@
 
 | Board | New jobs |
 |---|---:|
-| n8n | 0 |
+| n8n | 1 |
 | reedsy | 0 |
 | mazehq | 0 |
 | supabase | 0 |
-| nango | 0 |
+| nango | 1 |
 | axelera | 0 |
 | ashby | 0 |
 | cargo-one | 0 |
-| gt-hq | 1 |
+| gt-hq | 0 |
 | dourolabs.xyz | 0 |
 | everai | 0 |
 | toogeza | 0 |
@@ -30,24 +30,26 @@
 | oh | 0 |
 | substack | 0 |
 | dash0 | 0 |
-| 1password | 4 |
+| 1password | 0 |
 | incard | 0 |
 | atomic-invest | 0 |
 | chronospherejobs | 0 |
 | v7labs.com | 0 |
-| poolside | 0 |
+| poolside | 2 |
 | mazedesign | 0 |
 
 ## New jobs
 
-### gt-hq
+### n8n
 
-- [Data Engineer (MS Fabric) | Dreams](https://jobs.ashbyhq.com/gt-hq/54af48e8-dbcc-4f72-88a7-52de4b54e8dc) — Europe - Remote — 2026-01-28T16:33:10.544+00:00
+- [Talent Partner, 3-6 month contract (Feb 26' start)](https://jobs.ashbyhq.com/n8n/fb78ec4d-a0f9-4ebc-82cf-52ea16abcdf2) — London Office — 2026-01-29T11:11:28.577+00:00
 
-### 1password
+### nango
 
-- [Business Development Representative, SMB - Future Opportunities (Toronto)](https://jobs.ashbyhq.com/1password/4132ab0d-16ee-4552-a784-a26a6b043c6c) — Toronto, ON — 2026-01-28T22:08:23.544+00:00
-- [Business Development Representative, Enterprise - Future Opportunities (Austin)](https://jobs.ashbyhq.com/1password/9825145c-493b-4d2c-9883-73f675c12327) — Austin, TX — 2026-01-28T22:04:00.788+00:00
-- [Privacy Engineer](https://jobs.ashbyhq.com/1password/4aad5067-3d54-4b2a-b8e0-0fe8c5fd4f3a) — Remote (United States | Canada) — 2026-01-28T21:10:33.717+00:00
-- [Senior Developer, Rails](https://jobs.ashbyhq.com/1password/a99cb00d-c71f-4b3a-99fe-071ded4ba3b7) — Remote (United States | Canada) — 2026-01-28T18:25:07.032+00:00
+- [Product Engineer, Customers](https://jobs.ashbyhq.com/nango/87ae18c8-5bef-423e-968e-7ea6ab4f97b8) — USA — 2026-01-29T09:00:14.456+00:00
+
+### poolside
+
+- [Member of Engineering (Pre-training / Data Engineering)](https://jobs.ashbyhq.com/poolside/ac8683a2-4b78-4d10-a528-fa6524548d90) — Remote (EMEA/East Coast) — 2026-01-29T11:13:55.779+00:00
+- [Member of Engineering (Pre-training / Synthetic Data)](https://jobs.ashbyhq.com/poolside/f99aaa7d-473b-4710-8d2d-5f9893fb5b15) — Remote (US) — 2026-01-29T10:43:06.958+00:00
 
