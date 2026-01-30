@@ -3,56 +3,19 @@
   "firstRun": false,
   "new": [
     {
-      "board": "n8n",
+      "board": "ashby",
       "jobs": [
         {
-          "department": "Operations",
-          "id": "fb78ec4d-a0f9-4ebc-82cf-52ea16abcdf2",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/fb78ec4d-a0f9-4ebc-82cf-52ea16abcdf2",
-          "location": "London Office",
-          "publishedAt": "2026-01-29T11:11:28.577+00:00",
-          "team": "People",
-          "title": "Talent Partner, 3-6 month contract (Feb 26' start)"
-        }
-      ]
-    },
-    {
-      "board": "nango",
-      "jobs": [
-        {
-          "department": "Nango",
-          "id": "87ae18c8-5bef-423e-968e-7ea6ab4f97b8",
-          "jobUrl": "https://jobs.ashbyhq.com/nango/87ae18c8-5bef-423e-968e-7ea6ab4f97b8",
-          "location": "USA",
-          "publishedAt": "2026-01-29T09:00:14.456+00:00",
-          "team": "Nango",
-          "title": "Product Engineer, Customers"
-        }
-      ]
-    },
-    {
-      "board": "poolside",
-      "jobs": [
-        {
-          "department": "R&D",
-          "id": "ac8683a2-4b78-4d10-a528-fa6524548d90",
-          "jobUrl": "https://jobs.ashbyhq.com/poolside/ac8683a2-4b78-4d10-a528-fa6524548d90",
-          "location": "Remote (EMEA/East Coast)",
-          "publishedAt": "2026-01-29T11:13:55.779+00:00",
-          "team": "R&D",
-          "title": "Member of Engineering (Pre-training / Data Engineering)"
-        },
-        {
-          "department": "R&D",
-          "id": "f99aaa7d-473b-4710-8d2d-5f9893fb5b15",
-          "jobUrl": "https://jobs.ashbyhq.com/poolside/f99aaa7d-473b-4710-8d2d-5f9893fb5b15",
-          "location": "Remote (US)",
-          "publishedAt": "2026-01-29T10:43:06.958+00:00",
-          "team": "R&D",
-          "title": "Member of Engineering (Pre-training / Synthetic Data)"
+          "department": "Customer Success",
+          "id": "2b401986-a491-4f9b-9c22-63079bcd64c2",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/2b401986-a491-4f9b-9c22-63079bcd64c2",
+          "location": "Remote - North America",
+          "publishedAt": "2026-01-29T22:52:08.104+00:00",
+          "team": "Strategic Customer Success",
+          "title": "Customer Success Manager, Strategic - Americas (EST)"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-01-29T15:55:43.886215+00:00"
+  "scannedAtUtc": "2026-01-30T07:55:34.951631+00:00"
 }
