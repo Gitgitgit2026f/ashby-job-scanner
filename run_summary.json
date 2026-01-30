@@ -7,15 +7,43 @@
       "jobs": [
         {
           "department": "Customer Success",
-          "id": "2b401986-a491-4f9b-9c22-63079bcd64c2",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/2b401986-a491-4f9b-9c22-63079bcd64c2",
-          "location": "Remote - North America",
-          "publishedAt": "2026-01-29T22:52:08.104+00:00",
-          "team": "Strategic Customer Success",
-          "title": "Customer Success Manager, Strategic - Americas (EST)"
+          "id": "5bd4b700-1969-4c18-8020-a382de524672",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/5bd4b700-1969-4c18-8020-a382de524672",
+          "location": "Australia",
+          "publishedAt": "2026-01-30T14:53:41.965+00:00",
+          "team": "Customer Support",
+          "title": "Manager, Product Support - APAC"
+        }
+      ]
+    },
+    {
+      "board": "gt-hq",
+      "jobs": [
+        {
+          "department": "Confidential",
+          "id": "3508a33a-87e7-4db4-9a1e-dda01a5533ef",
+          "jobUrl": "https://jobs.ashbyhq.com/gt-hq/3508a33a-87e7-4db4-9a1e-dda01a5533ef",
+          "location": "Warsaw, Poland ",
+          "publishedAt": "2026-01-30T13:08:08.243+00:00",
+          "team": "Confidential",
+          "title": "Senior Python Engineer | NDA"
+        }
+      ]
+    },
+    {
+      "board": "splitmetrics",
+      "jobs": [
+        {
+          "department": "Product",
+          "id": "4a9e3168-fbcf-4862-b70c-be2e17c2bc76",
+          "jobUrl": "https://jobs.ashbyhq.com/splitmetrics/4a9e3168-fbcf-4862-b70c-be2e17c2bc76",
+          "location": "Remote - Europe Time Zones",
+          "publishedAt": "2026-01-30T10:50:24.535+00:00",
+          "team": "Product",
+          "title": "Product Designer"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-01-30T07:55:34.951631+00:00"
+  "scannedAtUtc": "2026-01-30T15:52:51.686670+00:00"
 }
