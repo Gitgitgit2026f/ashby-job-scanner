@@ -3,47 +3,174 @@
   "firstRun": false,
   "new": [
     {
+      "board": "n8n",
+      "jobs": [
+        {
+          "department": "Sales",
+          "id": "9cde277e-80b1-4a15-8473-9d046f789715",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/9cde277e-80b1-4a15-8473-9d046f789715",
+          "location": "Berlin Office",
+          "publishedAt": "2026-01-30T16:50:16.491+00:00",
+          "team": "Sales",
+          "title": "Senior Partnerships Manager, Hyperscaler Alliances (Azure/ AWS) (Remote Europe)"
+        }
+      ]
+    },
+    {
       "board": "ashby",
       "jobs": [
         {
           "department": "Customer Success",
-          "id": "5bd4b700-1969-4c18-8020-a382de524672",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/5bd4b700-1969-4c18-8020-a382de524672",
-          "location": "Australia",
-          "publishedAt": "2026-01-30T14:53:41.965+00:00",
-          "team": "Customer Support",
-          "title": "Manager, Product Support - APAC"
+          "id": "a07aeb2d-3113-4ab4-866d-60004d1d25de",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/a07aeb2d-3113-4ab4-866d-60004d1d25de",
+          "location": "Remote - North America",
+          "publishedAt": "2026-01-07T17:07:17.025+00:00",
+          "team": "Start-up Customer Success",
+          "title": "Startup Customer Success Manager - Americas"
         }
       ]
     },
     {
-      "board": "gt-hq",
+      "board": "substack",
       "jobs": [
         {
-          "department": "Confidential",
-          "id": "3508a33a-87e7-4db4-9a1e-dda01a5533ef",
-          "jobUrl": "https://jobs.ashbyhq.com/gt-hq/3508a33a-87e7-4db4-9a1e-dda01a5533ef",
-          "location": "Warsaw, Poland ",
-          "publishedAt": "2026-01-30T13:08:08.243+00:00",
-          "team": "Confidential",
-          "title": "Senior Python Engineer | NDA"
+          "department": "Enterprise",
+          "id": "a942d1a2-e5ac-47a4-bc54-7c4506abb380",
+          "jobUrl": "https://jobs.ashbyhq.com/substack/a942d1a2-e5ac-47a4-bc54-7c4506abb380",
+          "location": "San Francisco (HQ)",
+          "publishedAt": "2026-01-31T02:44:12.616+00:00",
+          "team": "Enterprise",
+          "title": "Sponsorships Partner Manager"
         }
       ]
     },
     {
-      "board": "splitmetrics",
+      "board": "1password",
       "jobs": [
         {
-          "department": "Product",
-          "id": "4a9e3168-fbcf-4862-b70c-be2e17c2bc76",
-          "jobUrl": "https://jobs.ashbyhq.com/splitmetrics/4a9e3168-fbcf-4862-b70c-be2e17c2bc76",
-          "location": "Remote - Europe Time Zones",
-          "publishedAt": "2026-01-30T10:50:24.535+00:00",
-          "team": "Product",
-          "title": "Product Designer"
+          "department": "Internships",
+          "id": "4c89360e-46ae-4da7-bacf-5336c7d6b2ca",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/4c89360e-46ae-4da7-bacf-5336c7d6b2ca",
+          "location": "Remote Canada",
+          "publishedAt": "2026-01-31T00:17:28.138+00:00",
+          "team": "Internships",
+          "title": "Developer Intern - Data & Access - Summer 2026"
+        },
+        {
+          "department": "Internships",
+          "id": "a31143c2-8b13-4757-9821-007ea93c2b8c",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/a31143c2-8b13-4757-9821-007ea93c2b8c",
+          "location": "Remote Canada",
+          "publishedAt": "2026-01-30T23:59:23.146+00:00",
+          "team": "Internships",
+          "title": "Developer Intern - Device Security - Summer 2026"
+        },
+        {
+          "department": "Internships",
+          "id": "831424d5-7490-4d64-99e4-373a4f333446",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/831424d5-7490-4d64-99e4-373a4f333446",
+          "location": "Remote Canada",
+          "publishedAt": "2026-01-30T23:59:11.598+00:00",
+          "team": "Internships",
+          "title": "Developer Intern - Knox - Summer 2026"
+        },
+        {
+          "department": "Internships",
+          "id": "3a1f1456-96fb-4402-8168-cde66875cd03",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/3a1f1456-96fb-4402-8168-cde66875cd03",
+          "location": "Remote Canada",
+          "publishedAt": "2026-01-30T23:58:51.742+00:00",
+          "team": "Internships",
+          "title": "Developer Intern - Trust Platforms - Summer 2026"
+        },
+        {
+          "department": "Internships",
+          "id": "9378c159-337b-4c31-84c7-54af62623322",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/9378c159-337b-4c31-84c7-54af62623322",
+          "location": "Remote Canada",
+          "publishedAt": "2026-01-30T23:58:35.373+00:00",
+          "team": "Internships",
+          "title": "Developer Intern - Extension Excellence - Summer 2026"
+        },
+        {
+          "department": "Internships",
+          "id": "44426502-60f1-4639-b662-f48779861ac1",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/44426502-60f1-4639-b662-f48779861ac1",
+          "location": "Remote Canada",
+          "publishedAt": "2026-01-30T23:58:23.230+00:00",
+          "team": "Internships",
+          "title": "Developer Intern - Data Security - Summer 2026"
+        },
+        {
+          "department": "Internships",
+          "id": "57ebf56e-14ed-412b-a879-fb337a291fe4",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/57ebf56e-14ed-412b-a879-fb337a291fe4",
+          "location": "Remote Canada",
+          "publishedAt": "2026-01-30T23:58:06.662+00:00",
+          "team": "Internships",
+          "title": "Developer Intern - Platform Advancement - Summer 2026"
+        },
+        {
+          "department": "Internships",
+          "id": "79a3e6b4-cfaa-41f4-992a-72607609641c",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/79a3e6b4-cfaa-41f4-992a-72607609641c",
+          "location": "Remote Canada",
+          "publishedAt": "2026-01-30T23:57:41.430+00:00",
+          "team": "Internships",
+          "title": "Developer Intern - Billing & Payments - Summer 2026"
+        },
+        {
+          "department": "Internships",
+          "id": "f1501068-4cd5-40cd-b045-5f182192bf79",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/f1501068-4cd5-40cd-b045-5f182192bf79",
+          "location": "Remote Canada",
+          "publishedAt": "2026-01-30T23:57:24.001+00:00",
+          "team": "Internships",
+          "title": "Developer Intern - Insights - Summer 2026"
+        },
+        {
+          "department": "Technology",
+          "id": "46cad1cc-8f2a-427a-9090-5643a701f61b",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/46cad1cc-8f2a-427a-9090-5643a701f61b",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-01-30T23:25:36.196+00:00",
+          "team": "Developer AI",
+          "title": "Senior Director Engineering, AI and Developer"
+        },
+        {
+          "department": "G&A",
+          "id": "4b5e1f70-a70c-49a9-84ca-aa71a741741d",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/4b5e1f70-a70c-49a9-84ca-aa71a741741d",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-01-30T17:27:04.369+00:00",
+          "team": "Administration",
+          "title": "Senior Manager, Strategic Operations"
+        },
+        {
+          "department": "Customer Experience",
+          "id": "72f6be80-b72e-466c-b4ea-a96d7f2d04a2",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/72f6be80-b72e-466c-b4ea-a96d7f2d04a2",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-01-20T21:32:29.973+00:00",
+          "team": "CX Community",
+          "title": "Insights Manager, Voice of Customer"
+        }
+      ]
+    },
+    {
+      "board": "mazedesign",
+      "jobs": [
+        {
+          "department": "Sales & Customer Success",
+          "id": "1e1ff3bd-61ef-4b87-a6dc-28e8be76f2b4",
+          "jobUrl": "https://jobs.ashbyhq.com/mazedesign/1e1ff3bd-61ef-4b87-a6dc-28e8be76f2b4",
+          "location": "United Kingdom",
+          "publishedAt": "2026-01-31T02:17:04.355+00:00",
+          "team": "Sales Development",
+          "title": "Sales Development Representative, EMEA"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-01-30T15:52:51.686670+00:00"
+  "scannedAtUtc": "2026-01-31T07:19:05.678526+00:00"
 }
