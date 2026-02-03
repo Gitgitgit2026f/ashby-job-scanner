@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-02-02T15:53:53.398407+00:00
+- **Scanned at (UTC):** 2026-02-03T07:57:43.382982+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 6
+- **New jobs found:** 5
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -10,10 +10,10 @@
 
 | Board | New jobs |
 |---|---:|
-| n8n | 3 |
+| n8n | 1 |
 | reedsy | 0 |
 | mazehq | 0 |
-| supabase | 1 |
+| supabase | 0 |
 | nango | 0 |
 | axelera | 0 |
 | ashby | 1 |
@@ -29,8 +29,8 @@
 | splitmetrics | 0 |
 | oh | 0 |
 | substack | 0 |
-| dash0 | 1 |
-| 1password | 0 |
+| dash0 | 0 |
+| 1password | 3 |
 | incard | 0 |
 | atomic-invest | 0 |
 | chronospherejobs | 0 |
@@ -42,19 +42,15 @@
 
 ### n8n
 
-- [Senior Solutions Engineer | West Coast - Remote](https://jobs.ashbyhq.com/n8n/53da0231-00c9-4aae-80e3-16d3a93c3381) — San Francisco — 2026-02-02T14:08:16.940+00:00
-- [Senior Solutions Engineer | East Coast - Remote](https://jobs.ashbyhq.com/n8n/788662b7-6b2b-4b07-b466-bf131fd95d08) — New York — 2026-02-02T14:08:13.241+00:00
-- [Junior Support Engineer (EMEA)](https://jobs.ashbyhq.com/n8n/49726418-ca77-4370-aa69-6e8d1eb42ddf) — Berlin Office — 2026-02-02T13:20:34.079+00:00
-
-### supabase
-
-- [API Engineer (NASA or APAC)](https://jobs.ashbyhq.com/supabase/e50d173a-3b4f-45f8-a920-550fb841a989) — Remote — 2026-02-02T08:59:10.572+00:00
+- [Senior Solutions Engineer (Remote Europe)](https://jobs.ashbyhq.com/n8n/92208273-951b-4388-935b-037624fe1725) — Berlin Office — 2026-02-02T17:42:24.146+00:00
 
 ### ashby
 
-- [Account Executive, Startups - EMEA](https://jobs.ashbyhq.com/ashby/78cd7bc7-871a-43ff-94b9-03d3bb0b2b86) — Remote - Europe — 2025-08-08T00:00:49.576+00:00
+- [Manager, GTM Systems & Tools](https://jobs.ashbyhq.com/ashby/b4ca892a-8a7d-4703-9522-9727d55c8ff5) — Remote - North America — 2026-02-02T17:52:21.476+00:00
 
-### dash0
+### 1password
 
-- [Senior Platform Engineer](https://jobs.ashbyhq.com/dash0/418ff0d0-5349-4145-8d90-0979ac194010) — EMEA - Remote — 2026-02-02T14:40:22.246+00:00
+- [Finance Intern - Corporate Accounting, Special Projects - Summer 2026](https://jobs.ashbyhq.com/1password/c0b9936f-f81b-4625-b029-ee903c1b2174) — Remote Canada — 2026-02-02T21:29:24.997+00:00
+- [Data Intern - Enterprise Analytics - Summer 2026](https://jobs.ashbyhq.com/1password/04bd6c82-aa24-42de-ab36-fc297cd34e7f) — Remote Canada — 2026-02-02T21:25:37.884+00:00
+- [Senior Social Media Specialist](https://jobs.ashbyhq.com/1password/79ab585b-48b4-4629-8f58-f69e74302024) — Remote (United States | Canada) — 2026-01-13T18:46:15.449+00:00
 
