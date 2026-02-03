@@ -6,62 +6,67 @@
       "board": "n8n",
       "jobs": [
         {
-          "department": "Sales",
-          "id": "92208273-951b-4388-935b-037624fe1725",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/92208273-951b-4388-935b-037624fe1725",
+          "department": "Engineering",
+          "id": "49e569f0-503e-4e42-a1ba-7e63684e90d3",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/49e569f0-503e-4e42-a1ba-7e63684e90d3",
           "location": "Berlin Office",
-          "publishedAt": "2026-02-02T17:42:24.146+00:00",
-          "team": "Solutions Engineering",
-          "title": "Senior Solutions Engineer (Remote Europe)"
+          "publishedAt": "2026-02-03T08:54:19.605+00:00",
+          "team": "Security",
+          "title": "Sr Product Security Engineer "
+        },
+        {
+          "department": "Engineering",
+          "id": "a79aa548-6381-4c08-a4e4-f024435f9db9",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/a79aa548-6381-4c08-a4e4-f024435f9db9",
+          "location": "Berlin Office",
+          "publishedAt": "2026-02-03T08:53:32.998+00:00",
+          "team": "Nodes",
+          "title": "Senior Product Engineer | TS/NodeJS/Vue | Europe Remote"
         }
       ]
     },
     {
-      "board": "ashby",
+      "board": "axelera",
       "jobs": [
         {
-          "department": "Sales",
-          "id": "b4ca892a-8a7d-4703-9522-9727d55c8ff5",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/b4ca892a-8a7d-4703-9522-9727d55c8ff5",
-          "location": "Remote - North America",
-          "publishedAt": "2026-02-02T17:52:21.476+00:00",
-          "team": "Revenue Operations",
-          "title": "Manager, GTM Systems & Tools"
+          "department": "Research & Development",
+          "id": "7c1a9b84-198c-4b75-b421-0731ab5acfd7",
+          "jobUrl": "https://jobs.ashbyhq.com/axelera/7c1a9b84-198c-4b75-b421-0731ab5acfd7",
+          "location": "Leuven (on-site)",
+          "publishedAt": "2026-02-03T13:24:36.298+00:00",
+          "team": "Machine Learning",
+          "title": "Senior Engineer – Multimodal AI Model Development Research"
         }
       ]
     },
     {
-      "board": "1password",
+      "board": "gt-hq",
       "jobs": [
         {
-          "department": "Internships",
-          "id": "c0b9936f-f81b-4625-b029-ee903c1b2174",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/c0b9936f-f81b-4625-b029-ee903c1b2174",
-          "location": "Remote Canada",
-          "publishedAt": "2026-02-02T21:29:24.997+00:00",
-          "team": "Internships",
-          "title": "Finance Intern - Corporate Accounting, Special Projects - Summer 2026"
-        },
+          "department": "Dreams",
+          "id": "54af48e8-dbcc-4f72-88a7-52de4b54e8dc",
+          "jobUrl": "https://jobs.ashbyhq.com/gt-hq/54af48e8-dbcc-4f72-88a7-52de4b54e8dc",
+          "location": "Europe - Remote",
+          "publishedAt": "2026-02-03T11:08:17.436+00:00",
+          "team": "Dreams",
+          "title": "Data Engineer (MS Fabric) | Dreams "
+        }
+      ]
+    },
+    {
+      "board": "atomic-invest",
+      "jobs": [
         {
-          "department": "Internships",
-          "id": "04bd6c82-aa24-42de-ab36-fc297cd34e7f",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/04bd6c82-aa24-42de-ab36-fc297cd34e7f",
-          "location": "Remote Canada",
-          "publishedAt": "2026-02-02T21:25:37.884+00:00",
-          "team": "Internships",
-          "title": "Data Intern - Enterprise Analytics - Summer 2026"
-        },
-        {
-          "department": "Marketing",
-          "id": "79ab585b-48b4-4629-8f58-f69e74302024",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/79ab585b-48b4-4629-8f58-f69e74302024",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-01-13T18:46:15.449+00:00",
-          "team": "Marketing",
-          "title": "Senior Social Media Specialist"
+          "department": "Operations",
+          "id": "881d2dd7-eebe-4459-a92b-8e5e858ded6c",
+          "jobUrl": "https://jobs.ashbyhq.com/atomic-invest/881d2dd7-eebe-4459-a92b-8e5e858ded6c",
+          "location": "New York",
+          "publishedAt": "2026-02-03T14:22:35.394+00:00",
+          "team": "Operations",
+          "title": "Executive Assistant, CEO"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-02-03T07:57:43.382982+00:00"
+  "scannedAtUtc": "2026-02-03T16:35:59.816898+00:00"
 }

@@ -1,6 +1,6 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-02-03T07:57:43.382982+00:00
+- **Scanned at (UTC):** 2026-02-03T16:35:59.816898+00:00
 - **Boards scanned:** 27
 - **New jobs found:** 5
 - **Errors:** 0
@@ -10,15 +10,15 @@
 
 | Board | New jobs |
 |---|---:|
-| n8n | 1 |
+| n8n | 2 |
 | reedsy | 0 |
 | mazehq | 0 |
 | supabase | 0 |
 | nango | 0 |
-| axelera | 0 |
-| ashby | 1 |
+| axelera | 1 |
+| ashby | 0 |
 | cargo-one | 0 |
-| gt-hq | 0 |
+| gt-hq | 1 |
 | dourolabs.xyz | 0 |
 | everai | 0 |
 | toogeza | 0 |
@@ -30,9 +30,9 @@
 | oh | 0 |
 | substack | 0 |
 | dash0 | 0 |
-| 1password | 3 |
+| 1password | 0 |
 | incard | 0 |
-| atomic-invest | 0 |
+| atomic-invest | 1 |
 | chronospherejobs | 0 |
 | v7labs.com | 0 |
 | poolside | 0 |
@@ -42,15 +42,18 @@
 
 ### n8n
 
-- [Senior Solutions Engineer (Remote Europe)](https://jobs.ashbyhq.com/n8n/92208273-951b-4388-935b-037624fe1725) — Berlin Office — 2026-02-02T17:42:24.146+00:00
+- [Sr Product Security Engineer](https://jobs.ashbyhq.com/n8n/49e569f0-503e-4e42-a1ba-7e63684e90d3) — Berlin Office — 2026-02-03T08:54:19.605+00:00
+- [Senior Product Engineer | TS/NodeJS/Vue | Europe Remote](https://jobs.ashbyhq.com/n8n/a79aa548-6381-4c08-a4e4-f024435f9db9) — Berlin Office — 2026-02-03T08:53:32.998+00:00
 
-### ashby
+### axelera
 
-- [Manager, GTM Systems & Tools](https://jobs.ashbyhq.com/ashby/b4ca892a-8a7d-4703-9522-9727d55c8ff5) — Remote - North America — 2026-02-02T17:52:21.476+00:00
+- [Senior Engineer – Multimodal AI Model Development Research](https://jobs.ashbyhq.com/axelera/7c1a9b84-198c-4b75-b421-0731ab5acfd7) — Leuven (on-site) — 2026-02-03T13:24:36.298+00:00
 
-### 1password
+### gt-hq
 
-- [Finance Intern - Corporate Accounting, Special Projects - Summer 2026](https://jobs.ashbyhq.com/1password/c0b9936f-f81b-4625-b029-ee903c1b2174) — Remote Canada — 2026-02-02T21:29:24.997+00:00
-- [Data Intern - Enterprise Analytics - Summer 2026](https://jobs.ashbyhq.com/1password/04bd6c82-aa24-42de-ab36-fc297cd34e7f) — Remote Canada — 2026-02-02T21:25:37.884+00:00
-- [Senior Social Media Specialist](https://jobs.ashbyhq.com/1password/79ab585b-48b4-4629-8f58-f69e74302024) — Remote (United States | Canada) — 2026-01-13T18:46:15.449+00:00
+- [Data Engineer (MS Fabric) | Dreams](https://jobs.ashbyhq.com/gt-hq/54af48e8-dbcc-4f72-88a7-52de4b54e8dc) — Europe - Remote — 2026-02-03T11:08:17.436+00:00
+
+### atomic-invest
+
+- [Executive Assistant, CEO](https://jobs.ashbyhq.com/atomic-invest/881d2dd7-eebe-4459-a92b-8e5e858ded6c) — New York — 2026-02-03T14:22:35.394+00:00
 
