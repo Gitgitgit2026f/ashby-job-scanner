@@ -3,83 +3,47 @@
   "firstRun": false,
   "new": [
     {
-      "board": "supabase",
+      "board": "n8n",
       "jobs": [
         {
-          "department": "Growth",
-          "id": "8d486be1-1d65-44e9-bcf9-ed75172ce32b",
-          "jobUrl": "https://jobs.ashbyhq.com/supabase/8d486be1-1d65-44e9-bcf9-ed75172ce32b",
-          "location": "Remote",
-          "publishedAt": "2026-02-03T23:40:40.414+00:00",
-          "team": "Data + Growth",
-          "title": "Head of Data Intelligence "
+          "department": "Operations",
+          "id": "613909d8-7f3e-4f5a-88fc-6ec9bdffbc04",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/613909d8-7f3e-4f5a-88fc-6ec9bdffbc04",
+          "location": "Berlin Office",
+          "publishedAt": "2026-02-04T09:43:45.549+00:00",
+          "team": "Revenue Operations",
+          "title": "Senior Marketing Data Analyst"
         }
       ]
     },
     {
-      "board": "gt-hq",
+      "board": "dourolabs.xyz",
       "jobs": [
         {
-          "department": "Confidential",
-          "id": "0b0b4154-89f8-4983-bab6-85b830e1cb63",
-          "jobUrl": "https://jobs.ashbyhq.com/gt-hq/0b0b4154-89f8-4983-bab6-85b830e1cb63",
-          "location": "Warsaw, Poland ",
-          "publishedAt": "2026-02-03T16:52:55.386+00:00",
-          "team": "Confidential",
-          "title": "Data Engineer | NDA"
+          "department": "🧑🏽‍💻 Engineering",
+          "id": "a1a9ade9-eb79-44a7-8385-6c903af01e90",
+          "jobUrl": "https://jobs.ashbyhq.com/dourolabs.xyz/a1a9ade9-eb79-44a7-8385-6c903af01e90",
+          "location": "North America - Remote",
+          "publishedAt": "2026-02-04T14:40:58.015+00:00",
+          "team": "🧑🏽‍💻 Engineering",
+          "title": "Site Reliability Engineer"
         }
       ]
     },
     {
-      "board": "1password",
+      "board": "dash0",
       "jobs": [
         {
-          "department": "Internships",
-          "id": "2271dd32-0d1a-4014-b6c8-21b22b630705",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/2271dd32-0d1a-4014-b6c8-21b22b630705",
-          "location": "Remote Canada",
-          "publishedAt": "2026-02-04T00:07:57.429+00:00",
-          "team": "Internships",
-          "title": "Developer Intern - Client Secrets Management - Summer 2026"
-        },
-        {
-          "department": "Product",
-          "id": "cf6a76f4-f407-44e9-8c36-5d0de0f0f509",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/cf6a76f4-f407-44e9-8c36-5d0de0f0f509",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-02-03T20:04:15.531+00:00",
-          "team": "Design & UX",
-          "title": "Content Designer"
-        },
-        {
-          "department": "Product",
-          "id": "e5f48d13-0c0b-4625-8723-da75360520a5",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/e5f48d13-0c0b-4625-8723-da75360520a5",
-          "location": "Remote UK",
-          "publishedAt": "2026-02-03T20:03:43.543+00:00",
-          "team": "Design & UX",
-          "title": "Content Designer"
-        },
-        {
-          "department": "Internships",
-          "id": "6349c9f0-a0e0-4e7c-b782-ac6fde638804",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/6349c9f0-a0e0-4e7c-b782-ac6fde638804",
-          "location": "Remote Canada",
-          "publishedAt": "2026-02-03T18:42:19.148+00:00",
-          "team": "Internships",
-          "title": "Product Design Intern - Design & UX, SaaS Manager - Summer 2026"
-        },
-        {
-          "department": "G&A",
-          "id": "f9aaa96a-126c-48d2-b24f-5fca98fc24bf",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/f9aaa96a-126c-48d2-b24f-5fca98fc24bf",
-          "location": "Remote Canada",
-          "publishedAt": "2026-02-03T17:04:27.446+00:00",
-          "team": "Legal",
-          "title": "Contracts Manager"
+          "department": "Engineering / R&D",
+          "id": "3cdb2cc5-a181-4735-8997-2f816d9bed2d",
+          "jobUrl": "https://jobs.ashbyhq.com/dash0/3cdb2cc5-a181-4735-8997-2f816d9bed2d",
+          "location": "EMEA - Remote",
+          "publishedAt": "2026-02-04T11:49:39.966+00:00",
+          "team": "Engineering / R&D",
+          "title": "VP of Engineering"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-02-04T07:58:37.293512+00:00"
+  "scannedAtUtc": "2026-02-04T16:10:33.640001+00:00"
 }
