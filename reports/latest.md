@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-02-03T16:35:59.816898+00:00
+- **Scanned at (UTC):** 2026-02-04T07:58:37.293512+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 5
+- **New jobs found:** 7
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -10,12 +10,12 @@
 
 | Board | New jobs |
 |---|---:|
-| n8n | 2 |
+| n8n | 0 |
 | reedsy | 0 |
 | mazehq | 0 |
-| supabase | 0 |
+| supabase | 1 |
 | nango | 0 |
-| axelera | 1 |
+| axelera | 0 |
 | ashby | 0 |
 | cargo-one | 0 |
 | gt-hq | 1 |
@@ -30,9 +30,9 @@
 | oh | 0 |
 | substack | 0 |
 | dash0 | 0 |
-| 1password | 0 |
+| 1password | 5 |
 | incard | 0 |
-| atomic-invest | 1 |
+| atomic-invest | 0 |
 | chronospherejobs | 0 |
 | v7labs.com | 0 |
 | poolside | 0 |
@@ -40,20 +40,19 @@
 
 ## New jobs
 
-### n8n
+### supabase
 
-- [Sr Product Security Engineer](https://jobs.ashbyhq.com/n8n/49e569f0-503e-4e42-a1ba-7e63684e90d3) — Berlin Office — 2026-02-03T08:54:19.605+00:00
-- [Senior Product Engineer | TS/NodeJS/Vue | Europe Remote](https://jobs.ashbyhq.com/n8n/a79aa548-6381-4c08-a4e4-f024435f9db9) — Berlin Office — 2026-02-03T08:53:32.998+00:00
-
-### axelera
-
-- [Senior Engineer – Multimodal AI Model Development Research](https://jobs.ashbyhq.com/axelera/7c1a9b84-198c-4b75-b421-0731ab5acfd7) — Leuven (on-site) — 2026-02-03T13:24:36.298+00:00
+- [Head of Data Intelligence](https://jobs.ashbyhq.com/supabase/8d486be1-1d65-44e9-bcf9-ed75172ce32b) — Remote — 2026-02-03T23:40:40.414+00:00
 
 ### gt-hq
 
-- [Data Engineer (MS Fabric) | Dreams](https://jobs.ashbyhq.com/gt-hq/54af48e8-dbcc-4f72-88a7-52de4b54e8dc) — Europe - Remote — 2026-02-03T11:08:17.436+00:00
+- [Data Engineer | NDA](https://jobs.ashbyhq.com/gt-hq/0b0b4154-89f8-4983-bab6-85b830e1cb63) — Warsaw, Poland — 2026-02-03T16:52:55.386+00:00
 
-### atomic-invest
+### 1password
 
-- [Executive Assistant, CEO](https://jobs.ashbyhq.com/atomic-invest/881d2dd7-eebe-4459-a92b-8e5e858ded6c) — New York — 2026-02-03T14:22:35.394+00:00
+- [Developer Intern - Client Secrets Management - Summer 2026](https://jobs.ashbyhq.com/1password/2271dd32-0d1a-4014-b6c8-21b22b630705) — Remote Canada — 2026-02-04T00:07:57.429+00:00
+- [Content Designer](https://jobs.ashbyhq.com/1password/cf6a76f4-f407-44e9-8c36-5d0de0f0f509) — Remote (United States | Canada) — 2026-02-03T20:04:15.531+00:00
+- [Content Designer](https://jobs.ashbyhq.com/1password/e5f48d13-0c0b-4625-8723-da75360520a5) — Remote UK — 2026-02-03T20:03:43.543+00:00
+- [Product Design Intern - Design & UX, SaaS Manager - Summer 2026](https://jobs.ashbyhq.com/1password/6349c9f0-a0e0-4e7c-b782-ac6fde638804) — Remote Canada — 2026-02-03T18:42:19.148+00:00
+- [Contracts Manager](https://jobs.ashbyhq.com/1password/f9aaa96a-126c-48d2-b24f-5fca98fc24bf) — Remote Canada — 2026-02-03T17:04:27.446+00:00
 

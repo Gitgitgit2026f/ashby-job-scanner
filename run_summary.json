@@ -3,39 +3,16 @@
   "firstRun": false,
   "new": [
     {
-      "board": "n8n",
+      "board": "supabase",
       "jobs": [
         {
-          "department": "Engineering",
-          "id": "49e569f0-503e-4e42-a1ba-7e63684e90d3",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/49e569f0-503e-4e42-a1ba-7e63684e90d3",
-          "location": "Berlin Office",
-          "publishedAt": "2026-02-03T08:54:19.605+00:00",
-          "team": "Security",
-          "title": "Sr Product Security Engineer "
-        },
-        {
-          "department": "Engineering",
-          "id": "a79aa548-6381-4c08-a4e4-f024435f9db9",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/a79aa548-6381-4c08-a4e4-f024435f9db9",
-          "location": "Berlin Office",
-          "publishedAt": "2026-02-03T08:53:32.998+00:00",
-          "team": "Nodes",
-          "title": "Senior Product Engineer | TS/NodeJS/Vue | Europe Remote"
-        }
-      ]
-    },
-    {
-      "board": "axelera",
-      "jobs": [
-        {
-          "department": "Research & Development",
-          "id": "7c1a9b84-198c-4b75-b421-0731ab5acfd7",
-          "jobUrl": "https://jobs.ashbyhq.com/axelera/7c1a9b84-198c-4b75-b421-0731ab5acfd7",
-          "location": "Leuven (on-site)",
-          "publishedAt": "2026-02-03T13:24:36.298+00:00",
-          "team": "Machine Learning",
-          "title": "Senior Engineer – Multimodal AI Model Development Research"
+          "department": "Growth",
+          "id": "8d486be1-1d65-44e9-bcf9-ed75172ce32b",
+          "jobUrl": "https://jobs.ashbyhq.com/supabase/8d486be1-1d65-44e9-bcf9-ed75172ce32b",
+          "location": "Remote",
+          "publishedAt": "2026-02-03T23:40:40.414+00:00",
+          "team": "Data + Growth",
+          "title": "Head of Data Intelligence "
         }
       ]
     },
@@ -43,30 +20,66 @@
       "board": "gt-hq",
       "jobs": [
         {
-          "department": "Dreams",
-          "id": "54af48e8-dbcc-4f72-88a7-52de4b54e8dc",
-          "jobUrl": "https://jobs.ashbyhq.com/gt-hq/54af48e8-dbcc-4f72-88a7-52de4b54e8dc",
-          "location": "Europe - Remote",
-          "publishedAt": "2026-02-03T11:08:17.436+00:00",
-          "team": "Dreams",
-          "title": "Data Engineer (MS Fabric) | Dreams "
+          "department": "Confidential",
+          "id": "0b0b4154-89f8-4983-bab6-85b830e1cb63",
+          "jobUrl": "https://jobs.ashbyhq.com/gt-hq/0b0b4154-89f8-4983-bab6-85b830e1cb63",
+          "location": "Warsaw, Poland ",
+          "publishedAt": "2026-02-03T16:52:55.386+00:00",
+          "team": "Confidential",
+          "title": "Data Engineer | NDA"
         }
       ]
     },
     {
-      "board": "atomic-invest",
+      "board": "1password",
       "jobs": [
         {
-          "department": "Operations",
-          "id": "881d2dd7-eebe-4459-a92b-8e5e858ded6c",
-          "jobUrl": "https://jobs.ashbyhq.com/atomic-invest/881d2dd7-eebe-4459-a92b-8e5e858ded6c",
-          "location": "New York",
-          "publishedAt": "2026-02-03T14:22:35.394+00:00",
-          "team": "Operations",
-          "title": "Executive Assistant, CEO"
+          "department": "Internships",
+          "id": "2271dd32-0d1a-4014-b6c8-21b22b630705",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/2271dd32-0d1a-4014-b6c8-21b22b630705",
+          "location": "Remote Canada",
+          "publishedAt": "2026-02-04T00:07:57.429+00:00",
+          "team": "Internships",
+          "title": "Developer Intern - Client Secrets Management - Summer 2026"
+        },
+        {
+          "department": "Product",
+          "id": "cf6a76f4-f407-44e9-8c36-5d0de0f0f509",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/cf6a76f4-f407-44e9-8c36-5d0de0f0f509",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-02-03T20:04:15.531+00:00",
+          "team": "Design & UX",
+          "title": "Content Designer"
+        },
+        {
+          "department": "Product",
+          "id": "e5f48d13-0c0b-4625-8723-da75360520a5",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/e5f48d13-0c0b-4625-8723-da75360520a5",
+          "location": "Remote UK",
+          "publishedAt": "2026-02-03T20:03:43.543+00:00",
+          "team": "Design & UX",
+          "title": "Content Designer"
+        },
+        {
+          "department": "Internships",
+          "id": "6349c9f0-a0e0-4e7c-b782-ac6fde638804",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/6349c9f0-a0e0-4e7c-b782-ac6fde638804",
+          "location": "Remote Canada",
+          "publishedAt": "2026-02-03T18:42:19.148+00:00",
+          "team": "Internships",
+          "title": "Product Design Intern - Design & UX, SaaS Manager - Summer 2026"
+        },
+        {
+          "department": "G&A",
+          "id": "f9aaa96a-126c-48d2-b24f-5fca98fc24bf",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/f9aaa96a-126c-48d2-b24f-5fca98fc24bf",
+          "location": "Remote Canada",
+          "publishedAt": "2026-02-03T17:04:27.446+00:00",
+          "team": "Legal",
+          "title": "Contracts Manager"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-02-03T16:35:59.816898+00:00"
+  "scannedAtUtc": "2026-02-04T07:58:37.293512+00:00"
 }
