@@ -3,16 +3,39 @@
   "firstRun": false,
   "new": [
     {
+      "board": "n8n",
+      "jobs": [
+        {
+          "department": "Engineering",
+          "id": "cb739e3a-0e51-461e-89c1-ef7821f56666",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/cb739e3a-0e51-461e-89c1-ef7821f56666",
+          "location": "Berlin Office",
+          "publishedAt": "2026-02-05T10:41:47.587+00:00",
+          "team": "Catalyst",
+          "title": "Staff Software Engineer - Core Workflow Engine | Remote - Europe"
+        },
+        {
+          "department": "Sales",
+          "id": "37db5b59-e888-460a-b4ad-9c4b974d854f",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/37db5b59-e888-460a-b4ad-9c4b974d854f",
+          "location": "Germany",
+          "publishedAt": "2026-02-05T08:49:06.788+00:00",
+          "team": "Sales",
+          "title": "Account Executive Talent Pool EMEA"
+        }
+      ]
+    },
+    {
       "board": "supabase",
       "jobs": [
         {
-          "department": "Growth",
-          "id": "2ab81e46-2e46-4120-938c-429b9f4aa7a7",
-          "jobUrl": "https://jobs.ashbyhq.com/supabase/2ab81e46-2e46-4120-938c-429b9f4aa7a7",
+          "department": "Engineering",
+          "id": "2ed5e80d-438b-47a5-9efe-12d168b8de81",
+          "jobUrl": "https://jobs.ashbyhq.com/supabase/2ed5e80d-438b-47a5-9efe-12d168b8de81",
           "location": "Remote",
-          "publishedAt": "2026-02-04T19:50:23.629+00:00",
-          "team": "Marketing",
-          "title": "Field Marketing Manager "
+          "publishedAt": "2026-02-05T10:36:23.439+00:00",
+          "team": "Support Tooling",
+          "title": "Software Engineer - Support Tooling (APAC/AMER)"
         }
       ]
     },
@@ -21,65 +44,43 @@
       "jobs": [
         {
           "department": "Customer Success",
-          "id": "3d0ffda4-696a-4c4e-bee5-d7f4f441c3c3",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/3d0ffda4-696a-4c4e-bee5-d7f4f441c3c3",
-          "location": "Remote - Europe",
-          "publishedAt": "2026-02-04T20:27:59.397+00:00",
-          "team": "Professional Services",
-          "title": "Strategic Implementation Specialist - EMEA"
-        },
-        {
-          "department": "Marketing",
-          "id": "a652c66c-16d3-47d1-88b0-0b1c82fff75c",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/a652c66c-16d3-47d1-88b0-0b1c82fff75c",
-          "location": "Remote - Europe",
-          "publishedAt": "2026-02-04T17:59:22.087+00:00",
-          "team": "Marketing",
-          "title": "Sr. Event Marketing Manager - EMEA"
-        },
-        {
-          "department": "Customer Success",
-          "id": "fe44e5a8-1b61-4330-a02d-7f7b66f5ade2",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/fe44e5a8-1b61-4330-a02d-7f7b66f5ade2",
+          "id": "f40bfe31-2f1f-4b81-9b6f-4177f6b3f411",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/f40bfe31-2f1f-4b81-9b6f-4177f6b3f411",
           "location": "Remote - North America",
-          "publishedAt": "2025-11-06T17:50:18.162+00:00",
-          "team": "Professional Services",
-          "title": "Strategic Implementation Specialist - Americas"
-        },
-        {
-          "department": "Customer Success",
-          "id": "44303790-5438-4123-b617-216b4270fcd8",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/44303790-5438-4123-b617-216b4270fcd8",
-          "location": "Remote - North America",
-          "publishedAt": "2025-10-29T18:50:11.503+00:00",
-          "team": "Professional Services",
-          "title": "High Touch Implementation Specialist - Americas"
+          "publishedAt": "2026-01-30T22:08:13.856+00:00",
+          "team": "Customer Support",
+          "title": "Support Workforce Management Lead - Americas"
         }
       ]
     },
     {
-      "board": "1password",
+      "board": "toogeza",
       "jobs": [
         {
-          "department": "Internships",
-          "id": "f09770f1-6e58-4aea-b0e6-f02c3e0353a4",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/f09770f1-6e58-4aea-b0e6-f02c3e0353a4",
-          "location": "Remote Canada",
-          "publishedAt": "2026-02-04T23:41:54.520+00:00",
-          "team": "Internships",
-          "title": "Product Design Intern - Design & UX, MSP & Billing - Summer 2026"
-        },
+          "department": "Creative",
+          "id": "d7d247b8-e22d-4e9c-83d6-d1377c644bcb",
+          "jobUrl": "https://jobs.ashbyhq.com/toogeza/d7d247b8-e22d-4e9c-83d6-d1377c644bcb",
+          "location": "Europe",
+          "publishedAt": "2026-02-05T10:27:41.824+00:00",
+          "team": "Creative",
+          "title": "Lead Product Designer"
+        }
+      ]
+    },
+    {
+      "board": "splitmetrics",
+      "jobs": [
         {
-          "department": "Internships",
-          "id": "216f87f2-33d1-434a-9a4a-0263b61bcc36",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/216f87f2-33d1-434a-9a4a-0263b61bcc36",
-          "location": "Remote Canada",
-          "publishedAt": "2026-02-04T23:36:19.630+00:00",
-          "team": "Internships",
-          "title": "Product Ops Intern - EPM - Summer 2026"
+          "department": "Customer Success",
+          "id": "e6186c6d-d33c-4104-81d7-29d9c7d5f8f5",
+          "jobUrl": "https://jobs.ashbyhq.com/splitmetrics/e6186c6d-d33c-4104-81d7-29d9c7d5f8f5",
+          "location": "Ukraine",
+          "publishedAt": "2026-02-05T10:09:18.524+00:00",
+          "team": "Customer Success",
+          "title": "L1 Support Specialist (Evening Shifts)"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-02-05T08:01:07.497001+00:00"
+  "scannedAtUtc": "2026-02-05T16:02:08.803067+00:00"
 }

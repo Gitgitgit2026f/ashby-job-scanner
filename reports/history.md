@@ -2,6 +2,22 @@
 
 ---
 
+## 2026-02-05T16:02:08.803067+00:00
+
+- Boards: 27
+- New jobs: 6
+- Errors: 0
+- First run: no
+
+New per board:
+- **n8n**: 2
+- **supabase**: 1
+- **ashby**: 1
+- **toogeza**: 1
+- **splitmetrics**: 1
+
+---
+
 ## 2026-02-05T08:01:07.497001+00:00
 
 - Boards: 27
