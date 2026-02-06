@@ -3,84 +3,74 @@
   "firstRun": false,
   "new": [
     {
-      "board": "n8n",
+      "board": "axelera",
       "jobs": [
         {
-          "department": "Engineering",
-          "id": "cb739e3a-0e51-461e-89c1-ef7821f56666",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/cb739e3a-0e51-461e-89c1-ef7821f56666",
-          "location": "Berlin Office",
-          "publishedAt": "2026-02-05T10:41:47.587+00:00",
-          "team": "Catalyst",
-          "title": "Staff Software Engineer - Core Workflow Engine | Remote - Europe"
+          "department": "Silicon Engineering",
+          "id": "adebe140-eb52-41be-b6e9-31642b9ab07e",
+          "jobUrl": "https://jobs.ashbyhq.com/axelera/adebe140-eb52-41be-b6e9-31642b9ab07e",
+          "location": "Hybrid/Remote - Europe (incl. UK)",
+          "publishedAt": "2026-02-05T18:04:03.125+00:00",
+          "team": "Logical Design & DFT",
+          "title": "Principal Engineer - Silicon Logical Design"
         },
         {
-          "department": "Sales",
-          "id": "37db5b59-e888-460a-b4ad-9c4b974d854f",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/37db5b59-e888-460a-b4ad-9c4b974d854f",
-          "location": "Germany",
-          "publishedAt": "2026-02-05T08:49:06.788+00:00",
-          "team": "Sales",
-          "title": "Account Executive Talent Pool EMEA"
+          "department": "Silicon Engineering",
+          "id": "07605701-fef5-47d3-aef3-2897e59fee20",
+          "jobUrl": "https://jobs.ashbyhq.com/axelera/07605701-fef5-47d3-aef3-2897e59fee20",
+          "location": "Hybrid/Remote - Europe (incl. UK)",
+          "publishedAt": "2026-02-05T17:57:16.788+00:00",
+          "team": "Logical Design & DFT",
+          "title": "Director - Silicon Logical Design"
+        },
+        {
+          "department": "Silicon Engineering",
+          "id": "ddc7bf42-ea0f-4b23-be0b-7b0545928181",
+          "jobUrl": "https://jobs.ashbyhq.com/axelera/ddc7bf42-ea0f-4b23-be0b-7b0545928181",
+          "location": "Bristol (on-site)",
+          "publishedAt": "2026-02-05T17:42:08.457+00:00",
+          "team": "Silicon Product",
+          "title": "Silicon Product Engineering Lead (Bristol)"
         }
       ]
     },
     {
-      "board": "supabase",
+      "board": "substack",
       "jobs": [
         {
-          "department": "Engineering",
-          "id": "2ed5e80d-438b-47a5-9efe-12d168b8de81",
-          "jobUrl": "https://jobs.ashbyhq.com/supabase/2ed5e80d-438b-47a5-9efe-12d168b8de81",
-          "location": "Remote",
-          "publishedAt": "2026-02-05T10:36:23.439+00:00",
-          "team": "Support Tooling",
-          "title": "Software Engineer - Support Tooling (APAC/AMER)"
+          "department": "Partnerships",
+          "id": "94a77486-48ff-484d-bb01-f197155cd855",
+          "jobUrl": "https://jobs.ashbyhq.com/substack/94a77486-48ff-484d-bb01-f197155cd855",
+          "location": "San Francisco (HQ)",
+          "publishedAt": "2026-02-06T01:05:35.973+00:00",
+          "team": "Marketing",
+          "title": "Marketing Manager, Creator Marketing"
         }
       ]
     },
     {
-      "board": "ashby",
+      "board": "1password",
       "jobs": [
         {
-          "department": "Customer Success",
-          "id": "f40bfe31-2f1f-4b81-9b6f-4177f6b3f411",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/f40bfe31-2f1f-4b81-9b6f-4177f6b3f411",
-          "location": "Remote - North America",
-          "publishedAt": "2026-01-30T22:08:13.856+00:00",
-          "team": "Customer Support",
-          "title": "Support Workforce Management Lead - Americas"
-        }
-      ]
-    },
-    {
-      "board": "toogeza",
-      "jobs": [
+          "department": "Technology",
+          "id": "c9a9ab56-a6b1-48cc-9760-7c6451da558a",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/c9a9ab56-a6b1-48cc-9760-7c6451da558a",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-02-05T21:32:21.101+00:00",
+          "team": "Developer AI",
+          "title": "Staff Developer, API Platform (Ecosystems)"
+        },
         {
-          "department": "Creative",
-          "id": "d7d247b8-e22d-4e9c-83d6-d1377c644bcb",
-          "jobUrl": "https://jobs.ashbyhq.com/toogeza/d7d247b8-e22d-4e9c-83d6-d1377c644bcb",
-          "location": "Europe",
-          "publishedAt": "2026-02-05T10:27:41.824+00:00",
-          "team": "Creative",
-          "title": "Lead Product Designer"
-        }
-      ]
-    },
-    {
-      "board": "splitmetrics",
-      "jobs": [
-        {
-          "department": "Customer Success",
-          "id": "e6186c6d-d33c-4104-81d7-29d9c7d5f8f5",
-          "jobUrl": "https://jobs.ashbyhq.com/splitmetrics/e6186c6d-d33c-4104-81d7-29d9c7d5f8f5",
-          "location": "Ukraine",
-          "publishedAt": "2026-02-05T10:09:18.524+00:00",
-          "team": "Customer Success",
-          "title": "L1 Support Specialist (Evening Shifts)"
+          "department": "Technology",
+          "id": "c6933be3-80a6-41f0-8e37-e70f72cae134",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/c6933be3-80a6-41f0-8e37-e70f72cae134",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-02-05T18:51:05.962+00:00",
+          "team": "Product Engineering",
+          "title": "Senior .Net/C# Developer, SaaS Manager"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-02-05T16:02:08.803067+00:00"
+  "scannedAtUtc": "2026-02-06T07:59:19.022162+00:00"
 }
