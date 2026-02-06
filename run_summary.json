@@ -3,74 +3,42 @@
   "firstRun": false,
   "new": [
     {
-      "board": "axelera",
+      "board": "n8n",
       "jobs": [
         {
-          "department": "Silicon Engineering",
-          "id": "adebe140-eb52-41be-b6e9-31642b9ab07e",
-          "jobUrl": "https://jobs.ashbyhq.com/axelera/adebe140-eb52-41be-b6e9-31642b9ab07e",
-          "location": "Hybrid/Remote - Europe (incl. UK)",
-          "publishedAt": "2026-02-05T18:04:03.125+00:00",
-          "team": "Logical Design & DFT",
-          "title": "Principal Engineer - Silicon Logical Design"
-        },
-        {
-          "department": "Silicon Engineering",
-          "id": "07605701-fef5-47d3-aef3-2897e59fee20",
-          "jobUrl": "https://jobs.ashbyhq.com/axelera/07605701-fef5-47d3-aef3-2897e59fee20",
-          "location": "Hybrid/Remote - Europe (incl. UK)",
-          "publishedAt": "2026-02-05T17:57:16.788+00:00",
-          "team": "Logical Design & DFT",
-          "title": "Director - Silicon Logical Design"
-        },
-        {
-          "department": "Silicon Engineering",
-          "id": "ddc7bf42-ea0f-4b23-be0b-7b0545928181",
-          "jobUrl": "https://jobs.ashbyhq.com/axelera/ddc7bf42-ea0f-4b23-be0b-7b0545928181",
-          "location": "Bristol (on-site)",
-          "publishedAt": "2026-02-05T17:42:08.457+00:00",
-          "team": "Silicon Product",
-          "title": "Silicon Product Engineering Lead (Bristol)"
+          "department": "Sales",
+          "id": "ce930abc-2c80-4f42-adb9-4377bb56c3f1",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/ce930abc-2c80-4f42-adb9-4377bb56c3f1",
+          "location": "New York",
+          "publishedAt": "2026-02-06T14:21:44.550+00:00",
+          "team": "Sales",
+          "title": "Account Executive Talent Pool US"
         }
       ]
     },
     {
-      "board": "substack",
+      "board": "cradlebio",
       "jobs": [
         {
-          "department": "Partnerships",
-          "id": "94a77486-48ff-484d-bb01-f197155cd855",
-          "jobUrl": "https://jobs.ashbyhq.com/substack/94a77486-48ff-484d-bb01-f197155cd855",
-          "location": "San Francisco (HQ)",
-          "publishedAt": "2026-02-06T01:05:35.973+00:00",
-          "team": "Marketing",
-          "title": "Marketing Manager, Creator Marketing"
-        }
-      ]
-    },
-    {
-      "board": "1password",
-      "jobs": [
-        {
-          "department": "Technology",
-          "id": "c9a9ab56-a6b1-48cc-9760-7c6451da558a",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/c9a9ab56-a6b1-48cc-9760-7c6451da558a",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-02-05T21:32:21.101+00:00",
-          "team": "Developer AI",
-          "title": "Staff Developer, API Platform (Ecosystems)"
+          "department": "Software",
+          "id": "7a4f7d2d-714e-4c01-84bb-9e637c730ca2",
+          "jobUrl": "https://jobs.ashbyhq.com/cradlebio/7a4f7d2d-714e-4c01-84bb-9e637c730ca2",
+          "location": "Amsterdam",
+          "publishedAt": "2026-02-06T15:26:49.008+00:00",
+          "team": "Software",
+          "title": "Scientific Software Engineer"
         },
         {
-          "department": "Technology",
-          "id": "c6933be3-80a6-41f0-8e37-e70f72cae134",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/c6933be3-80a6-41f0-8e37-e70f72cae134",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-02-05T18:51:05.962+00:00",
-          "team": "Product Engineering",
-          "title": "Senior .Net/C# Developer, SaaS Manager"
+          "department": "Sales",
+          "id": "07b4fd84-7dcf-4e31-a1f5-c2cff0e44f78",
+          "jobUrl": "https://jobs.ashbyhq.com/cradlebio/07b4fd84-7dcf-4e31-a1f5-c2cff0e44f78",
+          "location": "US East (Remote)",
+          "publishedAt": "2026-02-06T08:03:37.611+00:00",
+          "team": "Sales",
+          "title": "Account Executive, Global Pharma Accounts"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-02-06T07:59:19.022162+00:00"
+  "scannedAtUtc": "2026-02-06T16:00:06.095136+00:00"
 }

@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-02-06T07:59:19.022162+00:00
+- **Scanned at (UTC):** 2026-02-06T16:00:06.095136+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 6
+- **New jobs found:** 3
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -10,12 +10,12 @@
 
 | Board | New jobs |
 |---|---:|
-| n8n | 0 |
+| n8n | 1 |
 | reedsy | 0 |
 | mazehq | 0 |
 | supabase | 0 |
 | nango | 0 |
-| axelera | 3 |
+| axelera | 0 |
 | ashby | 0 |
 | cargo-one | 0 |
 | gt-hq | 0 |
@@ -23,14 +23,14 @@
 | everai | 0 |
 | toogeza | 0 |
 | enode | 0 |
-| cradlebio | 0 |
+| cradlebio | 2 |
 | sardine | 0 |
 | rerun | 0 |
 | splitmetrics | 0 |
 | oh | 0 |
-| substack | 1 |
+| substack | 0 |
 | dash0 | 0 |
-| 1password | 2 |
+| 1password | 0 |
 | incard | 0 |
 | atomic-invest | 0 |
 | chronospherejobs | 0 |
@@ -40,18 +40,12 @@
 
 ## New jobs
 
-### axelera
+### n8n
 
-- [Principal Engineer - Silicon Logical Design](https://jobs.ashbyhq.com/axelera/adebe140-eb52-41be-b6e9-31642b9ab07e) — Hybrid/Remote - Europe (incl. UK) — 2026-02-05T18:04:03.125+00:00
-- [Director - Silicon Logical Design](https://jobs.ashbyhq.com/axelera/07605701-fef5-47d3-aef3-2897e59fee20) — Hybrid/Remote - Europe (incl. UK) — 2026-02-05T17:57:16.788+00:00
-- [Silicon Product Engineering Lead (Bristol)](https://jobs.ashbyhq.com/axelera/ddc7bf42-ea0f-4b23-be0b-7b0545928181) — Bristol (on-site) — 2026-02-05T17:42:08.457+00:00
+- [Account Executive Talent Pool US](https://jobs.ashbyhq.com/n8n/ce930abc-2c80-4f42-adb9-4377bb56c3f1) — New York — 2026-02-06T14:21:44.550+00:00
 
-### substack
+### cradlebio
 
-- [Marketing Manager, Creator Marketing](https://jobs.ashbyhq.com/substack/94a77486-48ff-484d-bb01-f197155cd855) — San Francisco (HQ) — 2026-02-06T01:05:35.973+00:00
-
-### 1password
-
-- [Staff Developer, API Platform (Ecosystems)](https://jobs.ashbyhq.com/1password/c9a9ab56-a6b1-48cc-9760-7c6451da558a) — Remote (United States | Canada) — 2026-02-05T21:32:21.101+00:00
-- [Senior .Net/C# Developer, SaaS Manager](https://jobs.ashbyhq.com/1password/c6933be3-80a6-41f0-8e37-e70f72cae134) — Remote (United States | Canada) — 2026-02-05T18:51:05.962+00:00
+- [Scientific Software Engineer](https://jobs.ashbyhq.com/cradlebio/7a4f7d2d-714e-4c01-84bb-9e637c730ca2) — Amsterdam — 2026-02-06T15:26:49.008+00:00
+- [Account Executive, Global Pharma Accounts](https://jobs.ashbyhq.com/cradlebio/07b4fd84-7dcf-4e31-a1f5-c2cff0e44f78) — US East (Remote) — 2026-02-06T08:03:37.611+00:00
 
