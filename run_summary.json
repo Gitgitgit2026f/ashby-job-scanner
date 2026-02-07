@@ -3,42 +3,19 @@
   "firstRun": false,
   "new": [
     {
-      "board": "n8n",
+      "board": "1password",
       "jobs": [
         {
-          "department": "Sales",
-          "id": "ce930abc-2c80-4f42-adb9-4377bb56c3f1",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/ce930abc-2c80-4f42-adb9-4377bb56c3f1",
-          "location": "New York",
-          "publishedAt": "2026-02-06T14:21:44.550+00:00",
-          "team": "Sales",
-          "title": "Account Executive Talent Pool US"
-        }
-      ]
-    },
-    {
-      "board": "cradlebio",
-      "jobs": [
-        {
-          "department": "Software",
-          "id": "7a4f7d2d-714e-4c01-84bb-9e637c730ca2",
-          "jobUrl": "https://jobs.ashbyhq.com/cradlebio/7a4f7d2d-714e-4c01-84bb-9e637c730ca2",
-          "location": "Amsterdam",
-          "publishedAt": "2026-02-06T15:26:49.008+00:00",
-          "team": "Software",
-          "title": "Scientific Software Engineer"
-        },
-        {
-          "department": "Sales",
-          "id": "07b4fd84-7dcf-4e31-a1f5-c2cff0e44f78",
-          "jobUrl": "https://jobs.ashbyhq.com/cradlebio/07b4fd84-7dcf-4e31-a1f5-c2cff0e44f78",
-          "location": "US East (Remote)",
-          "publishedAt": "2026-02-06T08:03:37.611+00:00",
-          "team": "Sales",
-          "title": "Account Executive, Global Pharma Accounts"
+          "department": "GTM",
+          "id": "db933020-162d-4b7a-8f73-04dbfd95cd6c",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/db933020-162d-4b7a-8f73-04dbfd95cd6c",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-02-06T18:31:43.825+00:00",
+          "team": "Partnerships",
+          "title": "Director, Channel Sales"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-02-06T16:00:06.095136+00:00"
+  "scannedAtUtc": "2026-02-07T07:44:40.238158+00:00"
 }
