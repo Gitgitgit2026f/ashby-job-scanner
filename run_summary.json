@@ -1,21 +1,6 @@
 {
   "errors": [],
   "firstRun": false,
-  "new": [
-    {
-      "board": "1password",
-      "jobs": [
-        {
-          "department": "GTM",
-          "id": "db933020-162d-4b7a-8f73-04dbfd95cd6c",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/db933020-162d-4b7a-8f73-04dbfd95cd6c",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-02-06T18:31:43.825+00:00",
-          "team": "Partnerships",
-          "title": "Director, Channel Sales"
-        }
-      ]
-    }
-  ],
-  "scannedAtUtc": "2026-02-07T07:44:40.238158+00:00"
+  "new": [],
+  "scannedAtUtc": "2026-02-07T14:55:37.477080+00:00"
 }
