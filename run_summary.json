@@ -1,6 +1,35 @@
 {
   "errors": [],
   "firstRun": false,
-  "new": [],
-  "scannedAtUtc": "2026-02-09T08:06:34.613160+00:00"
+  "new": [
+    {
+      "board": "nango",
+      "jobs": [
+        {
+          "department": "Nango",
+          "id": "8fe17fa3-d412-4000-8a92-bc8c455de82c",
+          "jobUrl": "https://jobs.ashbyhq.com/nango/8fe17fa3-d412-4000-8a92-bc8c455de82c",
+          "location": "USA",
+          "publishedAt": "2026-02-09T13:25:42.122+00:00",
+          "team": "Nango",
+          "title": "Growth Engineer"
+        }
+      ]
+    },
+    {
+      "board": "toogeza",
+      "jobs": [
+        {
+          "department": "Creative",
+          "id": "90f8621f-5277-49d2-883f-5a786df9e1d8",
+          "jobUrl": "https://jobs.ashbyhq.com/toogeza/90f8621f-5277-49d2-883f-5a786df9e1d8",
+          "location": "Europe",
+          "publishedAt": "2026-02-09T09:02:11.762+00:00",
+          "team": "Creative",
+          "title": "Lead Product Designer (AI Products)"
+        }
+      ]
+    }
+  ],
+  "scannedAtUtc": "2026-02-09T17:19:40.415422+00:00"
 }
