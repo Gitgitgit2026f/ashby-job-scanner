@@ -3,33 +3,19 @@
   "firstRun": false,
   "new": [
     {
-      "board": "nango",
+      "board": "substack",
       "jobs": [
         {
-          "department": "Nango",
-          "id": "8fe17fa3-d412-4000-8a92-bc8c455de82c",
-          "jobUrl": "https://jobs.ashbyhq.com/nango/8fe17fa3-d412-4000-8a92-bc8c455de82c",
-          "location": "USA",
-          "publishedAt": "2026-02-09T13:25:42.122+00:00",
-          "team": "Nango",
-          "title": "Growth Engineer"
-        }
-      ]
-    },
-    {
-      "board": "toogeza",
-      "jobs": [
-        {
-          "department": "Creative",
-          "id": "90f8621f-5277-49d2-883f-5a786df9e1d8",
-          "jobUrl": "https://jobs.ashbyhq.com/toogeza/90f8621f-5277-49d2-883f-5a786df9e1d8",
-          "location": "Europe",
-          "publishedAt": "2026-02-09T09:02:11.762+00:00",
-          "team": "Creative",
-          "title": "Lead Product Designer (AI Products)"
+          "department": "Engineering",
+          "id": "110ac422-58fb-461f-b249-9072eff43f3a",
+          "jobUrl": "https://jobs.ashbyhq.com/substack/110ac422-58fb-461f-b249-9072eff43f3a",
+          "location": "San Francisco (HQ)",
+          "publishedAt": "2026-02-09T19:05:14.202+00:00",
+          "team": "Engineering",
+          "title": "Full Stack Software Engineer - Growth"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-02-09T17:19:40.415422+00:00"
+  "scannedAtUtc": "2026-02-10T08:07:52.455880+00:00"
 }

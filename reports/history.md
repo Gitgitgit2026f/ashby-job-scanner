@@ -2,6 +2,18 @@
 
 ---
 
+## 2026-02-10T08:07:52.455880+00:00
+
+- Boards: 27
+- New jobs: 1
+- Errors: 0
+- First run: no
+
+New per board:
+- **substack**: 1
+
+---
+
 ## 2026-02-09T17:19:40.415422+00:00
 
 - Boards: 27
