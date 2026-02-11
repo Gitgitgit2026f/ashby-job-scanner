@@ -3,42 +3,51 @@
   "firstRun": false,
   "new": [
     {
-      "board": "ashby",
+      "board": "toogeza",
       "jobs": [
         {
-          "department": "Customer Success",
-          "id": "ce9f0432-7abf-4911-b644-69d0fb08d67f",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/ce9f0432-7abf-4911-b644-69d0fb08d67f",
-          "location": "Remote - North to South America",
-          "publishedAt": "2026-02-10T19:48:52.492+00:00",
-          "team": "Contract Management",
-          "title": "Renewal Manager, SMB - Americas"
+          "department": "Sales",
+          "id": "baeac446-24a5-44a2-b320-ebc9c1b1f927",
+          "jobUrl": "https://jobs.ashbyhq.com/toogeza/baeac446-24a5-44a2-b320-ebc9c1b1f927",
+          "location": "Brazil",
+          "publishedAt": "2026-02-11T13:22:35.822+00:00",
+          "team": "Sales",
+          "title": "Business Development Manager (LATAM)"
         },
         {
-          "department": "Customer Success",
-          "id": "2d03f0fe-2f3c-4c8e-9b89-7c6a35f9e7a4",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/2d03f0fe-2f3c-4c8e-9b89-7c6a35f9e7a4",
-          "location": "Remote - Europe",
-          "publishedAt": "2026-02-06T16:23:49.148+00:00",
-          "team": "Customer Support",
-          "title": "Product Support Engineer - EMEA"
+          "department": "Administration",
+          "id": "f956453d-013b-49b9-a7e8-2b39d1cdf2df",
+          "jobUrl": "https://jobs.ashbyhq.com/toogeza/f956453d-013b-49b9-a7e8-2b39d1cdf2df",
+          "location": "Limassol",
+          "publishedAt": "2026-02-11T12:59:22.214+00:00",
+          "team": "Administration",
+          "title": "Personal Assistant to Private Principal"
+        },
+        {
+          "department": "Development",
+          "id": "8a7f6d87-93e0-4d0b-8e27-9d577b174939",
+          "jobUrl": "https://jobs.ashbyhq.com/toogeza/8a7f6d87-93e0-4d0b-8e27-9d577b174939",
+          "location": "Europe",
+          "publishedAt": "2026-02-11T08:50:56.536+00:00",
+          "team": "Development",
+          "title": "Strong Middle/Senior Back-End Developer (Python)"
         }
       ]
     },
     {
-      "board": "substack",
+      "board": "enode",
       "jobs": [
         {
-          "department": "Operations",
-          "id": "8bc0e70e-4f75-4702-8e3c-7bf919569f5e",
-          "jobUrl": "https://jobs.ashbyhq.com/substack/8bc0e70e-4f75-4702-8e3c-7bf919569f5e",
-          "location": "New York",
-          "publishedAt": "2026-02-10T19:49:45.983+00:00",
-          "team": "Operations",
-          "title": "Creator Solutions Manager"
+          "department": "Engineering",
+          "id": "dd7343a9-a9ff-4f86-8cfd-3a921e94da4b",
+          "jobUrl": "https://jobs.ashbyhq.com/enode/dd7343a9-a9ff-4f86-8cfd-3a921e94da4b",
+          "location": "Remote - Europe",
+          "publishedAt": "2026-02-11T13:22:35.127+00:00",
+          "team": "Engineering",
+          "title": "Data Engineer"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-02-11T08:04:45.377371+00:00"
+  "scannedAtUtc": "2026-02-11T17:36:08.112435+00:00"
 }
