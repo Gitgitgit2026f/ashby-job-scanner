@@ -3,33 +3,42 @@
   "firstRun": false,
   "new": [
     {
-      "board": "n8n",
+      "board": "ashby",
       "jobs": [
         {
-          "department": "Operations",
-          "id": "fd96d8d9-c47f-4a20-8eb3-87ffbb65863b",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/fd96d8d9-c47f-4a20-8eb3-87ffbb65863b",
-          "location": "Germany",
-          "publishedAt": "2026-02-10T14:35:35.063+00:00",
-          "team": "Finance",
-          "title": "Finance Systems Manager"
+          "department": "Customer Success",
+          "id": "ce9f0432-7abf-4911-b644-69d0fb08d67f",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/ce9f0432-7abf-4911-b644-69d0fb08d67f",
+          "location": "Remote - North to South America",
+          "publishedAt": "2026-02-10T19:48:52.492+00:00",
+          "team": "Contract Management",
+          "title": "Renewal Manager, SMB - Americas"
+        },
+        {
+          "department": "Customer Success",
+          "id": "2d03f0fe-2f3c-4c8e-9b89-7c6a35f9e7a4",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/2d03f0fe-2f3c-4c8e-9b89-7c6a35f9e7a4",
+          "location": "Remote - Europe",
+          "publishedAt": "2026-02-06T16:23:49.148+00:00",
+          "team": "Customer Support",
+          "title": "Product Support Engineer - EMEA"
         }
       ]
     },
     {
-      "board": "axelera",
+      "board": "substack",
       "jobs": [
         {
-          "department": "Corporate Functions",
-          "id": "b955bc39-1ac6-445b-9311-6626277b17c4",
-          "jobUrl": "https://jobs.ashbyhq.com/axelera/b955bc39-1ac6-445b-9311-6626277b17c4",
-          "location": "Eindhoven (on-site)",
-          "publishedAt": "2026-02-10T16:49:02.281+00:00",
-          "team": "Logistics & Supply Chain",
-          "title": "Logistics Lead (Eindhoven)"
+          "department": "Operations",
+          "id": "8bc0e70e-4f75-4702-8e3c-7bf919569f5e",
+          "jobUrl": "https://jobs.ashbyhq.com/substack/8bc0e70e-4f75-4702-8e3c-7bf919569f5e",
+          "location": "New York",
+          "publishedAt": "2026-02-10T19:49:45.983+00:00",
+          "team": "Operations",
+          "title": "Creator Solutions Manager"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-02-10T17:38:16.999828+00:00"
+  "scannedAtUtc": "2026-02-11T08:04:45.377371+00:00"
 }
