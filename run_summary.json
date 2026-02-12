@@ -3,51 +3,60 @@
   "firstRun": false,
   "new": [
     {
-      "board": "toogeza",
+      "board": "substack",
       "jobs": [
         {
-          "department": "Sales",
-          "id": "baeac446-24a5-44a2-b320-ebc9c1b1f927",
-          "jobUrl": "https://jobs.ashbyhq.com/toogeza/baeac446-24a5-44a2-b320-ebc9c1b1f927",
-          "location": "Brazil",
-          "publishedAt": "2026-02-11T13:22:35.822+00:00",
-          "team": "Sales",
-          "title": "Business Development Manager (LATAM)"
-        },
-        {
-          "department": "Administration",
-          "id": "f956453d-013b-49b9-a7e8-2b39d1cdf2df",
-          "jobUrl": "https://jobs.ashbyhq.com/toogeza/f956453d-013b-49b9-a7e8-2b39d1cdf2df",
-          "location": "Limassol",
-          "publishedAt": "2026-02-11T12:59:22.214+00:00",
-          "team": "Administration",
-          "title": "Personal Assistant to Private Principal"
-        },
-        {
-          "department": "Development",
-          "id": "8a7f6d87-93e0-4d0b-8e27-9d577b174939",
-          "jobUrl": "https://jobs.ashbyhq.com/toogeza/8a7f6d87-93e0-4d0b-8e27-9d577b174939",
-          "location": "Europe",
-          "publishedAt": "2026-02-11T08:50:56.536+00:00",
-          "team": "Development",
-          "title": "Strong Middle/Senior Back-End Developer (Python)"
+          "department": "Partnerships",
+          "id": "c35255bd-7abb-4c93-8acc-aab8e1343afe",
+          "jobUrl": "https://jobs.ashbyhq.com/substack/c35255bd-7abb-4c93-8acc-aab8e1343afe",
+          "location": "London",
+          "publishedAt": "2026-02-12T06:39:51.401+00:00",
+          "team": "International",
+          "title": "Lifestyle Partnerships Lead UK"
         }
       ]
     },
     {
-      "board": "enode",
+      "board": "1password",
       "jobs": [
         {
-          "department": "Engineering",
-          "id": "dd7343a9-a9ff-4f86-8cfd-3a921e94da4b",
-          "jobUrl": "https://jobs.ashbyhq.com/enode/dd7343a9-a9ff-4f86-8cfd-3a921e94da4b",
-          "location": "Remote - Europe",
-          "publishedAt": "2026-02-11T13:22:35.127+00:00",
-          "team": "Engineering",
-          "title": "Data Engineer"
+          "department": "GTM",
+          "id": "ceabb3f0-288d-4879-a33e-a04386e96fd4",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/ceabb3f0-288d-4879-a33e-a04386e96fd4",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-02-12T03:08:50.608+00:00",
+          "team": "Revenue Operations",
+          "title": "Senior Revenue Strategy Analyst"
+        },
+        {
+          "department": "GTM",
+          "id": "a8f71aad-5440-4480-9523-4f799a4b2f19",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/a8f71aad-5440-4480-9523-4f799a4b2f19",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-02-12T03:01:55.126+00:00",
+          "team": "Other Sales",
+          "title": "Solutions Engineer, SMB"
+        },
+        {
+          "department": "Marketing",
+          "id": "e6f22119-d358-4794-b6fb-aee7e670efcd",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/e6f22119-d358-4794-b6fb-aee7e670efcd",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-02-11T18:37:58.265+00:00",
+          "team": "Growth Marketing",
+          "title": "Senior Director, Global Campaigns"
+        },
+        {
+          "department": "GTM",
+          "id": "32b8b0ce-48b3-4b90-b32c-44803a21a1a7",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/32b8b0ce-48b3-4b90-b32c-44803a21a1a7",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-02-11T17:49:17.909+00:00",
+          "team": "Sales Onboarding",
+          "title": "Customer Training Specialist"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-02-11T17:36:08.112435+00:00"
+  "scannedAtUtc": "2026-02-12T08:02:02.478444+00:00"
 }

@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-02-11T17:36:08.112435+00:00
+- **Scanned at (UTC):** 2026-02-12T08:02:02.478444+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 4
+- **New jobs found:** 5
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -21,16 +21,16 @@
 | gt-hq | 0 |
 | dourolabs.xyz | 0 |
 | everai | 0 |
-| toogeza | 3 |
-| enode | 1 |
+| toogeza | 0 |
+| enode | 0 |
 | cradlebio | 0 |
 | sardine | 0 |
 | rerun | 0 |
 | splitmetrics | 0 |
 | oh | 0 |
-| substack | 0 |
+| substack | 1 |
 | dash0 | 0 |
-| 1password | 0 |
+| 1password | 4 |
 | incard | 0 |
 | atomic-invest | 0 |
 | chronospherejobs | 0 |
@@ -40,13 +40,14 @@
 
 ## New jobs
 
-### toogeza
+### substack
 
-- [Business Development Manager (LATAM)](https://jobs.ashbyhq.com/toogeza/baeac446-24a5-44a2-b320-ebc9c1b1f927) — Brazil — 2026-02-11T13:22:35.822+00:00
-- [Personal Assistant to Private Principal](https://jobs.ashbyhq.com/toogeza/f956453d-013b-49b9-a7e8-2b39d1cdf2df) — Limassol — 2026-02-11T12:59:22.214+00:00
-- [Strong Middle/Senior Back-End Developer (Python)](https://jobs.ashbyhq.com/toogeza/8a7f6d87-93e0-4d0b-8e27-9d577b174939) — Europe — 2026-02-11T08:50:56.536+00:00
+- [Lifestyle Partnerships Lead UK](https://jobs.ashbyhq.com/substack/c35255bd-7abb-4c93-8acc-aab8e1343afe) — London — 2026-02-12T06:39:51.401+00:00
 
-### enode
+### 1password
 
-- [Data Engineer](https://jobs.ashbyhq.com/enode/dd7343a9-a9ff-4f86-8cfd-3a921e94da4b) — Remote - Europe — 2026-02-11T13:22:35.127+00:00
+- [Senior Revenue Strategy Analyst](https://jobs.ashbyhq.com/1password/ceabb3f0-288d-4879-a33e-a04386e96fd4) — Remote (United States | Canada) — 2026-02-12T03:08:50.608+00:00
+- [Solutions Engineer, SMB](https://jobs.ashbyhq.com/1password/a8f71aad-5440-4480-9523-4f799a4b2f19) — Remote (United States | Canada) — 2026-02-12T03:01:55.126+00:00
+- [Senior Director, Global Campaigns](https://jobs.ashbyhq.com/1password/e6f22119-d358-4794-b6fb-aee7e670efcd) — Remote (United States | Canada) — 2026-02-11T18:37:58.265+00:00
+- [Customer Training Specialist](https://jobs.ashbyhq.com/1password/32b8b0ce-48b3-4b90-b32c-44803a21a1a7) — Remote (United States | Canada) — 2026-02-11T17:49:17.909+00:00
 
