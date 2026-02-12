@@ -1,62 +1,6 @@
 {
   "errors": [],
   "firstRun": false,
-  "new": [
-    {
-      "board": "substack",
-      "jobs": [
-        {
-          "department": "Partnerships",
-          "id": "c35255bd-7abb-4c93-8acc-aab8e1343afe",
-          "jobUrl": "https://jobs.ashbyhq.com/substack/c35255bd-7abb-4c93-8acc-aab8e1343afe",
-          "location": "London",
-          "publishedAt": "2026-02-12T06:39:51.401+00:00",
-          "team": "International",
-          "title": "Lifestyle Partnerships Lead UK"
-        }
-      ]
-    },
-    {
-      "board": "1password",
-      "jobs": [
-        {
-          "department": "GTM",
-          "id": "ceabb3f0-288d-4879-a33e-a04386e96fd4",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/ceabb3f0-288d-4879-a33e-a04386e96fd4",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-02-12T03:08:50.608+00:00",
-          "team": "Revenue Operations",
-          "title": "Senior Revenue Strategy Analyst"
-        },
-        {
-          "department": "GTM",
-          "id": "a8f71aad-5440-4480-9523-4f799a4b2f19",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/a8f71aad-5440-4480-9523-4f799a4b2f19",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-02-12T03:01:55.126+00:00",
-          "team": "Other Sales",
-          "title": "Solutions Engineer, SMB"
-        },
-        {
-          "department": "Marketing",
-          "id": "e6f22119-d358-4794-b6fb-aee7e670efcd",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/e6f22119-d358-4794-b6fb-aee7e670efcd",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-02-11T18:37:58.265+00:00",
-          "team": "Growth Marketing",
-          "title": "Senior Director, Global Campaigns"
-        },
-        {
-          "department": "GTM",
-          "id": "32b8b0ce-48b3-4b90-b32c-44803a21a1a7",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/32b8b0ce-48b3-4b90-b32c-44803a21a1a7",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-02-11T17:49:17.909+00:00",
-          "team": "Sales Onboarding",
-          "title": "Customer Training Specialist"
-        }
-      ]
-    }
-  ],
-  "scannedAtUtc": "2026-02-12T08:02:02.478444+00:00"
+  "new": [],
+  "scannedAtUtc": "2026-02-12T14:42:27.905203+00:00"
 }
