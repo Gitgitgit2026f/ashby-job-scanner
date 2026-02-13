@@ -1,6 +1,81 @@
 {
   "errors": [],
   "firstRun": false,
-  "new": [],
-  "scannedAtUtc": "2026-02-12T14:42:27.905203+00:00"
+  "new": [
+    {
+      "board": "axelera",
+      "jobs": [
+        {
+          "department": "Research & Development",
+          "id": "affffd7d-f251-4055-99b9-a1aec6859264",
+          "jobUrl": "https://jobs.ashbyhq.com/axelera/affffd7d-f251-4055-99b9-a1aec6859264",
+          "location": "Zurich (on-site)",
+          "publishedAt": "2026-02-12T18:52:34.699+00:00",
+          "team": "Computing Architecture",
+          "title": "Product Engineer"
+        }
+      ]
+    },
+    {
+      "board": "sardine",
+      "jobs": [
+        {
+          "department": "Engineering",
+          "id": "740409ec-8ff0-41b0-9bb3-fda147c9b331",
+          "jobUrl": "https://jobs.ashbyhq.com/sardine/740409ec-8ff0-41b0-9bb3-fda147c9b331",
+          "location": "Canada - Remote",
+          "publishedAt": "2026-02-12T18:39:21.022+00:00",
+          "team": "Engineering",
+          "title": "Software Engineer - Backend (GO)"
+        }
+      ]
+    },
+    {
+      "board": "1password",
+      "jobs": [
+        {
+          "department": "GTM",
+          "id": "1aa3e7e2-7348-4823-88bc-376ffbebd6a3",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/1aa3e7e2-7348-4823-88bc-376ffbebd6a3",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-02-12T22:27:04.700+00:00",
+          "team": "Customer Success",
+          "title": "Account Specialist, Activation"
+        },
+        {
+          "department": "Marketing",
+          "id": "39d5bf47-0d5c-48b6-9bd7-822622cbb12a",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/39d5bf47-0d5c-48b6-9bd7-822622cbb12a",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-02-12T22:26:27.594+00:00",
+          "team": "Revenue Marketing",
+          "title": "Director, Field Marketing"
+        },
+        {
+          "department": "GTM",
+          "id": "69eb446a-1bb1-4834-ab91-20ef2fb50a3e",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/69eb446a-1bb1-4834-ab91-20ef2fb50a3e",
+          "location": "Austin, TX",
+          "publishedAt": "2026-02-12T21:47:18.175+00:00",
+          "team": "BDR",
+          "title": "Business Development Representative, Enterprise (Austin)"
+        }
+      ]
+    },
+    {
+      "board": "mazedesign",
+      "jobs": [
+        {
+          "department": "Marketing",
+          "id": "35f52acb-66bf-4e88-b63d-a2e92d368e25",
+          "jobUrl": "https://jobs.ashbyhq.com/mazedesign/35f52acb-66bf-4e88-b63d-a2e92d368e25",
+          "location": "United States",
+          "publishedAt": "2026-02-12T21:42:20.861+00:00",
+          "team": "Sales Development",
+          "title": "Sales Development Manager"
+        }
+      ]
+    }
+  ],
+  "scannedAtUtc": "2026-02-13T06:53:15.843184+00:00"
 }
