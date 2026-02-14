@@ -3,33 +3,60 @@
   "firstRun": false,
   "new": [
     {
-      "board": "n8n",
+      "board": "ashby",
       "jobs": [
         {
-          "department": "Product",
-          "id": "e2280b74-3dc3-41bd-b9b9-f2a7d144ccf3",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/e2280b74-3dc3-41bd-b9b9-f2a7d144ccf3",
-          "location": "Berlin Office",
-          "publishedAt": "2026-02-13T12:29:30.457+00:00",
-          "team": "Product Management",
-          "title": "Senior Product Manager (Activation & Retention)"
+          "department": "Sales",
+          "id": "0642e6f5-257a-42ca-b56a-5936fffb8309",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/0642e6f5-257a-42ca-b56a-5936fffb8309",
+          "location": "Remote - US",
+          "publishedAt": "2026-02-14T01:12:19.776+00:00",
+          "team": "Revenue Operations",
+          "title": "Head of Revenue Enablement"
         }
       ]
     },
     {
-      "board": "toogeza",
+      "board": "1password",
       "jobs": [
         {
-          "department": "Administration",
-          "id": "bed5a914-0b77-4893-a0a7-cf84fc02314e",
-          "jobUrl": "https://jobs.ashbyhq.com/toogeza/bed5a914-0b77-4893-a0a7-cf84fc02314e",
-          "location": "Limassol",
-          "publishedAt": "2026-02-13T09:13:58.446+00:00",
-          "team": "Administration",
-          "title": "Personal Assistance to High-Net-Worth Individual"
+          "department": "GTM",
+          "id": "33abff81-0573-4b70-999f-2c19eac415b7",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/33abff81-0573-4b70-999f-2c19eac415b7",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-02-13T22:38:10.894+00:00",
+          "team": "Other Sales",
+          "title": "Senior Partner Specialist, MSP"
+        },
+        {
+          "department": "Marketing",
+          "id": "35df98dd-4686-4fb1-9a03-d15e262d0961",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/35df98dd-4686-4fb1-9a03-d15e262d0961",
+          "location": "Bay Area, US",
+          "publishedAt": "2026-02-13T19:45:14.150+00:00",
+          "team": "Other Marketing",
+          "title": "Senior Administrative Assistant (12 Month Contract)"
+        },
+        {
+          "department": "GTM",
+          "id": "ba9d892c-ef82-448f-8b9c-e2c56cb0bcb6",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/ba9d892c-ef82-448f-8b9c-e2c56cb0bcb6",
+          "location": "Remote UK",
+          "publishedAt": "2026-02-13T16:52:54.762+00:00",
+          "team": "Customer Success",
+          "title": "Renewals Specialist EMEA (German)"
+        },
+        {
+          "department": "GTM",
+          "id": "65be6273-3147-427a-af94-2e316b30c6da",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/65be6273-3147-427a-af94-2e316b30c6da",
+          "location": "Remote UK",
+          "publishedAt": "2026-02-13T15:05:33.977+00:00",
+          "team": "Customer Success",
+          "title": "Senior Customer Success Manager, Commercial"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-02-13T14:36:53.049875+00:00"
+  "scannedAtUtc": "2026-02-14T06:37:08.251681+00:00"
 }
