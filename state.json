@@ -64,7 +64,7 @@
   "_meta": {
     "boardsCount": 27,
     "errorsCount": 0,
-    "updatedAtUtc": "2026-02-16T06:56:47.179982+00:00"
+    "updatedAtUtc": "2026-02-16T14:36:54.278076+00:00"
   },
   "airtable": [],
   "ashby": [
@@ -503,8 +503,6 @@
     "2b9b42d6-3ac8-4dfb-a1b7-02e7cff077fb",
     "3508a33a-87e7-4db4-9a1e-dda01a5533ef",
     "54af48e8-dbcc-4f72-88a7-52de4b54e8dc",
-    "89dd0a95-7c37-4568-a4da-6de8a529f787",
-    "aacd60ba-f6fe-48fb-9af0-d075bd88aa43",
     "db233771-5b92-48af-933e-b1504d210ceb",
     "ffa25938-ecaf-4cf7-8618-8c57b697d5c9"
   ],
@@ -551,7 +549,6 @@
     "f66d90a7-e409-4d15-93b5-a3be44b5203a"
   ],
   "n8n": [
-    "018bb06a-6147-4e04-aa4b-8a9daf0558bd",
     "0c78f102-f55d-449a-b202-05ca0a606cd9",
     "280c1099-86bb-4808-b780-ed913b09a488",
     "294a8a23-a870-455b-9f05-a2a4054dcad8",
@@ -585,14 +582,12 @@
     "ce930abc-2c80-4f42-adb9-4377bb56c3f1",
     "d195a389-6af5-4b95-82e5-2258953c7297",
     "e2280b74-3dc3-41bd-b9b9-f2a7d144ccf3",
-    "e9130ede-c4cc-4bc2-937b-1292b9e794e7",
     "e937ba1b-0408-49ba-bc93-82db62c5bc6b",
     "fd96d8d9-c47f-4a20-8eb3-87ffbb65863b",
     "fe05c209-8069-4a88-aeba-8da23488cd30",
     "ffafc55a-6fcc-4dfb-aef2-7979391d3ffb"
   ],
   "nango": [
-    "0fd15188-123b-4afe-9f5b-52eaa5be63c3",
     "87ae18c8-5bef-423e-968e-7ea6ab4f97b8",
     "8f6da27a-07e1-4071-8310-0a4f432e34ea",
     "8fe17fa3-d412-4000-8a92-bc8c455de82c"
@@ -764,7 +759,6 @@
     "17760820-54ae-4202-b5f9-b6d8cdce590d",
     "1a099302-2276-45a6-9083-c50439ceef07",
     "2e0c9a71-c89b-4309-b801-bdcbb97a14a6",
-    "4199ffc0-34b6-441d-a09f-36a27d937e6e",
     "568bea66-d56e-41a8-86cb-57c5e1bc15f2",
     "59827cc4-1ffa-424a-85f4-22db890519b1",
     "5f1b6666-3bdf-4c36-9553-fef6cba4ad2b",
@@ -795,7 +789,6 @@
     "55984539-8f4c-4a62-8c77-62ea5716c6c0",
     "5b5101f7-597e-47c4-9e76-5adb25e656d2",
     "6c830829-d9fb-4b58-8e48-e483dec25813",
-    "abd684f4-7aff-43be-b031-ff835061f2c6",
-    "e57cbcb7-596e-4822-9a1b-6bdf8c472f46"
+    "abd684f4-7aff-43be-b031-ff835061f2c6"
   ]
 }
