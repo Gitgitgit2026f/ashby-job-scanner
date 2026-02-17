@@ -1,6 +1,21 @@
 {
   "errors": [],
   "firstRun": false,
-  "new": [],
-  "scannedAtUtc": "2026-02-16T14:36:54.278076+00:00"
+  "new": [
+    {
+      "board": "n8n",
+      "jobs": [
+        {
+          "department": "Engineering",
+          "id": "640d55b3-3603-42f4-a05b-90962768fd16",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/640d55b3-3603-42f4-a05b-90962768fd16",
+          "location": "Berlin Office",
+          "publishedAt": "2026-02-16T16:12:53.295+00:00",
+          "team": "Cloud Platform",
+          "title": "Sr Cloud Engineer | NodeJS + TS/JS | Europe remote"
+        }
+      ]
+    }
+  ],
+  "scannedAtUtc": "2026-02-17T06:51:40.002498+00:00"
 }

@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-02-16T14:36:54.278076+00:00
+- **Scanned at (UTC):** 2026-02-17T06:51:40.002498+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 0
+- **New jobs found:** 1
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -10,7 +10,7 @@
 
 | Board | New jobs |
 |---|---:|
-| n8n | 0 |
+| n8n | 1 |
 | reedsy | 0 |
 | mazehq | 0 |
 | supabase | 0 |
@@ -40,5 +40,7 @@
 
 ## New jobs
 
-_No new jobs found._
+### n8n
+
+- [Sr Cloud Engineer | NodeJS + TS/JS | Europe remote](https://jobs.ashbyhq.com/n8n/640d55b3-3603-42f4-a05b-90962768fd16) — Berlin Office — 2026-02-16T16:12:53.295+00:00
 
