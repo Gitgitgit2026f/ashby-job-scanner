@@ -3,19 +3,51 @@
   "firstRun": false,
   "new": [
     {
-      "board": "n8n",
+      "board": "gt-hq",
       "jobs": [
         {
-          "department": "Engineering",
-          "id": "640d55b3-3603-42f4-a05b-90962768fd16",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/640d55b3-3603-42f4-a05b-90962768fd16",
-          "location": "Berlin Office",
-          "publishedAt": "2026-02-16T16:12:53.295+00:00",
-          "team": "Cloud Platform",
-          "title": "Sr Cloud Engineer | NodeJS + TS/JS | Europe remote"
+          "department": "Feeld",
+          "id": "6f665132-c250-418a-a736-46ee00cd6a6b",
+          "jobUrl": "https://jobs.ashbyhq.com/gt-hq/6f665132-c250-418a-a736-46ee00cd6a6b",
+          "location": "Ukraine - Remote",
+          "publishedAt": "2026-02-17T12:32:28.889+00:00",
+          "team": "Feeld",
+          "title": "Manual Mobile QA | FEELD, UK"
+        }
+      ]
+    },
+    {
+      "board": "dash0",
+      "jobs": [
+        {
+          "department": "Product & Design",
+          "id": "03c12ff0-b920-428e-8015-fc032e883ad9",
+          "jobUrl": "https://jobs.ashbyhq.com/dash0/03c12ff0-b920-428e-8015-fc032e883ad9",
+          "location": "EMEA - Remote",
+          "publishedAt": "2026-02-17T10:06:04.620+00:00",
+          "team": "Product & Design",
+          "title": "Senior Product Designer"
+        },
+        {
+          "department": "Product & Design",
+          "id": "8cc94c2e-16eb-4d19-af81-ddad97b14ce7",
+          "jobUrl": "https://jobs.ashbyhq.com/dash0/8cc94c2e-16eb-4d19-af81-ddad97b14ce7",
+          "location": "EMEA - Remote",
+          "publishedAt": "2026-02-17T10:03:02.128+00:00",
+          "team": "Product & Design",
+          "title": "Principle Product Manager"
+        },
+        {
+          "department": "Product & Design",
+          "id": "c4f1f95a-f9cb-4c07-95b1-fbf206e5b2e0",
+          "jobUrl": "https://jobs.ashbyhq.com/dash0/c4f1f95a-f9cb-4c07-95b1-fbf206e5b2e0",
+          "location": "EMEA - Remote",
+          "publishedAt": "2026-02-17T10:02:56.854+00:00",
+          "team": "Product & Design",
+          "title": "Senior Product Manager"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-02-17T06:51:40.002498+00:00"
+  "scannedAtUtc": "2026-02-17T14:39:58.078778+00:00"
 }
