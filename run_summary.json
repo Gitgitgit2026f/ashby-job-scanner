@@ -3,16 +3,67 @@
   "firstRun": false,
   "new": [
     {
-      "board": "gt-hq",
+      "board": "n8n",
       "jobs": [
         {
-          "department": "Feeld",
-          "id": "6f665132-c250-418a-a736-46ee00cd6a6b",
-          "jobUrl": "https://jobs.ashbyhq.com/gt-hq/6f665132-c250-418a-a736-46ee00cd6a6b",
-          "location": "Ukraine - Remote",
-          "publishedAt": "2026-02-17T12:32:28.889+00:00",
-          "team": "Feeld",
-          "title": "Manual Mobile QA | FEELD, UK"
+          "department": "Operations",
+          "id": "58ab462d-de65-43af-8d27-761f1b038d61",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/58ab462d-de65-43af-8d27-761f1b038d61",
+          "location": "Berlin Office",
+          "publishedAt": "2026-02-17T15:37:30.665+00:00",
+          "team": "Revenue Operations",
+          "title": "Senior Marketing Operations Manager EMEA"
+        }
+      ]
+    },
+    {
+      "board": "supabase",
+      "jobs": [
+        {
+          "department": "Growth",
+          "id": "26ad8432-a03e-40f9-a4cc-05344ceedfa3",
+          "jobUrl": "https://jobs.ashbyhq.com/supabase/26ad8432-a03e-40f9-a4cc-05344ceedfa3",
+          "location": "AMER",
+          "publishedAt": "2026-02-17T15:08:39.675+00:00",
+          "team": "Solutions Architecture",
+          "title": "Customer Reliability Engineer"
+        }
+      ]
+    },
+    {
+      "board": "ashby",
+      "jobs": [
+        {
+          "department": "Finance & Operations",
+          "id": "d45fbb60-7ecb-45ba-ab01-652f8ea03fad",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/d45fbb60-7ecb-45ba-ab01-652f8ea03fad",
+          "location": "Remote - US",
+          "publishedAt": "2026-02-17T22:18:35.475+00:00",
+          "team": "Finance & Operations",
+          "title": "Controller"
+        },
+        {
+          "department": "Customer Success",
+          "id": "62d4f71e-f56c-447a-a965-a9c2ea8eac5e",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/62d4f71e-f56c-447a-a965-a9c2ea8eac5e",
+          "location": "Remote - Europe",
+          "publishedAt": "2026-02-17T17:39:50.645+00:00",
+          "team": "High Touch Customer Success",
+          "title": "High Touch Customer Success Manager - EMEA"
+        }
+      ]
+    },
+    {
+      "board": "sardine",
+      "jobs": [
+        {
+          "department": "Post-Sales ",
+          "id": "1ed41d7d-a0d8-4002-9785-2b2d1f85ccb8",
+          "jobUrl": "https://jobs.ashbyhq.com/sardine/1ed41d7d-a0d8-4002-9785-2b2d1f85ccb8",
+          "location": "North America - Remote",
+          "publishedAt": "2026-02-17T14:54:13.051+00:00",
+          "team": "Accounts Management",
+          "title": "Head of Account Managment "
         }
       ]
     },
@@ -20,34 +71,48 @@
       "board": "dash0",
       "jobs": [
         {
-          "department": "Product & Design",
-          "id": "03c12ff0-b920-428e-8015-fc032e883ad9",
-          "jobUrl": "https://jobs.ashbyhq.com/dash0/03c12ff0-b920-428e-8015-fc032e883ad9",
-          "location": "EMEA - Remote",
-          "publishedAt": "2026-02-17T10:06:04.620+00:00",
-          "team": "Product & Design",
-          "title": "Senior Product Designer"
+          "department": "Sales",
+          "id": "21f11a24-6424-4ad3-bc7b-be0df5940016",
+          "jobUrl": "https://jobs.ashbyhq.com/dash0/21f11a24-6424-4ad3-bc7b-be0df5940016",
+          "location": "New York",
+          "publishedAt": "2026-02-17T14:48:16.773+00:00",
+          "team": "Sales",
+          "title": "Enterprise SDR"
+        }
+      ]
+    },
+    {
+      "board": "1password",
+      "jobs": [
+        {
+          "department": "GTM",
+          "id": "75c18e46-99d2-4bdb-b237-4e73e1253646",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/75c18e46-99d2-4bdb-b237-4e73e1253646",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-02-17T23:47:44.239+00:00",
+          "team": "Revenue Operations",
+          "title": "Senior Manager, RevOps Systems Architecture"
         },
         {
-          "department": "Product & Design",
-          "id": "8cc94c2e-16eb-4d19-af81-ddad97b14ce7",
-          "jobUrl": "https://jobs.ashbyhq.com/dash0/8cc94c2e-16eb-4d19-af81-ddad97b14ce7",
-          "location": "EMEA - Remote",
-          "publishedAt": "2026-02-17T10:03:02.128+00:00",
-          "team": "Product & Design",
-          "title": "Principle Product Manager"
+          "department": "Technology",
+          "id": "c6d92433-18be-41fc-9db8-8b66fe1c9977",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/c6d92433-18be-41fc-9db8-8b66fe1c9977",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-02-17T23:28:56.043+00:00",
+          "team": "Developer AI",
+          "title": "Engineering Manager, Partnerships Engineering"
         },
         {
-          "department": "Product & Design",
-          "id": "c4f1f95a-f9cb-4c07-95b1-fbf206e5b2e0",
-          "jobUrl": "https://jobs.ashbyhq.com/dash0/c4f1f95a-f9cb-4c07-95b1-fbf206e5b2e0",
-          "location": "EMEA - Remote",
-          "publishedAt": "2026-02-17T10:02:56.854+00:00",
-          "team": "Product & Design",
-          "title": "Senior Product Manager"
+          "department": "GTM",
+          "id": "236a0085-2c77-4158-b202-df24d1fdf42f",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/236a0085-2c77-4158-b202-df24d1fdf42f",
+          "location": "Remote UK",
+          "publishedAt": "2026-02-17T17:58:41.951+00:00",
+          "team": "Customer Success",
+          "title": "Account Specialist, Activation"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-02-17T14:39:58.078778+00:00"
+  "scannedAtUtc": "2026-02-18T06:55:19.482867+00:00"
 }
