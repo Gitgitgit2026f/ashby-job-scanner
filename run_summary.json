@@ -3,157 +3,133 @@
   "firstRun": false,
   "new": [
     {
-      "board": "ashby",
+      "board": "n8n",
       "jobs": [
         {
-          "department": "Data",
-          "id": "f3505513-0422-4c75-94de-a03c5c4c4f3b",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/f3505513-0422-4c75-94de-a03c5c4c4f3b",
-          "location": "Remote - US",
-          "publishedAt": "2026-02-02T23:19:40.763+00:00",
-          "team": "Data",
-          "title": "Data Analyst, Go-to-Market"
-        },
-        {
           "department": "Sales",
-          "id": "78cd7bc7-871a-43ff-94b9-03d3bb0b2b86",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/78cd7bc7-871a-43ff-94b9-03d3bb0b2b86",
-          "location": "Remote - Europe",
-          "publishedAt": "2025-08-08T00:00:49.576+00:00",
-          "team": "Sales",
-          "title": "Account Executive, Startups - EMEA"
+          "id": "0d3cda2a-b592-4733-a6a9-cd49f4ddc925",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/0d3cda2a-b592-4733-a6a9-cd49f4ddc925",
+          "location": "Berlin Office",
+          "publishedAt": "2026-02-19T11:57:53.535+00:00",
+          "team": "Account Executives",
+          "title": "Mid-Market Account Executive (Spanish Speaking - Remote Europe) "
         }
       ]
     },
     {
-      "board": "toogeza",
+      "board": "gt-hq",
       "jobs": [
         {
-          "department": "Sales",
-          "id": "95d77e7a-4e91-454f-aa49-fd361aa35553",
-          "jobUrl": "https://jobs.ashbyhq.com/toogeza/95d77e7a-4e91-454f-aa49-fd361aa35553",
-          "location": "Ukraine",
-          "publishedAt": "2026-02-18T18:16:49.544+00:00",
-          "team": "Sales",
-          "title": "Lead Generation Specialist"
+          "department": "Core Team",
+          "id": "b2185220-85b3-4b81-9d40-d21b76043e6f",
+          "jobUrl": "https://jobs.ashbyhq.com/gt-hq/b2185220-85b3-4b81-9d40-d21b76043e6f",
+          "location": "Ukraine - Remote",
+          "publishedAt": "2026-02-19T11:47:59.498+00:00",
+          "team": "Core Team",
+          "title": "Employer Branding Specialist | GT"
+        }
+      ]
+    },
+    {
+      "board": "everai",
+      "jobs": [
+        {
+          "department": "Growth",
+          "id": "883a4356-0540-4ff3-b389-0dfe0bce4b2a",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/883a4356-0540-4ff3-b389-0dfe0bce4b2a",
+          "location": "Costa Rica",
+          "publishedAt": "2026-02-19T11:32:49.131+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Costa Rica)"
         },
+        {
+          "department": "Growth",
+          "id": "e334a681-e359-4d23-9fa2-c45300b00b90",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/e334a681-e359-4d23-9fa2-c45300b00b90",
+          "location": "Dominican Republic",
+          "publishedAt": "2026-02-19T11:29:58.761+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Dominican Republic)"
+        },
+        {
+          "department": "Growth",
+          "id": "9d62ceaf-c42b-4cf7-aba1-0f38c71f6edc",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/9d62ceaf-c42b-4cf7-aba1-0f38c71f6edc",
+          "location": "Puerto Rico",
+          "publishedAt": "2026-02-19T11:29:15.045+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Puerto Rico)"
+        },
+        {
+          "department": "Growth",
+          "id": "1d7e53d1-8286-44a1-a9bc-eb3cc679a5de",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/1d7e53d1-8286-44a1-a9bc-eb3cc679a5de",
+          "location": "Ecuador",
+          "publishedAt": "2026-02-19T11:27:46.110+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Ecuador)"
+        },
+        {
+          "department": "Growth",
+          "id": "436ba8ad-452a-4632-8fe4-b9ac85f448c7",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/436ba8ad-452a-4632-8fe4-b9ac85f448c7",
+          "location": "Colombia",
+          "publishedAt": "2026-02-19T11:26:56.280+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Colombia)"
+        },
+        {
+          "department": "Growth",
+          "id": "fdcc8426-0147-4e26-b049-31cbc5b96d87",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/fdcc8426-0147-4e26-b049-31cbc5b96d87",
+          "location": "Uruguay",
+          "publishedAt": "2026-02-19T10:37:11.841+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Uruguay)"
+        },
+        {
+          "department": "Growth",
+          "id": "9ae9a0d8-f275-42ae-80bd-0815e9e0bcd6",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/9ae9a0d8-f275-42ae-80bd-0815e9e0bcd6",
+          "location": "Mexico",
+          "publishedAt": "2026-02-19T10:24:00.875+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Mexico)"
+        },
+        {
+          "department": "Growth",
+          "id": "1bcd4d88-e204-4fcf-b3f8-7f8f201efc7e",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/1bcd4d88-e204-4fcf-b3f8-7f8f201efc7e",
+          "location": "Peru",
+          "publishedAt": "2026-02-19T10:22:50.703+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Peru)"
+        }
+      ]
+    },
+    {
+      "board": "cradlebio",
+      "jobs": [
         {
           "department": "Marketing",
-          "id": "46a32c15-367a-497e-b02a-c5716f8fcf7a",
-          "jobUrl": "https://jobs.ashbyhq.com/toogeza/46a32c15-367a-497e-b02a-c5716f8fcf7a",
-          "location": "Europe",
-          "publishedAt": "2026-02-18T18:04:10.010+00:00",
+          "id": "31f9ae33-6769-456d-a5a7-4befba68f778",
+          "jobUrl": "https://jobs.ashbyhq.com/cradlebio/31f9ae33-6769-456d-a5a7-4befba68f778",
+          "location": "Amsterdam",
+          "publishedAt": "2026-02-19T10:00:55.108+00:00",
           "team": "Marketing",
-          "title": "User Acquisition Manager (Facebook)"
+          "title": "Brand Design Lead"
         },
         {
-          "department": "Engineering",
-          "id": "99784ec9-1a3c-42ac-9b55-dca3b4fa44e3",
-          "jobUrl": "https://jobs.ashbyhq.com/toogeza/99784ec9-1a3c-42ac-9b55-dca3b4fa44e3",
-          "location": "Philadelphia",
-          "publishedAt": "2026-02-18T15:37:16.086+00:00",
-          "team": "Engineering",
-          "title": "Senior Machine Learning Engineer"
-        }
-      ]
-    },
-    {
-      "board": "sardine",
-      "jobs": [
-        {
-          "department": "Talent and People",
-          "id": "d6586e55-d192-45ab-931b-f117dcd7cdb4",
-          "jobUrl": "https://jobs.ashbyhq.com/sardine/d6586e55-d192-45ab-931b-f117dcd7cdb4",
-          "location": "Remote - US / Canada",
-          "publishedAt": "2026-02-18T22:34:31.197+00:00",
-          "team": "Talent and People",
-          "title": "Senior Recruiter"
-        },
-        {
-          "department": "Talent and People",
-          "id": "fe30b395-1b69-4c04-ab36-981f65722fba",
-          "jobUrl": "https://jobs.ashbyhq.com/sardine/fe30b395-1b69-4c04-ab36-981f65722fba",
-          "location": "Canada - Remote",
-          "publishedAt": "2026-02-05T21:50:18.506+00:00",
-          "team": "Talent and People",
-          "title": "Senior Recruiter"
-        }
-      ]
-    },
-    {
-      "board": "dash0",
-      "jobs": [
-        {
-          "department": "Product & Design",
-          "id": "a800d16b-2f43-437f-9eae-e6f62d5ca642",
-          "jobUrl": "https://jobs.ashbyhq.com/dash0/a800d16b-2f43-437f-9eae-e6f62d5ca642",
-          "location": "EMEA - Remote",
-          "publishedAt": "2026-02-18T16:21:02.504+00:00",
-          "team": "Product & Design",
-          "title": "Director of Design"
-        }
-      ]
-    },
-    {
-      "board": "1password",
-      "jobs": [
-        {
-          "department": "Customer Experience",
-          "id": "5d323673-942b-4c03-a9c0-0438ec33feec",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/5d323673-942b-4c03-a9c0-0438ec33feec",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-02-18T22:11:19.417+00:00",
-          "team": "CX Operations",
-          "title": "Senior Manager, Operations & Programs"
-        },
-        {
-          "department": "GTM",
-          "id": "1aa3e7e2-7348-4823-88bc-376ffbebd6a3",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/1aa3e7e2-7348-4823-88bc-376ffbebd6a3",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-02-18T17:18:33.396+00:00",
+          "department": "Customer Success",
+          "id": "8d7bc37e-de80-4eb5-b1ef-195f53f011c3",
+          "jobUrl": "https://jobs.ashbyhq.com/cradlebio/8d7bc37e-de80-4eb5-b1ef-195f53f011c3",
+          "location": "Amsterdam",
+          "publishedAt": "2026-02-19T08:33:02.624+00:00",
           "team": "Customer Success",
-          "title": "Account Specialist, Activation"
-        },
-        {
-          "department": "GTM",
-          "id": "5665bff7-b58c-4b78-9cf6-e2a115eaa2c5",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/5665bff7-b58c-4b78-9cf6-e2a115eaa2c5",
-          "location": "Remote UK",
-          "publishedAt": "2026-02-18T16:58:43.959+00:00",
-          "team": "Customer Success",
-          "title": "Senior Customer Success Manager, Enterprise (German)"
-        }
-      ]
-    },
-    {
-      "board": "v7labs.com",
-      "jobs": [
-        {
-          "department": "Sales",
-          "id": "35fcf0c7-1b19-42b8-b1ea-a02ffbee4ea9",
-          "jobUrl": "https://jobs.ashbyhq.com/v7labs.com/35fcf0c7-1b19-42b8-b1ea-a02ffbee4ea9",
-          "location": "Remote, US",
-          "publishedAt": "2026-02-18T15:12:34.610+00:00",
-          "team": "Partnerships",
-          "title": "Senior Project Manager - Frontier AI"
-        }
-      ]
-    },
-    {
-      "board": "mazedesign",
-      "jobs": [
-        {
-          "department": "Sales & Customer Success",
-          "id": "5f637d32-6c1f-408c-92f4-aa70260359f7",
-          "jobUrl": "https://jobs.ashbyhq.com/mazedesign/5f637d32-6c1f-408c-92f4-aa70260359f7",
-          "location": "United States",
-          "publishedAt": "2026-02-18T20:13:12.495+00:00",
-          "team": "Strategic Sales",
-          "title": "Account Executive, Strategic Accounts"
+          "title": "Scientific Education Developer, Cradle Academy"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-02-19T06:53:53.562750+00:00"
+  "scannedAtUtc": "2026-02-19T14:42:05.869416+00:00"
 }
