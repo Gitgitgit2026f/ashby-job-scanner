@@ -2,6 +2,21 @@
 
 ---
 
+## 2026-02-20T14:35:24.631071+00:00
+
+- Boards: 27
+- New jobs: 5
+- Errors: 0
+- First run: no
+
+New per board:
+- **n8n**: 1
+- **axelera**: 2
+- **ashby**: 1
+- **dash0**: 1
+
+---
+
 ## 2026-02-20T06:47:36.879008+00:00
 
 - Boards: 27
