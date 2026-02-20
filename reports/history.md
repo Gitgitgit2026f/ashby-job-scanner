@@ -2,6 +2,24 @@
 
 ---
 
+## 2026-02-20T06:47:36.879008+00:00
+
+- Boards: 27
+- New jobs: 7
+- Errors: 1
+- First run: no
+
+New per board:
+- **ashby**: 1
+- **cradlebio**: 1
+- **sardine**: 1
+- **1password**: 4
+
+Errors:
+- everai: 502 Server Error: Bad Gateway for url: https://api.ashbyhq.com/posting-api/job-board/everai
+
+---
+
 ## 2026-02-19T14:42:05.869416+00:00
 
 - Boards: 27
