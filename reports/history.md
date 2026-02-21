@@ -2,6 +2,21 @@
 
 ---
 
+## 2026-02-21T06:34:51.520928+00:00
+
+- Boards: 27
+- New jobs: 12
+- Errors: 0
+- First run: no
+
+New per board:
+- **n8n**: 3
+- **supabase**: 2
+- **ashby**: 6
+- **substack**: 1
+
+---
+
 ## 2026-02-20T14:35:24.631071+00:00
 
 - Boards: 27
