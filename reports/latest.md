@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-02-22T14:19:09.960565+00:00
+- **Scanned at (UTC):** 2026-02-23T06:57:41.595168+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 0
+- **New jobs found:** 2
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -16,10 +16,10 @@
 | supabase | 0 |
 | nango | 0 |
 | axelera | 0 |
-| ashby | 0 |
+| ashby | 1 |
 | cargo-one | 0 |
 | gt-hq | 0 |
-| dourolabs.xyz | 0 |
+| dourolabs.xyz | 1 |
 | everai | 0 |
 | toogeza | 0 |
 | enode | 0 |
@@ -40,5 +40,11 @@
 
 ## New jobs
 
-_No new jobs found._
+### ashby
+
+- [Controller](https://jobs.ashbyhq.com/ashby/d45fbb60-7ecb-45ba-ab01-652f8ea03fad) — Remote - US — 2026-02-22T15:57:13.984+00:00
+
+### dourolabs.xyz
+
+- [Design Lead](https://jobs.ashbyhq.com/dourolabs.xyz/b40f164c-18fc-4cd5-8899-553758c86573) — Worldwide - Remote — 2026-02-22T23:59:07.016+00:00
 

@@ -1,6 +1,35 @@
 {
   "errors": [],
   "firstRun": false,
-  "new": [],
-  "scannedAtUtc": "2026-02-22T14:19:09.960565+00:00"
+  "new": [
+    {
+      "board": "ashby",
+      "jobs": [
+        {
+          "department": "Finance & Operations",
+          "id": "d45fbb60-7ecb-45ba-ab01-652f8ea03fad",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/d45fbb60-7ecb-45ba-ab01-652f8ea03fad",
+          "location": "Remote - US",
+          "publishedAt": "2026-02-22T15:57:13.984+00:00",
+          "team": "Finance & Operations",
+          "title": "Controller"
+        }
+      ]
+    },
+    {
+      "board": "dourolabs.xyz",
+      "jobs": [
+        {
+          "department": "🧑🏽‍💻 Engineering",
+          "id": "b40f164c-18fc-4cd5-8899-553758c86573",
+          "jobUrl": "https://jobs.ashbyhq.com/dourolabs.xyz/b40f164c-18fc-4cd5-8899-553758c86573",
+          "location": "Worldwide - Remote",
+          "publishedAt": "2026-02-22T23:59:07.016+00:00",
+          "team": "🧑🏽‍💻 Engineering",
+          "title": "Design Lead"
+        }
+      ]
+    }
+  ],
+  "scannedAtUtc": "2026-02-23T06:57:41.595168+00:00"
 }

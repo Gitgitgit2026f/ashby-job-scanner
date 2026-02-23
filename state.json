@@ -62,7 +62,7 @@
   "_meta": {
     "boardsCount": 27,
     "errorsCount": 0,
-    "updatedAtUtc": "2026-02-22T14:19:09.960565+00:00"
+    "updatedAtUtc": "2026-02-23T06:57:41.595168+00:00"
   },
   "airtable": [],
   "ashby": [
@@ -116,6 +116,7 @@
     "c3c7125d-7883-4dff-a2bf-f5a55de4a364",
     "cc846e56-27dd-41b5-bf5b-64d5eeb5ff1a",
     "ce9f0432-7abf-4911-b644-69d0fb08d67f",
+    "d45fbb60-7ecb-45ba-ab01-652f8ea03fad",
     "d46e79d4-43fd-477f-aa06-25b604715223",
     "d573471b-2005-482c-9fbf-d1df9550cb57",
     "dc344264-ccec-47c1-b4fc-0862633b26ba",
@@ -234,6 +235,7 @@
   ],
   "dourolabs.xyz": [
     "af6927c2-1a8e-44f4-9cd0-04e2880a5bbe",
+    "b40f164c-18fc-4cd5-8899-553758c86573",
     "b7ba56be-b09c-49f5-bc54-059d4b6957cd"
   ],
   "enode": [
