@@ -3,70 +3,61 @@
   "firstRun": false,
   "new": [
     {
+      "board": "n8n",
+      "jobs": [
+        {
+          "department": "Marketing",
+          "id": "a15096cb-a4ae-4d9d-a537-233975016ca4",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/a15096cb-a4ae-4d9d-a537-233975016ca4",
+          "location": "Berlin Office",
+          "publishedAt": "2026-02-24T09:05:52.877+00:00",
+          "team": "Marketing",
+          "title": "Head of Product Marketing (Remote Europe OR East Coast, US)"
+        }
+      ]
+    },
+    {
       "board": "supabase",
       "jobs": [
         {
           "department": "Engineering",
-          "id": "9073c0cd-2545-473a-b2ac-63e4615c69b5",
-          "jobUrl": "https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5",
+          "id": "3cb7aab9-8cbe-411a-a5bd-5b524afdaf40",
+          "jobUrl": "https://jobs.ashbyhq.com/supabase/3cb7aab9-8cbe-411a-a5bd-5b524afdaf40",
           "location": "Remote",
-          "publishedAt": "2026-02-23T20:59:56.015+00:00",
+          "publishedAt": "2026-02-10T15:10:35.850+00:00",
           "team": "Engineering",
-          "title": "Platform Engineer: Data"
-        },
-        {
-          "department": "Engineering",
-          "id": "62eff9da-6c38-42e0-84cc-e82392415b52",
-          "jobUrl": "https://jobs.ashbyhq.com/supabase/62eff9da-6c38-42e0-84cc-e82392415b52",
-          "location": "Remote",
-          "publishedAt": "2026-02-23T19:28:44.054+00:00",
-          "team": "Engineering",
-          "title": "Data Platform Reliability Engineer - Postgres"
+          "title": "Head of Interfaces"
         }
       ]
     },
     {
-      "board": "sardine",
+      "board": "gt-hq",
       "jobs": [
         {
-          "department": "Post-Sales ",
-          "id": "5b932cd4-7310-4c82-a07f-379e87383733",
-          "jobUrl": "https://jobs.ashbyhq.com/sardine/5b932cd4-7310-4c82-a07f-379e87383733",
-          "location": "North America - Remote",
-          "publishedAt": "2026-02-23T15:22:32.760+00:00",
-          "team": "Post-Sales ",
-          "title": "Technical Professional Services Lead "
+          "department": "Confidential",
+          "id": "cba0f0a8-9b8e-4b26-9061-a9442494da4b",
+          "jobUrl": "https://jobs.ashbyhq.com/gt-hq/cba0f0a8-9b8e-4b26-9061-a9442494da4b",
+          "location": "Ukraine - Remote",
+          "publishedAt": "2026-02-20T11:05:04.713+00:00",
+          "team": "Confidential",
+          "title": "Junior Mobile Automation QA | GT"
         }
       ]
     },
     {
-      "board": "1password",
+      "board": "everai",
       "jobs": [
         {
-          "department": "GTM",
-          "id": "e9168e6a-3c08-4064-8565-27475d86fdf7",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/e9168e6a-3c08-4064-8565-27475d86fdf7",
-          "location": "Remote US",
-          "publishedAt": "2026-02-23T21:10:37.025+00:00",
-          "team": "Other Sales",
-          "title": "Senior Manager, Technical Account Management"
-        }
-      ]
-    },
-    {
-      "board": "poolside",
-      "jobs": [
-        {
-          "department": "Applied Research",
-          "id": "bf212f1b-c01e-4b6a-a470-88d5c069685e",
-          "jobUrl": "https://jobs.ashbyhq.com/poolside/bf212f1b-c01e-4b6a-a470-88d5c069685e",
-          "location": "Remote (EMEA/East Coast)",
-          "publishedAt": "2026-02-23T18:12:55.202+00:00",
-          "team": "Applied Research",
-          "title": "Member of Engineering (Pre-training / CUDA)"
+          "department": "Growth",
+          "id": "0c9e6f9d-ae85-43f2-b330-36111f8f4b03",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/0c9e6f9d-ae85-43f2-b330-36111f8f4b03",
+          "location": "Germany",
+          "publishedAt": "2026-02-24T08:47:28.317+00:00",
+          "team": "Product Design",
+          "title": "Junior Product Designer (Full Remote - Germany)"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-02-24T06:53:08.449202+00:00"
+  "scannedAtUtc": "2026-02-24T14:44:10.165419+00:00"
 }
