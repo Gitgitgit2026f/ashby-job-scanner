@@ -6,44 +6,72 @@
       "board": "mazehq",
       "jobs": [
         {
-          "department": "Engineering",
-          "id": "b1284560-f82a-489d-a2c7-78b16dd50d04",
-          "jobUrl": "https://jobs.ashbyhq.com/mazehq/b1284560-f82a-489d-a2c7-78b16dd50d04",
-          "location": "Remote (Europe)",
-          "publishedAt": "2026-02-22T16:49:32.770+00:00",
-          "team": "Engineering",
-          "title": "Engineering Director"
+          "department": "GTM",
+          "id": "25cdf374-f913-49f5-a47e-93810b520573",
+          "jobUrl": "https://jobs.ashbyhq.com/mazehq/25cdf374-f913-49f5-a47e-93810b520573",
+          "location": "Remote (US)",
+          "publishedAt": "2026-02-25T15:13:04.659+00:00",
+          "team": "GTM",
+          "title": "Senior Manager, Demand Generation"
         }
       ]
     },
     {
-      "board": "supabase",
+      "board": "1password",
       "jobs": [
         {
-          "department": "Engineering",
-          "id": "894139b0-cc52-4fe4-b84f-ab6660b517d0",
-          "jobUrl": "https://jobs.ashbyhq.com/supabase/894139b0-cc52-4fe4-b84f-ab6660b517d0",
-          "location": "APAC",
-          "publishedAt": "2026-02-25T11:47:26.329+00:00",
-          "team": "Engineering",
-          "title": "Infrastructure Engineer - Observability (APAC)"
+          "department": "Marketing",
+          "id": "d2ccde98-2fef-4341-a125-880294498c8d",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/d2ccde98-2fef-4341-a125-880294498c8d",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-02-25T20:52:21.820+00:00",
+          "team": "Product Marketing",
+          "title": "Sr Product Marketing Manager, Solutions"
         }
       ]
     },
     {
-      "board": "toogeza",
+      "board": "atomic-invest",
       "jobs": [
         {
-          "department": "Concierge Service ",
-          "id": "99c430c9-cc6b-488a-842a-68c783a97915",
-          "jobUrl": "https://jobs.ashbyhq.com/toogeza/99c430c9-cc6b-488a-842a-68c783a97915",
-          "location": "Kyiv",
-          "publishedAt": "2026-02-25T14:24:13.848+00:00",
-          "team": "Concierge Service ",
-          "title": "Executive Assistant"
+          "department": "Finance",
+          "id": "1aa0950e-662f-415e-ace3-111d16968a72",
+          "jobUrl": "https://jobs.ashbyhq.com/atomic-invest/1aa0950e-662f-415e-ace3-111d16968a72",
+          "location": "New York",
+          "publishedAt": "2026-02-25T18:12:04.917+00:00",
+          "team": "Finance",
+          "title": "Operations Associate"
+        }
+      ]
+    },
+    {
+      "board": "v7labs.com",
+      "jobs": [
+        {
+          "department": "Sales",
+          "id": "16cf0e87-c636-4480-8178-63dbf744b0b1",
+          "jobUrl": "https://jobs.ashbyhq.com/v7labs.com/16cf0e87-c636-4480-8178-63dbf744b0b1",
+          "location": "New York, US",
+          "publishedAt": "2026-02-25T16:39:09.947+00:00",
+          "team": "Account Management",
+          "title": "Technical Account Manager"
+        }
+      ]
+    },
+    {
+      "board": "poolside",
+      "jobs": [
+        {
+          "department": "Data Center",
+          "id": "72231711-3fcc-4b54-9c88-47bb40982a66",
+          "jobUrl": "https://jobs.ashbyhq.com/poolside/72231711-3fcc-4b54-9c88-47bb40982a66",
+          "location": "Austin, Texas",
+          "publishedAt": "2026-02-25T21:20:05.873+00:00",
+          "team": "Data Center",
+          "title": "Design Manager"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-02-25T14:43:43.082089+00:00"
+  "scannedAtUtc": "2026-02-26T06:53:03.703254+00:00"
 }
