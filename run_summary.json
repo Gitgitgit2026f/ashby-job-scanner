@@ -3,44 +3,58 @@
   "firstRun": false,
   "new": [
     {
-      "board": "mazehq",
+      "board": "n8n",
       "jobs": [
         {
-          "department": "GTM",
-          "id": "25cdf374-f913-49f5-a47e-93810b520573",
-          "jobUrl": "https://jobs.ashbyhq.com/mazehq/25cdf374-f913-49f5-a47e-93810b520573",
-          "location": "Remote (US)",
-          "publishedAt": "2026-02-25T15:13:04.659+00:00",
-          "team": "GTM",
-          "title": "Senior Manager, Demand Generation"
+          "department": "Sales",
+          "id": "a4b4f001-e989-43d5-9f74-3048bf1d10f3",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/a4b4f001-e989-43d5-9f74-3048bf1d10f3",
+          "location": "Berlin Office",
+          "publishedAt": "2026-02-26T08:59:11.305+00:00",
+          "team": "Account Executives",
+          "title": "Enterprise Account Executive (w/ German - Remote DACH)"
         }
       ]
     },
     {
-      "board": "1password",
+      "board": "dourolabs.xyz",
+      "jobs": [
+        {
+          "department": "📊 Business Development",
+          "id": "5e503771-09ca-4153-b7ff-b194cbcf8284",
+          "jobUrl": "https://jobs.ashbyhq.com/dourolabs.xyz/5e503771-09ca-4153-b7ff-b194cbcf8284",
+          "location": "North America - Remote",
+          "publishedAt": "2026-02-26T11:10:46.009+00:00",
+          "team": "📊 Business Development",
+          "title": "Partnerships Lead - Fogo"
+        }
+      ]
+    },
+    {
+      "board": "toogeza",
       "jobs": [
         {
           "department": "Marketing",
-          "id": "d2ccde98-2fef-4341-a125-880294498c8d",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/d2ccde98-2fef-4341-a125-880294498c8d",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-02-25T20:52:21.820+00:00",
-          "team": "Product Marketing",
-          "title": "Sr Product Marketing Manager, Solutions"
+          "id": "5bac56f6-ab14-4368-a131-83166502b775",
+          "jobUrl": "https://jobs.ashbyhq.com/toogeza/5bac56f6-ab14-4368-a131-83166502b775",
+          "location": "Kyiv",
+          "publishedAt": "2026-02-26T12:43:33.972+00:00",
+          "team": "Marketing",
+          "title": "Membership Growth Manager"
         }
       ]
     },
     {
-      "board": "atomic-invest",
+      "board": "dash0",
       "jobs": [
         {
-          "department": "Finance",
-          "id": "1aa0950e-662f-415e-ace3-111d16968a72",
-          "jobUrl": "https://jobs.ashbyhq.com/atomic-invest/1aa0950e-662f-415e-ace3-111d16968a72",
-          "location": "New York",
-          "publishedAt": "2026-02-25T18:12:04.917+00:00",
-          "team": "Finance",
-          "title": "Operations Associate"
+          "department": "Sales",
+          "id": "55ce88b4-2024-4752-8783-8e9c93e7643f",
+          "jobUrl": "https://jobs.ashbyhq.com/dash0/55ce88b4-2024-4752-8783-8e9c93e7643f",
+          "location": "EMEA - Remote",
+          "publishedAt": "2026-02-26T13:59:43.314+00:00",
+          "team": "Sales",
+          "title": "Partnerships Manager "
         }
       ]
     },
@@ -48,30 +62,16 @@
       "board": "v7labs.com",
       "jobs": [
         {
-          "department": "Sales",
-          "id": "16cf0e87-c636-4480-8178-63dbf744b0b1",
-          "jobUrl": "https://jobs.ashbyhq.com/v7labs.com/16cf0e87-c636-4480-8178-63dbf744b0b1",
+          "department": "Solutions Engineering",
+          "id": "00d9239d-17ab-499e-ab59-6e1fb7b1ef20",
+          "jobUrl": "https://jobs.ashbyhq.com/v7labs.com/00d9239d-17ab-499e-ab59-6e1fb7b1ef20",
           "location": "New York, US",
-          "publishedAt": "2026-02-25T16:39:09.947+00:00",
-          "team": "Account Management",
-          "title": "Technical Account Manager"
-        }
-      ]
-    },
-    {
-      "board": "poolside",
-      "jobs": [
-        {
-          "department": "Data Center",
-          "id": "72231711-3fcc-4b54-9c88-47bb40982a66",
-          "jobUrl": "https://jobs.ashbyhq.com/poolside/72231711-3fcc-4b54-9c88-47bb40982a66",
-          "location": "Austin, Texas",
-          "publishedAt": "2026-02-25T21:20:05.873+00:00",
-          "team": "Data Center",
-          "title": "Design Manager"
+          "publishedAt": "2026-02-26T11:49:39.635+00:00",
+          "team": "Solutions Engineering",
+          "title": "AI Solutions Engineer "
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-02-26T06:53:03.703254+00:00"
+  "scannedAtUtc": "2026-02-26T14:41:51.319632+00:00"
 }
