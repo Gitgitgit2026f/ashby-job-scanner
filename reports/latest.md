@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-02-26T14:41:51.319632+00:00
+- **Scanned at (UTC):** 2026-02-27T06:44:05.565239+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 5
+- **New jobs found:** 10
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -16,12 +16,12 @@
 | supabase | 0 |
 | nango | 0 |
 | axelera | 0 |
-| ashby | 0 |
+| ashby | 3 |
 | cargo-one | 0 |
 | gt-hq | 0 |
 | dourolabs.xyz | 1 |
 | everai | 0 |
-| toogeza | 1 |
+| toogeza | 2 |
 | enode | 0 |
 | cradlebio | 0 |
 | sardine | 0 |
@@ -29,12 +29,12 @@
 | splitmetrics | 0 |
 | oh | 0 |
 | substack | 0 |
-| dash0 | 1 |
-| 1password | 0 |
+| dash0 | 0 |
+| 1password | 3 |
 | incard | 0 |
 | atomic-invest | 0 |
 | chronospherejobs | 0 |
-| v7labs.com | 1 |
+| v7labs.com | 0 |
 | poolside | 0 |
 | mazedesign | 0 |
 
@@ -42,21 +42,26 @@
 
 ### n8n
 
-- [Enterprise Account Executive (w/ German - Remote DACH)](https://jobs.ashbyhq.com/n8n/a4b4f001-e989-43d5-9f74-3048bf1d10f3) — Berlin Office — 2026-02-26T08:59:11.305+00:00
+- [Senior Design Engineer](https://jobs.ashbyhq.com/n8n/45cc03e9-bcbf-47a0-9511-554c9dc286e8) — Germany — 2026-01-07T08:15:51.951+00:00
+
+### ashby
+
+- [Software Developer In Test](https://jobs.ashbyhq.com/ashby/2e0d2b8e-0f2a-4fb4-9156-703dcc1a7d7d) — Remote - North America — 2026-02-26T19:17:10.278+00:00
+- [Sr. Event Marketing Manager - EMEA](https://jobs.ashbyhq.com/ashby/a652c66c-16d3-47d1-88b0-0b1c82fff75c) — Remote - Europe — 2026-02-26T17:37:39.181+00:00
+- [Strategic Implementation Specialist - EMEA](https://jobs.ashbyhq.com/ashby/3d0ffda4-696a-4c4e-bee5-d7f4f441c3c3) — Remote - Europe — 2026-02-26T17:32:09.572+00:00
 
 ### dourolabs.xyz
 
-- [Partnerships Lead - Fogo](https://jobs.ashbyhq.com/dourolabs.xyz/5e503771-09ca-4153-b7ff-b194cbcf8284) — North America - Remote — 2026-02-26T11:10:46.009+00:00
+- [Business Development Manager](https://jobs.ashbyhq.com/dourolabs.xyz/a5935ef5-1d45-4286-b194-787cfe97055f) — Asia - Remote — 2026-02-27T00:41:49.541+00:00
 
 ### toogeza
 
-- [Membership Growth Manager](https://jobs.ashbyhq.com/toogeza/5bac56f6-ab14-4368-a131-83166502b775) — Kyiv — 2026-02-26T12:43:33.972+00:00
+- [Store Marketing & Growth Manager](https://jobs.ashbyhq.com/toogeza/d4d21307-8ddf-4e74-98c3-158a370e0c91) — Kyiv — 2026-02-26T16:37:32.270+00:00
+- [Account Manager](https://jobs.ashbyhq.com/toogeza/78f9fb65-3a51-407a-bb67-a23ac63a6d01) — Cyprus — 2026-02-26T16:19:01.933+00:00
 
-### dash0
+### 1password
 
-- [Partnerships Manager](https://jobs.ashbyhq.com/dash0/55ce88b4-2024-4752-8783-8e9c93e7643f) — EMEA - Remote — 2026-02-26T13:59:43.314+00:00
-
-### v7labs.com
-
-- [AI Solutions Engineer](https://jobs.ashbyhq.com/v7labs.com/00d9239d-17ab-499e-ab59-6e1fb7b1ef20) — New York, US — 2026-02-26T11:49:39.635+00:00
+- [Senior Security Engineer](https://jobs.ashbyhq.com/1password/e7363d06-54c9-43bb-ad1f-5eea257a320e) — Remote (United States | Canada) — 2026-02-26T20:57:27.007+00:00
+- [Developer, Insights](https://jobs.ashbyhq.com/1password/0efcd7aa-0bcf-4c65-b7dd-627833d90f37) — Remote (United States | Canada) — 2026-02-26T18:32:05.529+00:00
+- [Principal Solutions Architect, AWS Alliances](https://jobs.ashbyhq.com/1password/7159c788-1195-4c71-902e-57385d6687e7) — Remote (United States | Canada) — 2026-02-26T16:27:35.982+00:00
 
