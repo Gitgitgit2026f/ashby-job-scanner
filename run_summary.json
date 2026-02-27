@@ -6,117 +6,16 @@
       "board": "n8n",
       "jobs": [
         {
-          "department": "Product",
-          "id": "45cc03e9-bcbf-47a0-9511-554c9dc286e8",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/45cc03e9-bcbf-47a0-9511-554c9dc286e8",
-          "location": "Germany",
-          "publishedAt": "2026-01-07T08:15:51.951+00:00",
-          "team": "Product Design",
-          "title": "Senior Design Engineer"
-        }
-      ]
-    },
-    {
-      "board": "ashby",
-      "jobs": [
-        {
           "department": "Engineering",
-          "id": "2e0d2b8e-0f2a-4fb4-9156-703dcc1a7d7d",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/2e0d2b8e-0f2a-4fb4-9156-703dcc1a7d7d",
-          "location": "Remote - North America",
-          "publishedAt": "2026-02-26T19:17:10.278+00:00",
-          "team": "QA",
-          "title": "Software Developer In Test"
-        },
-        {
-          "department": "Marketing",
-          "id": "a652c66c-16d3-47d1-88b0-0b1c82fff75c",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/a652c66c-16d3-47d1-88b0-0b1c82fff75c",
-          "location": "Remote - Europe",
-          "publishedAt": "2026-02-26T17:37:39.181+00:00",
-          "team": "Marketing",
-          "title": "Sr. Event Marketing Manager - EMEA"
-        },
-        {
-          "department": "Customer Success",
-          "id": "3d0ffda4-696a-4c4e-bee5-d7f4f441c3c3",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/3d0ffda4-696a-4c4e-bee5-d7f4f441c3c3",
-          "location": "Remote - Europe",
-          "publishedAt": "2026-02-26T17:32:09.572+00:00",
-          "team": "Professional Services",
-          "title": "Strategic Implementation Specialist - EMEA"
-        }
-      ]
-    },
-    {
-      "board": "dourolabs.xyz",
-      "jobs": [
-        {
-          "department": "📊 Business Development",
-          "id": "a5935ef5-1d45-4286-b194-787cfe97055f",
-          "jobUrl": "https://jobs.ashbyhq.com/dourolabs.xyz/a5935ef5-1d45-4286-b194-787cfe97055f",
-          "location": "Asia - Remote",
-          "publishedAt": "2026-02-27T00:41:49.541+00:00",
-          "team": "📊 Business Development",
-          "title": "Business Development Manager "
-        }
-      ]
-    },
-    {
-      "board": "toogeza",
-      "jobs": [
-        {
-          "department": "Marketing",
-          "id": "d4d21307-8ddf-4e74-98c3-158a370e0c91",
-          "jobUrl": "https://jobs.ashbyhq.com/toogeza/d4d21307-8ddf-4e74-98c3-158a370e0c91",
-          "location": "Kyiv",
-          "publishedAt": "2026-02-26T16:37:32.270+00:00",
-          "team": "Marketing",
-          "title": "Store Marketing & Growth Manager"
-        },
-        {
-          "department": "Sales",
-          "id": "78f9fb65-3a51-407a-bb67-a23ac63a6d01",
-          "jobUrl": "https://jobs.ashbyhq.com/toogeza/78f9fb65-3a51-407a-bb67-a23ac63a6d01",
-          "location": "Cyprus",
-          "publishedAt": "2026-02-26T16:19:01.933+00:00",
-          "team": "Sales",
-          "title": "Account Manager"
-        }
-      ]
-    },
-    {
-      "board": "1password",
-      "jobs": [
-        {
-          "department": "Technology",
-          "id": "e7363d06-54c9-43bb-ad1f-5eea257a320e",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/e7363d06-54c9-43bb-ad1f-5eea257a320e",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-02-26T20:57:27.007+00:00",
-          "team": "Security",
-          "title": "Senior Security Engineer"
-        },
-        {
-          "department": "Technology",
-          "id": "0efcd7aa-0bcf-4c65-b7dd-627833d90f37",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/0efcd7aa-0bcf-4c65-b7dd-627833d90f37",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-02-26T18:32:05.529+00:00",
-          "team": "Technology",
-          "title": "Developer, Insights"
-        },
-        {
-          "department": "GTM",
-          "id": "7159c788-1195-4c71-902e-57385d6687e7",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/7159c788-1195-4c71-902e-57385d6687e7",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-02-26T16:27:35.982+00:00",
-          "team": "Customer Success",
-          "title": "Principal Solutions Architect, AWS Alliances"
+          "id": "640d55b3-3603-42f4-a05b-90962768fd16",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/640d55b3-3603-42f4-a05b-90962768fd16",
+          "location": "Berlin Office",
+          "publishedAt": "2026-02-27T13:25:13.365+00:00",
+          "team": "Cloud Platform",
+          "title": "Sr Cloud Engineer | NodeJS + TS/JS | Europe remote"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-02-27T06:44:05.565239+00:00"
+  "scannedAtUtc": "2026-02-27T14:34:52.947663+00:00"
 }
