@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-03-03T06:42:06.919553+00:00
+- **Scanned at (UTC):** 2026-03-03T14:38:30.883648+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 3
+- **New jobs found:** 4
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -10,15 +10,15 @@
 
 | Board | New jobs |
 |---|---:|
-| n8n | 0 |
+| n8n | 2 |
 | reedsy | 0 |
 | mazehq | 0 |
 | supabase | 0 |
 | nango | 0 |
-| axelera | 0 |
-| ashby | 1 |
+| axelera | 1 |
+| ashby | 0 |
 | cargo-one | 0 |
-| gt-hq | 0 |
+| gt-hq | 1 |
 | dourolabs.xyz | 0 |
 | everai | 0 |
 | toogeza | 0 |
@@ -30,25 +30,26 @@
 | oh | 0 |
 | substack | 0 |
 | dash0 | 0 |
-| 1password | 1 |
+| 1password | 0 |
 | incard | 0 |
 | atomic-invest | 0 |
 | chronospherejobs | 0 |
-| v7labs.com | 1 |
+| v7labs.com | 0 |
 | poolside | 0 |
 | mazedesign | 0 |
 
 ## New jobs
 
-### ashby
+### n8n
 
-- [Billing Specialist](https://jobs.ashbyhq.com/ashby/8978493f-5864-4107-8503-86988dda56c5) — Remote - US — 2026-03-02T23:41:35.307+00:00
+- [Senior Developer Advocate, US](https://jobs.ashbyhq.com/n8n/2e152f2d-165f-4a25-89f1-7a9a7ab561e6) — United States — 2026-03-03T11:51:03.847+00:00
+- [Senior Developer Advocate, EMEA](https://jobs.ashbyhq.com/n8n/953dcc48-f103-4067-9307-16f670fe1bef) — Germany — 2026-03-03T11:51:00.293+00:00
 
-### 1password
+### axelera
 
-- [Senior Frontend Developer, Design Systems](https://jobs.ashbyhq.com/1password/cd330b33-62d6-47d1-a0c1-61a6f7123a7f) — Remote (United States | Canada) — 2026-03-02T20:29:11.681+00:00
+- [Senior/Staff Backend Compiler Engineer](https://jobs.ashbyhq.com/axelera/c5881c30-b8b3-40f3-a4d4-0410c77e246b) — Hybrid/Remote - Europe (incl. UK) — 2026-03-03T13:45:40.932+00:00
 
-### v7labs.com
+### gt-hq
 
-- [AI Solutions Engineer](https://jobs.ashbyhq.com/v7labs.com/4cceaa55-bcd6-4078-a396-a12bcc35ef5e) — London — 2026-03-02T15:41:17.281+00:00
+- [ServiceNow Solution Architect | Mercer](https://jobs.ashbyhq.com/gt-hq/b37c9002-6a58-46ff-9fe1-c3559426b3c3) — Europe - Remote — 2026-02-23T15:03:10.888+00:00
 

@@ -3,47 +3,56 @@
   "firstRun": false,
   "new": [
     {
-      "board": "ashby",
+      "board": "n8n",
       "jobs": [
         {
-          "department": "Finance & Operations",
-          "id": "8978493f-5864-4107-8503-86988dda56c5",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/8978493f-5864-4107-8503-86988dda56c5",
-          "location": "Remote - US",
-          "publishedAt": "2026-03-02T23:41:35.307+00:00",
-          "team": "Finance & Operations",
-          "title": "Billing Specialist"
+          "department": "Marketing",
+          "id": "2e152f2d-165f-4a25-89f1-7a9a7ab561e6",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/2e152f2d-165f-4a25-89f1-7a9a7ab561e6",
+          "location": "United States",
+          "publishedAt": "2026-03-03T11:51:03.847+00:00",
+          "team": "Marketing",
+          "title": "Senior Developer Advocate, US"
+        },
+        {
+          "department": "Marketing",
+          "id": "953dcc48-f103-4067-9307-16f670fe1bef",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/953dcc48-f103-4067-9307-16f670fe1bef",
+          "location": "Germany",
+          "publishedAt": "2026-03-03T11:51:00.293+00:00",
+          "team": "Marketing",
+          "title": "Senior Developer Advocate, EMEA"
         }
       ]
     },
     {
-      "board": "1password",
+      "board": "axelera",
       "jobs": [
         {
-          "department": "Technology",
-          "id": "cd330b33-62d6-47d1-a0c1-61a6f7123a7f",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/cd330b33-62d6-47d1-a0c1-61a6f7123a7f",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-03-02T20:29:11.681+00:00",
-          "team": "Platform Engineering",
-          "title": "Senior Frontend Developer, Design Systems"
+          "department": "AI Software",
+          "id": "c5881c30-b8b3-40f3-a4d4-0410c77e246b",
+          "jobUrl": "https://jobs.ashbyhq.com/axelera/c5881c30-b8b3-40f3-a4d4-0410c77e246b",
+          "location": "Hybrid/Remote - Europe (incl. UK)",
+          "publishedAt": "2026-03-03T13:45:40.932+00:00",
+          "team": "AI Software",
+          "title": "Senior/Staff Backend Compiler Engineer"
         }
       ]
     },
     {
-      "board": "v7labs.com",
+      "board": "gt-hq",
       "jobs": [
         {
-          "department": "Solutions Engineering",
-          "id": "4cceaa55-bcd6-4078-a396-a12bcc35ef5e",
-          "jobUrl": "https://jobs.ashbyhq.com/v7labs.com/4cceaa55-bcd6-4078-a396-a12bcc35ef5e",
-          "location": "London",
-          "publishedAt": "2026-03-02T15:41:17.281+00:00",
-          "team": "Solutions Engineering",
-          "title": "AI Solutions Engineer "
+          "department": "Mercer",
+          "id": "b37c9002-6a58-46ff-9fe1-c3559426b3c3",
+          "jobUrl": "https://jobs.ashbyhq.com/gt-hq/b37c9002-6a58-46ff-9fe1-c3559426b3c3",
+          "location": "Europe - Remote",
+          "publishedAt": "2026-02-23T15:03:10.888+00:00",
+          "team": "Mercer",
+          "title": "ServiceNow Solution Architect | Mercer"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-03-03T06:42:06.919553+00:00"
+  "scannedAtUtc": "2026-03-03T14:38:30.883648+00:00"
 }
