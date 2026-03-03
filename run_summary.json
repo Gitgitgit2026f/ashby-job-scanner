@@ -1,6 +1,49 @@
 {
   "errors": [],
   "firstRun": false,
-  "new": [],
-  "scannedAtUtc": "2026-03-02T14:38:16.377418+00:00"
+  "new": [
+    {
+      "board": "ashby",
+      "jobs": [
+        {
+          "department": "Finance & Operations",
+          "id": "8978493f-5864-4107-8503-86988dda56c5",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/8978493f-5864-4107-8503-86988dda56c5",
+          "location": "Remote - US",
+          "publishedAt": "2026-03-02T23:41:35.307+00:00",
+          "team": "Finance & Operations",
+          "title": "Billing Specialist"
+        }
+      ]
+    },
+    {
+      "board": "1password",
+      "jobs": [
+        {
+          "department": "Technology",
+          "id": "cd330b33-62d6-47d1-a0c1-61a6f7123a7f",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/cd330b33-62d6-47d1-a0c1-61a6f7123a7f",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-03-02T20:29:11.681+00:00",
+          "team": "Platform Engineering",
+          "title": "Senior Frontend Developer, Design Systems"
+        }
+      ]
+    },
+    {
+      "board": "v7labs.com",
+      "jobs": [
+        {
+          "department": "Solutions Engineering",
+          "id": "4cceaa55-bcd6-4078-a396-a12bcc35ef5e",
+          "jobUrl": "https://jobs.ashbyhq.com/v7labs.com/4cceaa55-bcd6-4078-a396-a12bcc35ef5e",
+          "location": "London",
+          "publishedAt": "2026-03-02T15:41:17.281+00:00",
+          "team": "Solutions Engineering",
+          "title": "AI Solutions Engineer "
+        }
+      ]
+    }
+  ],
+  "scannedAtUtc": "2026-03-03T06:42:06.919553+00:00"
 }
