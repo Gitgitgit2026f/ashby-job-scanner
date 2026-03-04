@@ -1,6 +1,6 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-03-03T14:38:30.883648+00:00
+- **Scanned at (UTC):** 2026-03-04T06:39:21.564588+00:00
 - **Boards scanned:** 27
 - **New jobs found:** 4
 - **Errors:** 0
@@ -10,15 +10,15 @@
 
 | Board | New jobs |
 |---|---:|
-| n8n | 2 |
+| n8n | 0 |
 | reedsy | 0 |
 | mazehq | 0 |
-| supabase | 0 |
+| supabase | 1 |
 | nango | 0 |
-| axelera | 1 |
+| axelera | 0 |
 | ashby | 0 |
 | cargo-one | 0 |
-| gt-hq | 1 |
+| gt-hq | 0 |
 | dourolabs.xyz | 0 |
 | everai | 0 |
 | toogeza | 0 |
@@ -30,7 +30,7 @@
 | oh | 0 |
 | substack | 0 |
 | dash0 | 0 |
-| 1password | 0 |
+| 1password | 3 |
 | incard | 0 |
 | atomic-invest | 0 |
 | chronospherejobs | 0 |
@@ -40,16 +40,13 @@
 
 ## New jobs
 
-### n8n
+### supabase
 
-- [Senior Developer Advocate, US](https://jobs.ashbyhq.com/n8n/2e152f2d-165f-4a25-89f1-7a9a7ab561e6) — United States — 2026-03-03T11:51:03.847+00:00
-- [Senior Developer Advocate, EMEA](https://jobs.ashbyhq.com/n8n/953dcc48-f103-4067-9307-16f670fe1bef) — Germany — 2026-03-03T11:51:00.293+00:00
+- [Customer Solution Architect (APAC)](https://jobs.ashbyhq.com/supabase/51c3a3a9-7539-47f3-82e7-b95958342e2c) — APAC — 2026-03-03T21:51:47.027+00:00
 
-### axelera
+### 1password
 
-- [Senior/Staff Backend Compiler Engineer](https://jobs.ashbyhq.com/axelera/c5881c30-b8b3-40f3-a4d4-0410c77e246b) — Hybrid/Remote - Europe (incl. UK) — 2026-03-03T13:45:40.932+00:00
-
-### gt-hq
-
-- [ServiceNow Solution Architect | Mercer](https://jobs.ashbyhq.com/gt-hq/b37c9002-6a58-46ff-9fe1-c3559426b3c3) — Europe - Remote — 2026-02-23T15:03:10.888+00:00
+- [Senior Staff Product Manager](https://jobs.ashbyhq.com/1password/7f5fc34a-e18c-421e-8627-3e8880fc4d11) — Remote (United States | Canada) — 2026-03-03T19:35:53.821+00:00
+- [Account Specialist, Growth](https://jobs.ashbyhq.com/1password/e3f33cbf-e85d-41a2-ae04-9a27e7de6c7c) — Remote (United States | Canada) — 2026-03-03T19:05:24.931+00:00
+- [Senior Deal Desk Analyst](https://jobs.ashbyhq.com/1password/91e1f43b-15b8-4cad-ba51-82507a7f4add) — Remote (United States | Canada) — 2026-03-03T18:39:08.734+00:00
 

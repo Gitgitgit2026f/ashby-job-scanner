@@ -3,56 +3,51 @@
   "firstRun": false,
   "new": [
     {
-      "board": "n8n",
+      "board": "supabase",
       "jobs": [
         {
-          "department": "Marketing",
-          "id": "2e152f2d-165f-4a25-89f1-7a9a7ab561e6",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/2e152f2d-165f-4a25-89f1-7a9a7ab561e6",
-          "location": "United States",
-          "publishedAt": "2026-03-03T11:51:03.847+00:00",
-          "team": "Marketing",
-          "title": "Senior Developer Advocate, US"
+          "department": "Growth",
+          "id": "51c3a3a9-7539-47f3-82e7-b95958342e2c",
+          "jobUrl": "https://jobs.ashbyhq.com/supabase/51c3a3a9-7539-47f3-82e7-b95958342e2c",
+          "location": "APAC",
+          "publishedAt": "2026-03-03T21:51:47.027+00:00",
+          "team": "Solutions Architecture",
+          "title": "Customer Solution Architect (APAC)"
+        }
+      ]
+    },
+    {
+      "board": "1password",
+      "jobs": [
+        {
+          "department": "Technology",
+          "id": "7f5fc34a-e18c-421e-8627-3e8880fc4d11",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/7f5fc34a-e18c-421e-8627-3e8880fc4d11",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-03-03T19:35:53.821+00:00",
+          "team": "Developer AI",
+          "title": "Senior Staff Product Manager"
         },
         {
-          "department": "Marketing",
-          "id": "953dcc48-f103-4067-9307-16f670fe1bef",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/953dcc48-f103-4067-9307-16f670fe1bef",
-          "location": "Germany",
-          "publishedAt": "2026-03-03T11:51:00.293+00:00",
-          "team": "Marketing",
-          "title": "Senior Developer Advocate, EMEA"
-        }
-      ]
-    },
-    {
-      "board": "axelera",
-      "jobs": [
+          "department": "GTM",
+          "id": "e3f33cbf-e85d-41a2-ae04-9a27e7de6c7c",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/e3f33cbf-e85d-41a2-ae04-9a27e7de6c7c",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-03-03T19:05:24.931+00:00",
+          "team": "Customer Success",
+          "title": "Account Specialist, Growth"
+        },
         {
-          "department": "AI Software",
-          "id": "c5881c30-b8b3-40f3-a4d4-0410c77e246b",
-          "jobUrl": "https://jobs.ashbyhq.com/axelera/c5881c30-b8b3-40f3-a4d4-0410c77e246b",
-          "location": "Hybrid/Remote - Europe (incl. UK)",
-          "publishedAt": "2026-03-03T13:45:40.932+00:00",
-          "team": "AI Software",
-          "title": "Senior/Staff Backend Compiler Engineer"
-        }
-      ]
-    },
-    {
-      "board": "gt-hq",
-      "jobs": [
-        {
-          "department": "Mercer",
-          "id": "b37c9002-6a58-46ff-9fe1-c3559426b3c3",
-          "jobUrl": "https://jobs.ashbyhq.com/gt-hq/b37c9002-6a58-46ff-9fe1-c3559426b3c3",
-          "location": "Europe - Remote",
-          "publishedAt": "2026-02-23T15:03:10.888+00:00",
-          "team": "Mercer",
-          "title": "ServiceNow Solution Architect | Mercer"
+          "department": "GTM",
+          "id": "91e1f43b-15b8-4cad-ba51-82507a7f4add",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/91e1f43b-15b8-4cad-ba51-82507a7f4add",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-03-03T18:39:08.734+00:00",
+          "team": "Revenue Operations",
+          "title": "Senior Deal Desk Analyst"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-03-03T14:38:30.883648+00:00"
+  "scannedAtUtc": "2026-03-04T06:39:21.564588+00:00"
 }
