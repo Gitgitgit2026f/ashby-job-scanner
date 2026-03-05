@@ -7,52 +7,15 @@
       "jobs": [
         {
           "department": "Operations",
-          "id": "1b56028e-cdb7-4eb9-ba52-f7041fc9f366",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/1b56028e-cdb7-4eb9-ba52-f7041fc9f366",
+          "id": "b1cac773-bbcd-4aad-bea8-1c858729c9ef",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/b1cac773-bbcd-4aad-bea8-1c858729c9ef",
           "location": "Berlin Office",
-          "publishedAt": "2026-03-04T17:05:11.105+00:00",
-          "team": "Finance",
-          "title": "Senior Controller / FP&A Analyst (Remote Europe)"
-        },
-        {
-          "department": "Sales",
-          "id": "acab26f0-2d08-4ae1-b2b4-2ba5c3b11d3e",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/acab26f0-2d08-4ae1-b2b4-2ba5c3b11d3e",
-          "location": "Berlin Office",
-          "publishedAt": "2026-03-04T15:21:03.066+00:00",
-          "team": "Sales",
-          "title": "Strategic Partnerships Manager (DACH)"
-        }
-      ]
-    },
-    {
-      "board": "supabase",
-      "jobs": [
-        {
-          "department": "Growth",
-          "id": "66bab062-b769-43cf-ac3c-a2630257624c",
-          "jobUrl": "https://jobs.ashbyhq.com/supabase/66bab062-b769-43cf-ac3c-a2630257624c",
-          "location": "Remote",
-          "publishedAt": "2026-03-04T18:25:18.522+00:00",
-          "team": "Solutions Architecture",
-          "title": "Customer Solution Architect Team Lead (AMER)"
-        }
-      ]
-    },
-    {
-      "board": "ashby",
-      "jobs": [
-        {
-          "department": "Customer Success",
-          "id": "2b401986-a491-4f9b-9c22-63079bcd64c2",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/2b401986-a491-4f9b-9c22-63079bcd64c2",
-          "location": "Remote - North America",
-          "publishedAt": "2026-02-17T17:01:40.522+00:00",
-          "team": "Strategic Customer Success",
-          "title": "Customer Success Manager, Strategic - Americas (EST)"
+          "publishedAt": "2026-03-05T10:39:36.541+00:00",
+          "team": "Revenue Operations",
+          "title": "Workflow Automation Engineer"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-03-05T06:42:38.786853+00:00"
+  "scannedAtUtc": "2026-03-05T14:40:33.692206+00:00"
 }
