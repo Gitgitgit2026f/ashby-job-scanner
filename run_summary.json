@@ -3,83 +3,28 @@
   "firstRun": false,
   "new": [
     {
-      "board": "sardine",
+      "board": "n8n",
       "jobs": [
         {
-          "department": "Finance",
-          "id": "e0852940-d9c9-41cf-8a98-4e34f3b2ea1a",
-          "jobUrl": "https://jobs.ashbyhq.com/sardine/e0852940-d9c9-41cf-8a98-4e34f3b2ea1a",
-          "location": "United States - Remote",
-          "publishedAt": "2026-03-06T02:14:44.962+00:00",
-          "team": "Finance",
-          "title": "Technical Billing & FinOps Manager"
-        }
-      ]
-    },
-    {
-      "board": "rerun",
-      "jobs": [
-        {
-          "department": "Engineering",
-          "id": "5b699265-851e-467a-a1b6-58975c9cf1eb",
-          "jobUrl": "https://jobs.ashbyhq.com/rerun/5b699265-851e-467a-a1b6-58975c9cf1eb",
-          "location": "Remote",
-          "publishedAt": "2026-03-05T22:14:19.808+00:00",
-          "team": "Engineering",
-          "title": "Technical Lead – Data Platform & Storage"
-        }
-      ]
-    },
-    {
-      "board": "1password",
-      "jobs": [
-        {
-          "department": "GTM",
-          "id": "fc54cf48-dc47-407d-a248-9bd60567ee67",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/fc54cf48-dc47-407d-a248-9bd60567ee67",
-          "location": "Austin, TX",
-          "publishedAt": "2026-03-05T20:05:59.380+00:00",
-          "team": "BDR",
-          "title": "Manager, Business Development"
+          "department": "Sales",
+          "id": "39ed6a16-c1b0-495e-9e70-51ac163e8302",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/39ed6a16-c1b0-495e-9e70-51ac163e8302",
+          "location": "Berlin Office",
+          "publishedAt": "2026-03-06T10:32:36.493+00:00",
+          "team": "Support Engineering",
+          "title": "Support Engineer (EMEA)"
         },
         {
-          "department": "GTM",
-          "id": "6dc11821-58d1-4d0d-ad8f-7a36d4e9a5de",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/6dc11821-58d1-4d0d-ad8f-7a36d4e9a5de",
-          "location": "Remote UK",
-          "publishedAt": "2026-03-05T19:04:16.393+00:00",
-          "team": "Customer Success",
-          "title": "Manager, Customer Success EMEA"
-        },
-        {
-          "department": "Technology",
-          "id": "d37f514b-8f34-4176-b00b-18d28269e6fb",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/d37f514b-8f34-4176-b00b-18d28269e6fb",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-03-05T18:47:37.502+00:00",
-          "team": "Security",
-          "title": "Director, Developer Relations"
-        },
-        {
-          "department": "Technology",
-          "id": "34915eb9-fda2-474d-8590-9c037f392231",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/34915eb9-fda2-474d-8590-9c037f392231",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-03-05T16:30:31.674+00:00",
-          "team": "Product Engineering",
-          "title": "Staff Developer, Usage Based Billing"
-        },
-        {
-          "department": "GTM",
-          "id": "1d154d42-8bfb-48bc-81ad-ea0320bfbd4e",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/1d154d42-8bfb-48bc-81ad-ea0320bfbd4e",
-          "location": "Remote UK",
-          "publishedAt": "2026-03-05T15:48:16.924+00:00",
-          "team": "Customer Success",
-          "title": "Director, Implementations and Onboarding, EMEA"
+          "department": "Product",
+          "id": "8e20b1af-1851-4f00-a73c-6b8af2f5d428",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/8e20b1af-1851-4f00-a73c-6b8af2f5d428",
+          "location": "Berlin Office",
+          "publishedAt": "2026-03-06T09:04:51.535+00:00",
+          "team": "Product Management",
+          "title": "Senior Product Builder"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-03-06T06:40:09.023403+00:00"
+  "scannedAtUtc": "2026-03-06T14:31:10.486173+00:00"
 }
