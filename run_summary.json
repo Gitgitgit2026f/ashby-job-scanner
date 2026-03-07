@@ -6,25 +6,108 @@
       "board": "n8n",
       "jobs": [
         {
-          "department": "Sales",
-          "id": "39ed6a16-c1b0-495e-9e70-51ac163e8302",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/39ed6a16-c1b0-495e-9e70-51ac163e8302",
+          "department": "Engineering",
+          "id": "1221b66d-ff24-451d-bf09-f2f70be33501",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/1221b66d-ff24-451d-bf09-f2f70be33501",
           "location": "Berlin Office",
-          "publishedAt": "2026-03-06T10:32:36.493+00:00",
-          "team": "Support Engineering",
-          "title": "Support Engineer (EMEA)"
+          "publishedAt": "2026-03-06T21:11:03.382+00:00",
+          "team": "Engineering",
+          "title": "Engineering Manager | Remote | Europe "
+        }
+      ]
+    },
+    {
+      "board": "supabase",
+      "jobs": [
+        {
+          "department": "Growth",
+          "id": "4859464f-afab-4409-b295-4f4cbbfc41eb",
+          "jobUrl": "https://jobs.ashbyhq.com/supabase/4859464f-afab-4409-b295-4f4cbbfc41eb",
+          "location": "APAC",
+          "publishedAt": "2026-03-06T19:19:02.506+00:00",
+          "team": "Sales",
+          "title": "Account Executive ,  APAC "
+        }
+      ]
+    },
+    {
+      "board": "ashby",
+      "jobs": [
+        {
+          "department": "Sales",
+          "id": "9fba6b38-f324-49b1-ae3d-40894ad12bb1",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/9fba6b38-f324-49b1-ae3d-40894ad12bb1",
+          "location": "Remote - North America",
+          "publishedAt": "2026-03-06T19:44:45.557+00:00",
+          "team": "Sales",
+          "title": "Enterprise Account Executive - Americas (West)"
         },
         {
-          "department": "Product",
-          "id": "8e20b1af-1851-4f00-a73c-6b8af2f5d428",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/8e20b1af-1851-4f00-a73c-6b8af2f5d428",
-          "location": "Berlin Office",
-          "publishedAt": "2026-03-06T09:04:51.535+00:00",
-          "team": "Product Management",
-          "title": "Senior Product Builder"
+          "department": "Sales",
+          "id": "36df1986-8af2-4cc4-a96a-4f307d493ac0",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/36df1986-8af2-4cc4-a96a-4f307d493ac0",
+          "location": "Remote - Canada",
+          "publishedAt": "2026-03-06T19:44:07.066+00:00",
+          "team": "Sales",
+          "title": "Enterprise Account Executive - Americas (East)"
+        },
+        {
+          "department": "Customer Success",
+          "id": "00de3a3d-9914-42f8-8623-d64b912c7791",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/00de3a3d-9914-42f8-8623-d64b912c7791",
+          "location": "Remote - North to South America",
+          "publishedAt": "2026-03-06T19:26:29.490+00:00",
+          "team": "Contract Management",
+          "title": "Renewal Manager, Enterprise - Americas"
+        },
+        {
+          "department": "Customer Success",
+          "id": "99eff99f-1232-4af2-b0ae-06508167ce18",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/99eff99f-1232-4af2-b0ae-06508167ce18",
+          "location": "Remote - North America",
+          "publishedAt": "2026-03-06T18:30:31.494+00:00",
+          "team": "Contract Management",
+          "title": "Global Head of Contract Management"
+        },
+        {
+          "department": "Customer Success",
+          "id": "f3f51d94-00bb-418f-abf2-508ed5703dd7",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/f3f51d94-00bb-418f-abf2-508ed5703dd7",
+          "location": "Remote - North America",
+          "publishedAt": "2026-03-05T20:46:27.430+00:00",
+          "team": "Contract Management",
+          "title": "Renewal Manager, High Touch - Americas"
+        }
+      ]
+    },
+    {
+      "board": "sardine",
+      "jobs": [
+        {
+          "department": "Legal and Compliance",
+          "id": "bcb48a82-1229-4235-baca-aa4389485e0b",
+          "jobUrl": "https://jobs.ashbyhq.com/sardine/bcb48a82-1229-4235-baca-aa4389485e0b",
+          "location": "United States - Remote",
+          "publishedAt": "2026-03-07T01:02:45.662+00:00",
+          "team": "Legal and Compliance",
+          "title": "Corporate Counsel"
+        }
+      ]
+    },
+    {
+      "board": "substack",
+      "jobs": [
+        {
+          "department": "Engineering",
+          "id": "1d79a929-1c06-42f5-bf7d-9248f3189b3f",
+          "jobUrl": "https://jobs.ashbyhq.com/substack/1d79a929-1c06-42f5-bf7d-9248f3189b3f",
+          "location": "San Francisco (HQ)",
+          "publishedAt": "2026-03-06T19:42:50.158+00:00",
+          "team": "Engineering",
+          "title": "Full Stack Product Engineer – Creator Activation"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-03-06T14:31:10.486173+00:00"
+  "scannedAtUtc": "2026-03-07T06:32:16.059718+00:00"
 }
