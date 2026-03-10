@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-03-10T06:40:35.257399+00:00
+- **Scanned at (UTC):** 2026-03-10T14:42:09.670972+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 6
+- **New jobs found:** 2
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -10,7 +10,7 @@
 
 | Board | New jobs |
 |---|---:|
-| n8n | 0 |
+| n8n | 2 |
 | reedsy | 0 |
 | mazehq | 0 |
 | supabase | 0 |
@@ -24,13 +24,13 @@
 | toogeza | 0 |
 | enode | 0 |
 | cradlebio | 0 |
-| sardine | 2 |
+| sardine | 0 |
 | rerun | 0 |
 | splitmetrics | 0 |
 | oh | 0 |
 | substack | 0 |
-| dash0 | 1 |
-| 1password | 3 |
+| dash0 | 0 |
+| 1password | 0 |
 | incard | 0 |
 | atomic-invest | 0 |
 | chronospherejobs | 0 |
@@ -40,18 +40,8 @@
 
 ## New jobs
 
-### sardine
+### n8n
 
-- [GTM Engineer](https://jobs.ashbyhq.com/sardine/819a5d0c-4b91-4c41-91f5-2d0a351a7b35) — North America - Remote — 2026-03-09T22:21:48.230+00:00
-- [Growth Marketing Lead](https://jobs.ashbyhq.com/sardine/3d97a7b9-1788-4ad8-9340-047346d7e147) — United States - Remote — 2026-03-03T18:46:23.440+00:00
-
-### dash0
-
-- [Regional Manager, Customer Experience and Success](https://jobs.ashbyhq.com/dash0/bdf751ff-c97b-498d-8aaf-86b3c2129016) — United States - remote — 2026-03-09T15:47:00.454+00:00
-
-### 1password
-
-- [Senior Alliance Manager, AWS](https://jobs.ashbyhq.com/1password/47b4cf46-f237-4e52-a021-74436d808c55) — Remote (United States | Canada) — 2026-03-09T22:42:45.480+00:00
-- [Senior Manager, Sales Engineering, Commercial and Channel](https://jobs.ashbyhq.com/1password/51c66661-7f8d-4fd1-8058-249ecfc80761) — Remote US — 2026-03-09T22:23:22.553+00:00
-- [Engineering Manager, Console UI](https://jobs.ashbyhq.com/1password/42465507-fe72-4c6c-85c5-6ec75d25311b) — Remote (United States | Canada) — 2026-03-09T22:14:29.362+00:00
+- [Support Engineer (North America)](https://jobs.ashbyhq.com/n8n/51972617-2733-46a8-b476-653c5278ab82) — New York — 2026-03-10T10:16:54.237+00:00
+- [Senior Legal Counsel US (Remote East Coast)](https://jobs.ashbyhq.com/n8n/d91219b9-a159-4a7f-ba70-d97ee06bf05b) — New York — 2026-03-10T09:43:58.419+00:00
 

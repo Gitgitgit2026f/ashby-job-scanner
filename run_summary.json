@@ -3,74 +3,28 @@
   "firstRun": false,
   "new": [
     {
-      "board": "sardine",
+      "board": "n8n",
       "jobs": [
         {
-          "department": "Revenue Operations",
-          "id": "819a5d0c-4b91-4c41-91f5-2d0a351a7b35",
-          "jobUrl": "https://jobs.ashbyhq.com/sardine/819a5d0c-4b91-4c41-91f5-2d0a351a7b35",
-          "location": "North America - Remote",
-          "publishedAt": "2026-03-09T22:21:48.230+00:00",
-          "team": "Revenue Operations",
-          "title": "GTM Engineer"
+          "department": "Sales",
+          "id": "51972617-2733-46a8-b476-653c5278ab82",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/51972617-2733-46a8-b476-653c5278ab82",
+          "location": "New York",
+          "publishedAt": "2026-03-10T10:16:54.237+00:00",
+          "team": "Support Engineering",
+          "title": "Support Engineer (North America)"
         },
         {
-          "department": "Marketing",
-          "id": "3d97a7b9-1788-4ad8-9340-047346d7e147",
-          "jobUrl": "https://jobs.ashbyhq.com/sardine/3d97a7b9-1788-4ad8-9340-047346d7e147",
-          "location": "United States - Remote",
-          "publishedAt": "2026-03-03T18:46:23.440+00:00",
-          "team": "Marketing",
-          "title": "Growth Marketing Lead"
-        }
-      ]
-    },
-    {
-      "board": "dash0",
-      "jobs": [
-        {
-          "department": "Customer Success",
-          "id": "bdf751ff-c97b-498d-8aaf-86b3c2129016",
-          "jobUrl": "https://jobs.ashbyhq.com/dash0/bdf751ff-c97b-498d-8aaf-86b3c2129016",
-          "location": "United States - remote",
-          "publishedAt": "2026-03-09T15:47:00.454+00:00",
-          "team": "Customer Success",
-          "title": "Regional Manager, Customer Experience and Success"
-        }
-      ]
-    },
-    {
-      "board": "1password",
-      "jobs": [
-        {
-          "department": "GTM",
-          "id": "47b4cf46-f237-4e52-a021-74436d808c55",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/47b4cf46-f237-4e52-a021-74436d808c55",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-03-09T22:42:45.480+00:00",
-          "team": "Partnerships",
-          "title": "Senior Alliance Manager, AWS"
-        },
-        {
-          "department": "GTM",
-          "id": "51c66661-7f8d-4fd1-8058-249ecfc80761",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/51c66661-7f8d-4fd1-8058-249ecfc80761",
-          "location": "Remote US",
-          "publishedAt": "2026-03-09T22:23:22.553+00:00",
-          "team": "Other Sales",
-          "title": "Senior Manager, Sales Engineering, Commercial and Channel"
-        },
-        {
-          "department": "Technology",
-          "id": "42465507-fe72-4c6c-85c5-6ec75d25311b",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/42465507-fe72-4c6c-85c5-6ec75d25311b",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-03-09T22:14:29.362+00:00",
-          "team": "Product Engineering",
-          "title": "Engineering Manager, Console UI"
+          "department": "Operations",
+          "id": "d91219b9-a159-4a7f-ba70-d97ee06bf05b",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/d91219b9-a159-4a7f-ba70-d97ee06bf05b",
+          "location": "New York",
+          "publishedAt": "2026-03-10T09:43:58.419+00:00",
+          "team": "Legal & Compliance",
+          "title": "Senior Legal Counsel US (Remote East Coast)"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-03-10T06:40:35.257399+00:00"
+  "scannedAtUtc": "2026-03-10T14:42:09.670972+00:00"
 }
