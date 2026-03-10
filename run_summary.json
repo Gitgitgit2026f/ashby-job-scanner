@@ -3,353 +3,74 @@
   "firstRun": false,
   "new": [
     {
-      "board": "supabase",
+      "board": "sardine",
       "jobs": [
         {
-          "department": "Engineering",
-          "id": "b9e61d23-fb4a-4f97-be4f-fbbd0a6f96bc",
-          "jobUrl": "https://jobs.ashbyhq.com/supabase/b9e61d23-fb4a-4f97-be4f-fbbd0a6f96bc",
-          "location": "Remote",
-          "publishedAt": "2026-02-05T14:53:15.451+00:00",
-          "team": "Engineering",
-          "title": "Elixir Engineer: Observability"
+          "department": "Revenue Operations",
+          "id": "819a5d0c-4b91-4c41-91f5-2d0a351a7b35",
+          "jobUrl": "https://jobs.ashbyhq.com/sardine/819a5d0c-4b91-4c41-91f5-2d0a351a7b35",
+          "location": "North America - Remote",
+          "publishedAt": "2026-03-09T22:21:48.230+00:00",
+          "team": "Revenue Operations",
+          "title": "GTM Engineer"
+        },
+        {
+          "department": "Marketing",
+          "id": "3d97a7b9-1788-4ad8-9340-047346d7e147",
+          "jobUrl": "https://jobs.ashbyhq.com/sardine/3d97a7b9-1788-4ad8-9340-047346d7e147",
+          "location": "United States - Remote",
+          "publishedAt": "2026-03-03T18:46:23.440+00:00",
+          "team": "Marketing",
+          "title": "Growth Marketing Lead"
         }
       ]
     },
     {
-      "board": "nango",
+      "board": "dash0",
       "jobs": [
         {
-          "department": "Nango",
-          "id": "0c10c286-a149-4991-856c-ada1cb2d2b1d",
-          "jobUrl": "https://jobs.ashbyhq.com/nango/0c10c286-a149-4991-856c-ada1cb2d2b1d",
-          "location": "USA",
-          "publishedAt": "2026-03-09T09:55:31.900+00:00",
-          "team": "Nango",
-          "title": "Frontend Engineer"
+          "department": "Customer Success",
+          "id": "bdf751ff-c97b-498d-8aaf-86b3c2129016",
+          "jobUrl": "https://jobs.ashbyhq.com/dash0/bdf751ff-c97b-498d-8aaf-86b3c2129016",
+          "location": "United States - remote",
+          "publishedAt": "2026-03-09T15:47:00.454+00:00",
+          "team": "Customer Success",
+          "title": "Regional Manager, Customer Experience and Success"
         }
       ]
     },
     {
-      "board": "everai",
+      "board": "1password",
       "jobs": [
         {
-          "department": "Operations",
-          "id": "759ecdb2-43f6-4546-b9ff-58b4273ca9be",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/759ecdb2-43f6-4546-b9ff-58b4273ca9be",
-          "location": "Finland",
-          "publishedAt": "2026-03-09T08:24:28.493+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Finland)"
+          "department": "GTM",
+          "id": "47b4cf46-f237-4e52-a021-74436d808c55",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/47b4cf46-f237-4e52-a021-74436d808c55",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-03-09T22:42:45.480+00:00",
+          "team": "Partnerships",
+          "title": "Senior Alliance Manager, AWS"
         },
         {
-          "department": "Operations",
-          "id": "f8ba4a03-5515-450e-b413-91b13eeacecf",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/f8ba4a03-5515-450e-b413-91b13eeacecf",
-          "location": "Estonia",
-          "publishedAt": "2026-03-09T08:24:26.753+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Estonia)"
+          "department": "GTM",
+          "id": "51c66661-7f8d-4fd1-8058-249ecfc80761",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/51c66661-7f8d-4fd1-8058-249ecfc80761",
+          "location": "Remote US",
+          "publishedAt": "2026-03-09T22:23:22.553+00:00",
+          "team": "Other Sales",
+          "title": "Senior Manager, Sales Engineering, Commercial and Channel"
         },
         {
-          "department": "Operations",
-          "id": "44dd2ea9-0c08-48d2-95b9-61592b3039fb",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/44dd2ea9-0c08-48d2-95b9-61592b3039fb",
-          "location": "Austria",
-          "publishedAt": "2026-03-09T08:24:24.963+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Austria)"
-        },
-        {
-          "department": "Operations",
-          "id": "9e839bef-788a-41ea-a3a0-6b64a007885a",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/9e839bef-788a-41ea-a3a0-6b64a007885a",
-          "location": "Croatia",
-          "publishedAt": "2026-03-09T08:24:23.507+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Croatia)"
-        },
-        {
-          "department": "Operations",
-          "id": "5a806bd5-6d1f-45e1-9dc8-188420f91aea",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/5a806bd5-6d1f-45e1-9dc8-188420f91aea",
-          "location": "Belgium",
-          "publishedAt": "2026-03-09T08:24:21.635+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Belgium)"
-        },
-        {
-          "department": "Operations",
-          "id": "10cb84db-5890-4b88-a935-32b380f146d7",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/10cb84db-5890-4b88-a935-32b380f146d7",
-          "location": "Albania",
-          "publishedAt": "2026-03-09T08:24:19.989+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Albania)"
-        },
-        {
-          "department": "Operations",
-          "id": "1711d0ac-1cac-4054-ac1a-08d4e8b62113",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/1711d0ac-1cac-4054-ac1a-08d4e8b62113",
-          "location": "Cyprus",
-          "publishedAt": "2026-03-09T08:24:17.651+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Cyprus)"
-        },
-        {
-          "department": "Operations",
-          "id": "370dfafd-a522-4d60-b36e-f407d7a93c66",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/370dfafd-a522-4d60-b36e-f407d7a93c66",
-          "location": "Czech Republic",
-          "publishedAt": "2026-03-09T08:24:15.710+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Czech Republic)"
-        },
-        {
-          "department": "Operations",
-          "id": "51926855-3fdc-4838-9eb7-7c9b63f39ff0",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/51926855-3fdc-4838-9eb7-7c9b63f39ff0",
-          "location": "Bulgaria",
-          "publishedAt": "2026-03-09T08:24:14.192+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Bulgaria)"
-        },
-        {
-          "department": "Operations",
-          "id": "b632218b-2e14-4983-b075-684d186c8155",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/b632218b-2e14-4983-b075-684d186c8155",
-          "location": "Greece",
-          "publishedAt": "2026-03-09T08:24:12.753+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Greece)"
-        },
-        {
-          "department": "Operations",
-          "id": "996b6386-5d84-4ec5-8a52-89da82bcf1b5",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/996b6386-5d84-4ec5-8a52-89da82bcf1b5",
-          "location": "Denmark",
-          "publishedAt": "2026-03-09T08:24:10.380+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Denmark)"
-        },
-        {
-          "department": "Operations",
-          "id": "af76e57d-bf7b-45e6-b868-3fc388f7c2c3",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/af76e57d-bf7b-45e6-b868-3fc388f7c2c3",
-          "location": "Hungary",
-          "publishedAt": "2026-03-09T08:24:08.683+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Hungary)"
-        },
-        {
-          "department": "Operations",
-          "id": "c0979c00-fa56-48cd-b876-c06709e94f5f",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/c0979c00-fa56-48cd-b876-c06709e94f5f",
-          "location": "Ireland",
-          "publishedAt": "2026-03-09T08:22:18.330+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Ireland)"
-        },
-        {
-          "department": "Operations",
-          "id": "55c86467-f23d-4707-864b-fc9b29ad7c42",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/55c86467-f23d-4707-864b-fc9b29ad7c42",
-          "location": "Germany",
-          "publishedAt": "2026-03-09T08:22:09.166+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Germany)"
-        },
-        {
-          "department": "Operations",
-          "id": "1bc87790-4f0b-4ac1-b6af-fcb145f5525a",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/1bc87790-4f0b-4ac1-b6af-fcb145f5525a",
-          "location": "France",
-          "publishedAt": "2026-03-09T08:22:07.361+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - France)"
-        },
-        {
-          "department": "Operations",
-          "id": "43d0a246-e3cb-47d2-af58-1a0dce1cdcb3",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/43d0a246-e3cb-47d2-af58-1a0dce1cdcb3",
-          "location": "Italy",
-          "publishedAt": "2026-03-09T08:22:05.220+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Italy)"
-        },
-        {
-          "department": "Operations",
-          "id": "11bb2896-85d8-4d3b-b5e4-55939d2f0ffc",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/11bb2896-85d8-4d3b-b5e4-55939d2f0ffc",
-          "location": "Luxembourg",
-          "publishedAt": "2026-03-09T08:22:03.011+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Luxembourg)"
-        },
-        {
-          "department": "Operations",
-          "id": "9432126b-8954-4460-89e2-033ab35faf9a",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/9432126b-8954-4460-89e2-033ab35faf9a",
-          "location": "Malta",
-          "publishedAt": "2026-03-09T08:22:00.678+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Malta)"
-        },
-        {
-          "department": "Operations",
-          "id": "a029b855-3547-47c7-868b-b548fade4678",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/a029b855-3547-47c7-868b-b548fade4678",
-          "location": "Latvia",
-          "publishedAt": "2026-03-09T08:21:59.035+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Latvia)"
-        },
-        {
-          "department": "Operations",
-          "id": "f07a355d-aa37-45cf-899d-53c7400183d8",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/f07a355d-aa37-45cf-899d-53c7400183d8",
-          "location": "Lithuania",
-          "publishedAt": "2026-03-09T08:21:56.933+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Lithuania)"
-        },
-        {
-          "department": "Operations",
-          "id": "0b6547ad-f216-4b6d-82df-b394042fbd2c",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/0b6547ad-f216-4b6d-82df-b394042fbd2c",
-          "location": "Poland",
-          "publishedAt": "2026-03-09T08:21:54.470+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Poland)"
-        },
-        {
-          "department": "Operations",
-          "id": "56cba3b3-4836-4c8e-a5d6-d2e77c844c65",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/56cba3b3-4836-4c8e-a5d6-d2e77c844c65",
-          "location": "Norway",
-          "publishedAt": "2026-03-09T08:21:52.865+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Norway)"
-        },
-        {
-          "department": "Operations",
-          "id": "6b56d8dc-1334-4b50-8aea-4a017c1b2da2",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/6b56d8dc-1334-4b50-8aea-4a017c1b2da2",
-          "location": "Portugal",
-          "publishedAt": "2026-03-09T08:21:51.277+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Portugal)"
-        },
-        {
-          "department": "Operations",
-          "id": "6f0c0ef4-4424-4782-9f61-d69cf6e62ebe",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/6f0c0ef4-4424-4782-9f61-d69cf6e62ebe",
-          "location": "Netherlands",
-          "publishedAt": "2026-03-09T08:21:49.765+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Netherlands)"
-        },
-        {
-          "department": "Operations",
-          "id": "21e47dda-a67f-4d9a-9a6f-51513c0976da",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/21e47dda-a67f-4d9a-9a6f-51513c0976da",
-          "location": "Serbia",
-          "publishedAt": "2026-03-09T08:21:47.177+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Serbia)"
-        },
-        {
-          "department": "Operations",
-          "id": "b8118c2e-3244-4d4b-a3ee-aa78fccdcdf8",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/b8118c2e-3244-4d4b-a3ee-aa78fccdcdf8",
-          "location": "Romania",
-          "publishedAt": "2026-03-09T08:21:44.589+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Romania)"
-        },
-        {
-          "department": "Operations",
-          "id": "bd7db382-b7c0-493b-a383-82a27fa66d0d",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/bd7db382-b7c0-493b-a383-82a27fa66d0d",
-          "location": "Slovakia",
-          "publishedAt": "2026-03-09T08:21:43.014+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Slovakia)"
-        },
-        {
-          "department": "Operations",
-          "id": "331101f6-4746-482d-8b50-32aa57f05abc",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/331101f6-4746-482d-8b50-32aa57f05abc",
-          "location": "Slovenia",
-          "publishedAt": "2026-03-09T08:21:41.489+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Slovenia)"
-        },
-        {
-          "department": "Operations",
-          "id": "6c7e5539-1209-457f-9f86-05a38525530b",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/6c7e5539-1209-457f-9f86-05a38525530b",
-          "location": "Sweden",
-          "publishedAt": "2026-03-09T08:21:39.992+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Sweden)"
-        },
-        {
-          "department": "Operations",
-          "id": "d1b10f77-44da-4fc5-8829-9f9fb959b08e",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/d1b10f77-44da-4fc5-8829-9f9fb959b08e",
-          "location": "Spain",
-          "publishedAt": "2026-03-09T08:21:38.148+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Spain)"
-        },
-        {
-          "department": "Operations",
-          "id": "b8812da6-5283-489d-8344-e9d38d9e09d6",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/b8812da6-5283-489d-8344-e9d38d9e09d6",
-          "location": "Switzerland",
-          "publishedAt": "2026-03-09T08:21:36.770+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Switzerland)"
-        },
-        {
-          "department": "Operations",
-          "id": "65148a4c-8f3b-4805-8158-b1eb623bf972",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/65148a4c-8f3b-4805-8158-b1eb623bf972",
-          "location": "Ukraine",
-          "publishedAt": "2026-03-09T08:21:35.379+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Ukraine)"
-        },
-        {
-          "department": "Operations",
-          "id": "5da8e8a7-c5ca-43bc-be87-6debf51438c1",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/5da8e8a7-c5ca-43bc-be87-6debf51438c1",
-          "location": "United Kingdom",
-          "publishedAt": "2026-03-09T08:21:32.850+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - United Kingdom)"
-        },
-        {
-          "department": "Operations",
-          "id": "6af25cb8-8d7f-4249-b869-edfd5fc586cb",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/6af25cb8-8d7f-4249-b869-edfd5fc586cb",
-          "location": "Poland",
-          "publishedAt": "2026-03-09T08:21:30.860+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Poland)"
-        },
-        {
-          "department": "Operations",
-          "id": "b733923a-9c04-4484-9ac6-618000b85e14",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/b733923a-9c04-4484-9ac6-618000b85e14",
-          "location": "Europe",
-          "publishedAt": "2026-03-09T08:21:29.432+00:00",
-          "team": "Human Resources",
-          "title": "Talent Acquisition Specialist (Full Remote - Europe)"
+          "department": "Technology",
+          "id": "42465507-fe72-4c6c-85c5-6ec75d25311b",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/42465507-fe72-4c6c-85c5-6ec75d25311b",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-03-09T22:14:29.362+00:00",
+          "team": "Product Engineering",
+          "title": "Engineering Manager, Console UI"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-03-09T14:43:01.152360+00:00"
+  "scannedAtUtc": "2026-03-10T06:40:35.257399+00:00"
 }
