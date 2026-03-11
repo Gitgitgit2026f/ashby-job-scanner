@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-03-11T06:43:30.109664+00:00
+- **Scanned at (UTC):** 2026-03-11T14:41:22.664447+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 5
+- **New jobs found:** 2
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -13,7 +13,7 @@
 | n8n | 0 |
 | reedsy | 0 |
 | mazehq | 0 |
-| supabase | 0 |
+| supabase | 1 |
 | nango | 0 |
 | axelera | 0 |
 | ashby | 0 |
@@ -21,16 +21,16 @@
 | gt-hq | 0 |
 | dourolabs.xyz | 0 |
 | everai | 0 |
-| toogeza | 0 |
+| toogeza | 1 |
 | enode | 0 |
 | cradlebio | 0 |
 | sardine | 0 |
 | rerun | 0 |
-| splitmetrics | 1 |
+| splitmetrics | 0 |
 | oh | 0 |
-| substack | 1 |
-| dash0 | 1 |
-| 1password | 2 |
+| substack | 0 |
+| dash0 | 0 |
+| 1password | 0 |
 | incard | 0 |
 | atomic-invest | 0 |
 | chronospherejobs | 0 |
@@ -40,20 +40,11 @@
 
 ## New jobs
 
-### splitmetrics
+### supabase
 
-- [Senior Product Manager - AI](https://jobs.ashbyhq.com/splitmetrics/ca1bde45-620e-4e03-84ec-0b3616466219) — Remote - Europe Time Zones — 2026-03-10T14:44:17.781+00:00
+- [Developer Relations Engineer (San Francisco, CA)](https://jobs.ashbyhq.com/supabase/a1320bbf-bfae-49a8-a1b7-12eeccaf39ca) — Remote — 2026-03-11T13:26:31.630+00:00
 
-### substack
+### toogeza
 
-- [Systems Engineer](https://jobs.ashbyhq.com/substack/d52a26fc-ca52-44d6-bfb4-9fac79e0631f) — San Francisco (HQ) — 2026-03-10T21:17:17.069+00:00
-
-### dash0
-
-- [Regional Manager, Customer Experience and Success](https://jobs.ashbyhq.com/dash0/2a2a26e3-6a09-4b6a-8cac-cfcc57680c9e) — EMEA - Remote — 2026-03-10T19:24:17.906+00:00
-
-### 1password
-
-- [VP, FP&A](https://jobs.ashbyhq.com/1password/e14e76a3-fa70-4948-a36c-4d2d7caa84fa) — Remote (United States | Canada) — 2026-03-10T21:52:34.027+00:00
-- [Senior Developer (Windows), Product Security](https://jobs.ashbyhq.com/1password/7894002a-6096-4a67-a5db-10bea270953f) — Remote (United States | Canada) — 2026-03-10T18:37:25.471+00:00
+- [Assistant Editor for National Desk](https://jobs.ashbyhq.com/toogeza/fcb89b06-2996-49cb-b26f-eb1f90bba79c) — Kyiv — 2026-03-11T11:55:31.551+00:00
 
