@@ -3,33 +3,56 @@
   "firstRun": false,
   "new": [
     {
-      "board": "supabase",
+      "board": "ashby",
       "jobs": [
         {
-          "department": "Growth",
-          "id": "a1320bbf-bfae-49a8-a1b7-12eeccaf39ca",
-          "jobUrl": "https://jobs.ashbyhq.com/supabase/a1320bbf-bfae-49a8-a1b7-12eeccaf39ca",
-          "location": "Remote",
-          "publishedAt": "2026-03-11T13:26:31.630+00:00",
-          "team": "Marketing",
-          "title": "Developer Relations Engineer (San Francisco, CA)"
+          "department": "People & Talent",
+          "id": "20155359-0ef1-4d45-9b64-acc9a54f1ceb",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/20155359-0ef1-4d45-9b64-acc9a54f1ceb",
+          "location": "Remote - US",
+          "publishedAt": "2026-03-11T23:30:12.123+00:00",
+          "team": "People & Talent",
+          "title": "People Operations Coordinator"
+        },
+        {
+          "department": "Customer Success",
+          "id": "005b33d2-2ee3-4a5e-9292-596dd70477de",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/005b33d2-2ee3-4a5e-9292-596dd70477de",
+          "location": "Remote - Europe",
+          "publishedAt": "2026-03-11T21:53:20.241+00:00",
+          "team": "Customer Support",
+          "title": "Support Manager - EMEA"
         }
       ]
     },
     {
-      "board": "toogeza",
+      "board": "substack",
       "jobs": [
         {
-          "department": "Creative",
-          "id": "fcb89b06-2996-49cb-b26f-eb1f90bba79c",
-          "jobUrl": "https://jobs.ashbyhq.com/toogeza/fcb89b06-2996-49cb-b26f-eb1f90bba79c",
-          "location": "Kyiv",
-          "publishedAt": "2026-03-11T11:55:31.551+00:00",
-          "team": "Creative",
-          "title": "Assistant Editor for National Desk"
+          "department": "Support",
+          "id": "cb2c7223-c795-45ce-90fc-b9892f25a5c7",
+          "jobUrl": "https://jobs.ashbyhq.com/substack/cb2c7223-c795-45ce-90fc-b9892f25a5c7",
+          "location": "London",
+          "publishedAt": "2026-03-11T23:32:28.497+00:00",
+          "team": "Support",
+          "title": "UK Support Specialist"
+        }
+      ]
+    },
+    {
+      "board": "1password",
+      "jobs": [
+        {
+          "department": "GTM",
+          "id": "cdde7b19-cccc-4012-8955-d81ecc7f18cb",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/cdde7b19-cccc-4012-8955-d81ecc7f18cb",
+          "location": "Remote US",
+          "publishedAt": "2026-03-11T21:55:43.688+00:00",
+          "team": "Partnerships",
+          "title": "Senior Channel Account Manager"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-03-11T14:41:22.664447+00:00"
+  "scannedAtUtc": "2026-03-12T06:46:05.223489+00:00"
 }
