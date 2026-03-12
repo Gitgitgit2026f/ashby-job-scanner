@@ -3,56 +3,47 @@
   "firstRun": false,
   "new": [
     {
-      "board": "ashby",
+      "board": "n8n",
       "jobs": [
         {
-          "department": "People & Talent",
-          "id": "20155359-0ef1-4d45-9b64-acc9a54f1ceb",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/20155359-0ef1-4d45-9b64-acc9a54f1ceb",
-          "location": "Remote - US",
-          "publishedAt": "2026-03-11T23:30:12.123+00:00",
-          "team": "People & Talent",
-          "title": "People Operations Coordinator"
-        },
-        {
-          "department": "Customer Success",
-          "id": "005b33d2-2ee3-4a5e-9292-596dd70477de",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/005b33d2-2ee3-4a5e-9292-596dd70477de",
-          "location": "Remote - Europe",
-          "publishedAt": "2026-03-11T21:53:20.241+00:00",
-          "team": "Customer Support",
-          "title": "Support Manager - EMEA"
+          "department": "Sales",
+          "id": "bc30ae0b-9755-446f-ae97-0f7f9a664e98",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/bc30ae0b-9755-446f-ae97-0f7f9a664e98",
+          "location": "Berlin Office",
+          "publishedAt": "2026-03-12T14:08:23.634+00:00",
+          "team": "Support Engineering",
+          "title": "Senior Support Engineer | Europe Remote"
         }
       ]
     },
     {
-      "board": "substack",
+      "board": "sardine",
       "jobs": [
         {
-          "department": "Support",
-          "id": "cb2c7223-c795-45ce-90fc-b9892f25a5c7",
-          "jobUrl": "https://jobs.ashbyhq.com/substack/cb2c7223-c795-45ce-90fc-b9892f25a5c7",
-          "location": "London",
-          "publishedAt": "2026-03-11T23:32:28.497+00:00",
-          "team": "Support",
-          "title": "UK Support Specialist"
+          "department": "Post-Sales ",
+          "id": "ddf2be67-bc69-4227-8ca0-306c8710602a",
+          "jobUrl": "https://jobs.ashbyhq.com/sardine/ddf2be67-bc69-4227-8ca0-306c8710602a",
+          "location": "Brazil - Remote",
+          "publishedAt": "2026-03-12T10:45:14.884+00:00",
+          "team": "Support Engineering",
+          "title": "Support Engineer-Brazil"
         }
       ]
     },
     {
-      "board": "1password",
+      "board": "splitmetrics",
       "jobs": [
         {
-          "department": "GTM",
-          "id": "cdde7b19-cccc-4012-8955-d81ecc7f18cb",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/cdde7b19-cccc-4012-8955-d81ecc7f18cb",
-          "location": "Remote US",
-          "publishedAt": "2026-03-11T21:55:43.688+00:00",
-          "team": "Partnerships",
-          "title": "Senior Channel Account Manager"
+          "department": "Agency",
+          "id": "da65c29b-4af3-4e8d-9dd7-35b4e0d45f60",
+          "jobUrl": "https://jobs.ashbyhq.com/splitmetrics/da65c29b-4af3-4e8d-9dd7-35b4e0d45f60",
+          "location": "Remote - Europe Time Zones",
+          "publishedAt": "2026-03-12T11:12:38.765+00:00",
+          "team": "Agency",
+          "title": "User Acquisition Manager "
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-03-12T06:46:05.223489+00:00"
+  "scannedAtUtc": "2026-03-12T14:42:35.100122+00:00"
 }

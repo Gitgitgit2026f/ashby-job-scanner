@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-03-12T06:46:05.223489+00:00
+- **Scanned at (UTC):** 2026-03-12T14:42:35.100122+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 4
+- **New jobs found:** 3
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -10,13 +10,13 @@
 
 | Board | New jobs |
 |---|---:|
-| n8n | 0 |
+| n8n | 1 |
 | reedsy | 0 |
 | mazehq | 0 |
 | supabase | 0 |
 | nango | 0 |
 | axelera | 0 |
-| ashby | 2 |
+| ashby | 0 |
 | cargo-one | 0 |
 | gt-hq | 0 |
 | dourolabs.xyz | 0 |
@@ -24,13 +24,13 @@
 | toogeza | 0 |
 | enode | 0 |
 | cradlebio | 0 |
-| sardine | 0 |
+| sardine | 1 |
 | rerun | 0 |
-| splitmetrics | 0 |
+| splitmetrics | 1 |
 | oh | 0 |
-| substack | 1 |
+| substack | 0 |
 | dash0 | 0 |
-| 1password | 1 |
+| 1password | 0 |
 | incard | 0 |
 | atomic-invest | 0 |
 | chronospherejobs | 0 |
@@ -40,16 +40,15 @@
 
 ## New jobs
 
-### ashby
+### n8n
 
-- [People Operations Coordinator](https://jobs.ashbyhq.com/ashby/20155359-0ef1-4d45-9b64-acc9a54f1ceb) — Remote - US — 2026-03-11T23:30:12.123+00:00
-- [Support Manager - EMEA](https://jobs.ashbyhq.com/ashby/005b33d2-2ee3-4a5e-9292-596dd70477de) — Remote - Europe — 2026-03-11T21:53:20.241+00:00
+- [Senior Support Engineer | Europe Remote](https://jobs.ashbyhq.com/n8n/bc30ae0b-9755-446f-ae97-0f7f9a664e98) — Berlin Office — 2026-03-12T14:08:23.634+00:00
 
-### substack
+### sardine
 
-- [UK Support Specialist](https://jobs.ashbyhq.com/substack/cb2c7223-c795-45ce-90fc-b9892f25a5c7) — London — 2026-03-11T23:32:28.497+00:00
+- [Support Engineer-Brazil](https://jobs.ashbyhq.com/sardine/ddf2be67-bc69-4227-8ca0-306c8710602a) — Brazil - Remote — 2026-03-12T10:45:14.884+00:00
 
-### 1password
+### splitmetrics
 
-- [Senior Channel Account Manager](https://jobs.ashbyhq.com/1password/cdde7b19-cccc-4012-8955-d81ecc7f18cb) — Remote US — 2026-03-11T21:55:43.688+00:00
+- [User Acquisition Manager](https://jobs.ashbyhq.com/splitmetrics/da65c29b-4af3-4e8d-9dd7-35b4e0d45f60) — Remote - Europe Time Zones — 2026-03-12T11:12:38.765+00:00
 

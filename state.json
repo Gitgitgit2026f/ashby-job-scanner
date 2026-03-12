@@ -70,7 +70,7 @@
   "_meta": {
     "boardsCount": 27,
     "errorsCount": 0,
-    "updatedAtUtc": "2026-03-12T06:46:05.223489+00:00"
+    "updatedAtUtc": "2026-03-12T14:42:35.100122+00:00"
   },
   "airtable": [],
   "ashby": [
@@ -567,6 +567,7 @@
     "abd7ed0e-c67d-4cd8-81a1-53a631fad841",
     "acab26f0-2d08-4ae1-b2b4-2ba5c3b11d3e",
     "b375529b-2874-4455-8562-bc931ec14851",
+    "bc30ae0b-9755-446f-ae97-0f7f9a664e98",
     "c13cb33a-b0c7-466b-bbd2-f32a76a12b8a",
     "c7af31cb-9701-4748-a49b-04d3fbcccb3c",
     "c7fa45d1-6c5f-4fb8-8224-e5e04529c2bf",
@@ -662,7 +663,7 @@
     "c76f5d65-4a8b-463d-9f80-912697038f79",
     "ca1e0aab-4a2c-4b8b-aedf-6e58de58e382",
     "d913dd28-070b-45c9-8ebf-20f0a2233ed6",
-    "de124527-1401-42ff-925b-9aa8a0776efa",
+    "ddf2be67-bc69-4227-8ca0-306c8710602a",
     "e0852940-d9c9-41cf-8a98-4e34f3b2ea1a",
     "e6764411-1740-4ce1-8a9a-79ad459082ea",
     "ec2e86cc-2497-4c23-8e77-ddf962a7fc4c",
@@ -671,11 +672,11 @@
     "fe4d0efe-9011-47c4-82f9-95f5fd18b41a"
   ],
   "splitmetrics": [
-    "057417b3-4c42-424c-ba8f-8dae2cabcb70",
     "4a9e3168-fbcf-4862-b70c-be2e17c2bc76",
     "b4963657-11a3-4dd5-be36-c7697cd0a9ac",
     "bc9be6c0-d689-4f0f-a12b-2d37ec933ecf",
     "ca1bde45-620e-4e03-84ec-0b3616466219",
+    "da65c29b-4af3-4e8d-9dd7-35b4e0d45f60",
     "e85e2629-a99b-4575-ae36-8168c981b7c7"
   ],
   "substack": [
