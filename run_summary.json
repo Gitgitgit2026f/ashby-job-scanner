@@ -3,16 +3,30 @@
   "firstRun": false,
   "new": [
     {
-      "board": "n8n",
+      "board": "ashby",
+      "jobs": [
+        {
+          "department": "People & Talent",
+          "id": "93c1ec6c-43d9-4bd1-97e0-8ced0a66a7b4",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/93c1ec6c-43d9-4bd1-97e0-8ced0a66a7b4",
+          "location": "Remote - US",
+          "publishedAt": "2026-03-12T15:48:47.482+00:00",
+          "team": "People & Talent",
+          "title": "HR Business Partner - Americas"
+        }
+      ]
+    },
+    {
+      "board": "toogeza",
       "jobs": [
         {
           "department": "Sales",
-          "id": "bc30ae0b-9755-446f-ae97-0f7f9a664e98",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/bc30ae0b-9755-446f-ae97-0f7f9a664e98",
-          "location": "Berlin Office",
-          "publishedAt": "2026-03-12T14:08:23.634+00:00",
-          "team": "Support Engineering",
-          "title": "Senior Support Engineer | Europe Remote"
+          "id": "08b61a73-40ae-4623-b37b-23dcc7d8bcde",
+          "jobUrl": "https://jobs.ashbyhq.com/toogeza/08b61a73-40ae-4623-b37b-23dcc7d8bcde",
+          "location": "Remote",
+          "publishedAt": "2026-03-12T17:18:17.490+00:00",
+          "team": "Sales",
+          "title": "BDM (Turkey)"
         }
       ]
     },
@@ -21,29 +35,47 @@
       "jobs": [
         {
           "department": "Post-Sales ",
-          "id": "ddf2be67-bc69-4227-8ca0-306c8710602a",
-          "jobUrl": "https://jobs.ashbyhq.com/sardine/ddf2be67-bc69-4227-8ca0-306c8710602a",
-          "location": "Brazil - Remote",
-          "publishedAt": "2026-03-12T10:45:14.884+00:00",
-          "team": "Support Engineering",
-          "title": "Support Engineer-Brazil"
+          "id": "7a8fe84d-3803-4589-991b-74b6058662d4",
+          "jobUrl": "https://jobs.ashbyhq.com/sardine/7a8fe84d-3803-4589-991b-74b6058662d4",
+          "location": "Dubai, United Arab Emirates",
+          "publishedAt": "2026-03-12T18:41:41.577+00:00",
+          "team": "Post-Sales ",
+          "title": "Technical Account Manager"
         }
       ]
     },
     {
-      "board": "splitmetrics",
+      "board": "1password",
       "jobs": [
         {
-          "department": "Agency",
-          "id": "da65c29b-4af3-4e8d-9dd7-35b4e0d45f60",
-          "jobUrl": "https://jobs.ashbyhq.com/splitmetrics/da65c29b-4af3-4e8d-9dd7-35b4e0d45f60",
-          "location": "Remote - Europe Time Zones",
-          "publishedAt": "2026-03-12T11:12:38.765+00:00",
-          "team": "Agency",
-          "title": "User Acquisition Manager "
+          "department": "Technology",
+          "id": "ef030711-e6f6-4916-b3c1-9ff617fa72bd",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/ef030711-e6f6-4916-b3c1-9ff617fa72bd",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-03-12T21:24:57.246+00:00",
+          "team": "Technology",
+          "title": "Engineering Manager, Usage Based Billing Team"
+        },
+        {
+          "department": "Technology",
+          "id": "40055b42-5e86-4a22-84d2-60632b5c5976",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/40055b42-5e86-4a22-84d2-60632b5c5976",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-03-12T17:34:19.126+00:00",
+          "team": "Platform Engineering",
+          "title": "Staff Developer, Billing and Payments"
+        },
+        {
+          "department": "Technology",
+          "id": "ca31d75b-f977-46c2-981d-e44fdfad841e",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/ca31d75b-f977-46c2-981d-e44fdfad841e",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-03-12T16:56:29.015+00:00",
+          "team": "Platform Engineering",
+          "title": "Senior Director Engineering, Infrastructure & Platform Services"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-03-12T14:42:35.100122+00:00"
+  "scannedAtUtc": "2026-03-13T06:43:42.403596+00:00"
 }
