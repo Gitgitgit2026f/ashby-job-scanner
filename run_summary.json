@@ -6,22 +6,13 @@
       "board": "n8n",
       "jobs": [
         {
-          "department": "People",
-          "id": "c20862bf-846c-4186-9674-e744246513a5",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/c20862bf-846c-4186-9674-e744246513a5",
+          "department": "Operations",
+          "id": "fd96d8d9-c47f-4a20-8eb3-87ffbb65863b",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/fd96d8d9-c47f-4a20-8eb3-87ffbb65863b",
           "location": "Germany",
-          "publishedAt": "2026-03-13T11:22:35.944+00:00",
-          "team": "People",
-          "title": "People Partner, Product & Ops (Remote Europe)"
-        },
-        {
-          "department": "Sales",
-          "id": "1d732234-b364-4c5c-b4fd-ae584e0b7992",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/1d732234-b364-4c5c-b4fd-ae584e0b7992",
-          "location": "Berlin Office",
-          "publishedAt": "2026-03-13T10:59:23.690+00:00",
-          "team": "Support Engineering",
-          "title": "Senior Support Engineer | Europe Remote"
+          "publishedAt": "2026-03-13T15:16:24.048+00:00",
+          "team": "Finance",
+          "title": "Finance Systems Manager"
         }
       ]
     },
@@ -29,54 +20,73 @@
       "board": "supabase",
       "jobs": [
         {
-          "department": "Engineering",
-          "id": "ad92f53a-6d0f-4761-abc3-588c7c7c6cd8",
-          "jobUrl": "https://jobs.ashbyhq.com/supabase/ad92f53a-6d0f-4761-abc3-588c7c7c6cd8",
-          "location": "Remote",
-          "publishedAt": "2026-03-13T13:26:43.818+00:00",
-          "team": "Engineering",
-          "title": "SDK Engineer - Kotlin"
-        },
-        {
-          "department": "Engineering",
-          "id": "5436c7ae-8254-4a28-9755-c5c39de5980b",
-          "jobUrl": "https://jobs.ashbyhq.com/supabase/5436c7ae-8254-4a28-9755-c5c39de5980b",
-          "location": "Remote",
-          "publishedAt": "2026-03-13T13:23:56.653+00:00",
-          "team": "Engineering",
-          "title": "SDK Engineer - Flutter"
-        },
-        {
-          "department": "Engineering",
-          "id": "6a0e111d-6246-43b8-80c3-037303ff9fb2",
-          "jobUrl": "https://jobs.ashbyhq.com/supabase/6a0e111d-6246-43b8-80c3-037303ff9fb2",
-          "location": "Remote",
-          "publishedAt": "2026-03-13T13:23:46.957+00:00",
-          "team": "Engineering",
-          "title": "SDK Engineer - C#"
-        },
-        {
-          "department": "Engineering",
-          "id": "fe5bbc98-1add-4dc3-aed5-b3cf444c8849",
-          "jobUrl": "https://jobs.ashbyhq.com/supabase/fe5bbc98-1add-4dc3-aed5-b3cf444c8849",
-          "location": "Remote",
-          "publishedAt": "2026-03-13T13:21:08.690+00:00",
-          "team": "Engineering",
-          "title": "SDK Engineer - Go"
+          "department": "Growth",
+          "id": "d1675ea0-359c-4b4e-a484-42f889e0ccf6",
+          "jobUrl": "https://jobs.ashbyhq.com/supabase/d1675ea0-359c-4b4e-a484-42f889e0ccf6",
+          "location": "AMER",
+          "publishedAt": "2026-03-13T16:51:04.040+00:00",
+          "team": "Sales",
+          "title": " Account Executive, LATAM"
         }
       ]
     },
     {
-      "board": "sardine",
+      "board": "axelera",
       "jobs": [
         {
-          "department": "Post-Sales ",
-          "id": "9e715085-a3b7-4962-b67e-8de4e51cca31",
-          "jobUrl": "https://jobs.ashbyhq.com/sardine/9e715085-a3b7-4962-b67e-8de4e51cca31",
-          "location": "Canada",
-          "publishedAt": "2026-03-13T13:15:25.771+00:00",
-          "team": "Support Engineering",
-          "title": "Support Engineer-Canada"
+          "department": "AI Software",
+          "id": "3f2240bd-79cc-4e05-bf18-a58e4e077f86",
+          "jobUrl": "https://jobs.ashbyhq.com/axelera/3f2240bd-79cc-4e05-bf18-a58e4e077f86",
+          "location": "Hybrid/Remote - Europe (incl. UK)",
+          "publishedAt": "2026-03-13T16:36:18.790+00:00",
+          "team": "AI Software",
+          "title": "Senior/Staff AI Graph Compiler Engineer"
+        }
+      ]
+    },
+    {
+      "board": "ashby",
+      "jobs": [
+        {
+          "department": "People & Talent",
+          "id": "9921e5a8-5e98-4aae-bd3b-fc954673a2f9",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/9921e5a8-5e98-4aae-bd3b-fc954673a2f9",
+          "location": "Remote - North America",
+          "publishedAt": "2026-03-14T01:54:04.620+00:00",
+          "team": "Recruiting",
+          "title": "Go To Market Recruiter - Americas"
+        },
+        {
+          "department": "Customer Success",
+          "id": "a4110b0d-9af7-4724-9fd7-fb3615db5954",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/a4110b0d-9af7-4724-9fd7-fb3615db5954",
+          "location": "Remote - North America",
+          "publishedAt": "2026-03-14T01:35:02.006+00:00",
+          "team": "Customer Support",
+          "title": "Head of Global Support"
+        },
+        {
+          "department": "Customer Success",
+          "id": "46998ea2-cea7-47c0-9812-238f161b6fc7",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/46998ea2-cea7-47c0-9812-238f161b6fc7",
+          "location": "Remote - North to South America",
+          "publishedAt": "2026-03-13T20:34:35.359+00:00",
+          "team": "Customer Support",
+          "title": "Support Manager - Americas"
+        }
+      ]
+    },
+    {
+      "board": "substack",
+      "jobs": [
+        {
+          "department": "Data",
+          "id": "3654de54-7a95-4f6a-8d70-75a5d2d54bbf",
+          "jobUrl": "https://jobs.ashbyhq.com/substack/3654de54-7a95-4f6a-8d70-75a5d2d54bbf",
+          "location": "San Francisco (HQ)",
+          "publishedAt": "2026-03-13T18:17:26.648+00:00",
+          "team": "Data",
+          "title": "Product Analyst"
         }
       ]
     },
@@ -85,15 +95,24 @@
       "jobs": [
         {
           "department": "Technology",
-          "id": "90785f61-06ca-44c2-830e-ced7a59902f4",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/90785f61-06ca-44c2-830e-ced7a59902f4",
+          "id": "d6acb733-8988-4a8b-b025-a057144ab12b",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/d6acb733-8988-4a8b-b025-a057144ab12b",
           "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-03-13T13:41:13.563+00:00",
-          "team": "Platform Engineering",
-          "title": "Junior Developer, Billing Infrastructure"
+          "publishedAt": "2026-03-13T22:09:21.793+00:00",
+          "team": "Product Engineering",
+          "title": "Director of Engineering - Enterprise Password Manager (EPM)"
+        },
+        {
+          "department": "Marketing",
+          "id": "ecf53597-504e-465f-b9ef-aa124bfa3d12",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/ecf53597-504e-465f-b9ef-aa124bfa3d12",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-03-13T17:07:18.201+00:00",
+          "team": "Marketing",
+          "title": "Senior SEM Manager"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-03-13T14:37:33.394053+00:00"
+  "scannedAtUtc": "2026-03-14T06:38:33.023944+00:00"
 }
