@@ -1,21 +1,6 @@
 {
   "errors": [],
   "firstRun": false,
-  "new": [
-    {
-      "board": "rerun",
-      "jobs": [
-        {
-          "department": "User Space",
-          "id": "5bd63d59-2c26-4066-bbd1-808d850a9a20",
-          "jobUrl": "https://jobs.ashbyhq.com/rerun/5bd63d59-2c26-4066-bbd1-808d850a9a20",
-          "location": "Remote Europe",
-          "publishedAt": "2026-03-14T07:48:15.508+00:00",
-          "team": "User Space",
-          "title": "Robotics Machine Learning Engineer"
-        }
-      ]
-    }
-  ],
-  "scannedAtUtc": "2026-03-14T14:21:39.477247+00:00"
+  "new": [],
+  "scannedAtUtc": "2026-03-15T06:49:08.461199+00:00"
 }

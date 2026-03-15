@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-03-14T14:21:39.477247+00:00
+- **Scanned at (UTC):** 2026-03-15T06:49:08.461199+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 1
+- **New jobs found:** 0
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -25,7 +25,7 @@
 | enode | 0 |
 | cradlebio | 0 |
 | sardine | 0 |
-| rerun | 1 |
+| rerun | 0 |
 | splitmetrics | 0 |
 | oh | 0 |
 | substack | 0 |
@@ -40,7 +40,5 @@
 
 ## New jobs
 
-### rerun
-
-- [Robotics Machine Learning Engineer](https://jobs.ashbyhq.com/rerun/5bd63d59-2c26-4066-bbd1-808d850a9a20) — Remote Europe — 2026-03-14T07:48:15.508+00:00
+_No new jobs found._
 
