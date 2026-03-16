@@ -1,6 +1,72 @@
 {
   "errors": [],
   "firstRun": false,
-  "new": [],
-  "scannedAtUtc": "2026-03-16T07:08:59.858572+00:00"
+  "new": [
+    {
+      "board": "supabase",
+      "jobs": [
+        {
+          "department": "Operations",
+          "id": "a13f3149-ea55-4abf-8bcd-d53ed575bd37",
+          "jobUrl": "https://jobs.ashbyhq.com/supabase/a13f3149-ea55-4abf-8bcd-d53ed575bd37",
+          "location": "AMER",
+          "publishedAt": "2026-03-16T14:39:03.358+00:00",
+          "team": "Finance",
+          "title": "GTM Compensation Lead "
+        }
+      ]
+    },
+    {
+      "board": "gt-hq",
+      "jobs": [
+        {
+          "department": "Big Blue Swim School",
+          "id": "49757036-4784-470b-aafc-4207caf13df1",
+          "jobUrl": "https://jobs.ashbyhq.com/gt-hq/49757036-4784-470b-aafc-4207caf13df1",
+          "location": "Europe - Remote",
+          "publishedAt": "2026-03-16T09:59:32.089+00:00",
+          "team": "Big Blue Swim School",
+          "title": "Data Analyst | Big Blue Swim School"
+        }
+      ]
+    },
+    {
+      "board": "everai",
+      "jobs": [
+        {
+          "department": "Operations",
+          "id": "e274af82-4176-434b-b4f2-7241890b1716",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/e274af82-4176-434b-b4f2-7241890b1716",
+          "location": "Europe",
+          "publishedAt": "2026-03-16T09:55:30.757+00:00",
+          "team": "Finance",
+          "title": "Accounts Payable & Finance Operations Specialist (Full Remote - Europe)"
+        }
+      ]
+    },
+    {
+      "board": "splitmetrics",
+      "jobs": [
+        {
+          "department": "Marketing",
+          "id": "8e164fd9-aec6-4917-89a7-43cdd2e60116",
+          "jobUrl": "https://jobs.ashbyhq.com/splitmetrics/8e164fd9-aec6-4917-89a7-43cdd2e60116",
+          "location": "Remote - Europe Time Zones",
+          "publishedAt": "2026-03-16T12:14:11.555+00:00",
+          "team": "Marketing",
+          "title": "Senior Visual Designer "
+        },
+        {
+          "department": "Engineering",
+          "id": "fc6389ca-e5be-4ec6-be37-93151f5e46fa",
+          "jobUrl": "https://jobs.ashbyhq.com/splitmetrics/fc6389ca-e5be-4ec6-be37-93151f5e46fa",
+          "location": "Remote - Europe Time Zones",
+          "publishedAt": "2026-03-16T12:07:14.397+00:00",
+          "team": "Engineering",
+          "title": " Python Engineer Team Lead"
+        }
+      ]
+    }
+  ],
+  "scannedAtUtc": "2026-03-16T14:54:07.933270+00:00"
 }
