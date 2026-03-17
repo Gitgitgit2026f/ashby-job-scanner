@@ -3,56 +3,42 @@
   "firstRun": false,
   "new": [
     {
-      "board": "ashby",
+      "board": "dourolabs.xyz",
       "jobs": [
         {
-          "department": "Customer Success",
-          "id": "e1d3d4ee-8d23-4433-be21-385df9d263c4",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/e1d3d4ee-8d23-4433-be21-385df9d263c4",
-          "location": "Remote - Europe",
-          "publishedAt": "2026-03-16T22:48:16.825+00:00",
-          "team": "Professional Services",
-          "title": "High Touch Implementation Specialist - EMEA"
+          "department": "👋 Spontaneous Application!",
+          "id": "2fb41cbd-cec9-4e81-9b2f-d7bcc01abe9e",
+          "jobUrl": "https://jobs.ashbyhq.com/dourolabs.xyz/2fb41cbd-cec9-4e81-9b2f-d7bcc01abe9e",
+          "location": "Worldwide - Remote",
+          "publishedAt": "2026-03-17T13:01:16.327+00:00",
+          "team": "👋 Spontaneous Application!",
+          "title": "Don't see any role for you? Be the Wild Card"
+        }
+      ]
+    },
+    {
+      "board": "toogeza",
+      "jobs": [
+        {
+          "department": "Product Development",
+          "id": "9b1fff10-8f58-4df2-a2d9-01bff691ea05",
+          "jobUrl": "https://jobs.ashbyhq.com/toogeza/9b1fff10-8f58-4df2-a2d9-01bff691ea05",
+          "location": "Europe",
+          "publishedAt": "2026-03-17T10:30:49.134+00:00",
+          "team": "Product Development",
+          "title": "Senior Product Manager - Subscription Value"
         },
         {
-          "department": "Customer Success",
-          "id": "be52a88a-02c5-445f-a7c6-60c96b80f19c",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/be52a88a-02c5-445f-a7c6-60c96b80f19c",
-          "location": "Remote - North America",
-          "publishedAt": "2026-03-16T18:52:27.856+00:00",
-          "team": "Professional Services",
-          "title": "High Touch Implementation Specialist - Americas - PST"
-        }
-      ]
-    },
-    {
-      "board": "substack",
-      "jobs": [
-        {
-          "department": "Engineering",
-          "id": "0478d7f4-1b9d-44a3-a5b3-ad01a7f8a4d6",
-          "jobUrl": "https://jobs.ashbyhq.com/substack/0478d7f4-1b9d-44a3-a5b3-ad01a7f8a4d6",
-          "location": "San Francisco (HQ)",
-          "publishedAt": "2026-03-16T21:43:46.883+00:00",
-          "team": "Engineering",
-          "title": "Android Engineer - Community"
-        }
-      ]
-    },
-    {
-      "board": "1password",
-      "jobs": [
-        {
-          "department": "Technology",
-          "id": "517853ab-4a6b-4749-9370-2d942bbfe2aa",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/517853ab-4a6b-4749-9370-2d942bbfe2aa",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-03-16T16:39:26.232+00:00",
-          "team": "Engineering Operations",
-          "title": "Staff Business Program Manager, New Product Introduction"
+          "department": "Product Development",
+          "id": "8f4fd22f-9fd3-4d74-8ad8-8c6d772360d9",
+          "jobUrl": "https://jobs.ashbyhq.com/toogeza/8f4fd22f-9fd3-4d74-8ad8-8c6d772360d9",
+          "location": "Europe",
+          "publishedAt": "2026-03-17T10:15:49.350+00:00",
+          "team": "Product Development",
+          "title": "Growth Product Manager "
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-03-17T06:57:25.374822+00:00"
+  "scannedAtUtc": "2026-03-17T14:49:44.687344+00:00"
 }

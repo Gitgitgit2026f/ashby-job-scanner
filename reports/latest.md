@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-03-17T06:57:25.374822+00:00
+- **Scanned at (UTC):** 2026-03-17T14:49:44.687344+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 4
+- **New jobs found:** 3
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -16,21 +16,21 @@
 | supabase | 0 |
 | nango | 0 |
 | axelera | 0 |
-| ashby | 2 |
+| ashby | 0 |
 | cargo-one | 0 |
 | gt-hq | 0 |
-| dourolabs.xyz | 0 |
+| dourolabs.xyz | 1 |
 | everai | 0 |
-| toogeza | 0 |
+| toogeza | 2 |
 | enode | 0 |
 | cradlebio | 0 |
 | sardine | 0 |
 | rerun | 0 |
 | splitmetrics | 0 |
 | oh | 0 |
-| substack | 1 |
+| substack | 0 |
 | dash0 | 0 |
-| 1password | 1 |
+| 1password | 0 |
 | incard | 0 |
 | atomic-invest | 0 |
 | chronospherejobs | 0 |
@@ -40,16 +40,12 @@
 
 ## New jobs
 
-### ashby
+### dourolabs.xyz
 
-- [High Touch Implementation Specialist - EMEA](https://jobs.ashbyhq.com/ashby/e1d3d4ee-8d23-4433-be21-385df9d263c4) — Remote - Europe — 2026-03-16T22:48:16.825+00:00
-- [High Touch Implementation Specialist - Americas - PST](https://jobs.ashbyhq.com/ashby/be52a88a-02c5-445f-a7c6-60c96b80f19c) — Remote - North America — 2026-03-16T18:52:27.856+00:00
+- [Don't see any role for you? Be the Wild Card](https://jobs.ashbyhq.com/dourolabs.xyz/2fb41cbd-cec9-4e81-9b2f-d7bcc01abe9e) — Worldwide - Remote — 2026-03-17T13:01:16.327+00:00
 
-### substack
+### toogeza
 
-- [Android Engineer - Community](https://jobs.ashbyhq.com/substack/0478d7f4-1b9d-44a3-a5b3-ad01a7f8a4d6) — San Francisco (HQ) — 2026-03-16T21:43:46.883+00:00
-
-### 1password
-
-- [Staff Business Program Manager, New Product Introduction](https://jobs.ashbyhq.com/1password/517853ab-4a6b-4749-9370-2d942bbfe2aa) — Remote (United States | Canada) — 2026-03-16T16:39:26.232+00:00
+- [Senior Product Manager - Subscription Value](https://jobs.ashbyhq.com/toogeza/9b1fff10-8f58-4df2-a2d9-01bff691ea05) — Europe — 2026-03-17T10:30:49.134+00:00
+- [Growth Product Manager](https://jobs.ashbyhq.com/toogeza/8f4fd22f-9fd3-4d74-8ad8-8c6d772360d9) — Europe — 2026-03-17T10:15:49.350+00:00
 
