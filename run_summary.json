@@ -3,70 +3,56 @@
   "firstRun": false,
   "new": [
     {
-      "board": "supabase",
+      "board": "ashby",
       "jobs": [
         {
-          "department": "Operations",
-          "id": "a13f3149-ea55-4abf-8bcd-d53ed575bd37",
-          "jobUrl": "https://jobs.ashbyhq.com/supabase/a13f3149-ea55-4abf-8bcd-d53ed575bd37",
-          "location": "AMER",
-          "publishedAt": "2026-03-16T14:39:03.358+00:00",
-          "team": "Finance",
-          "title": "GTM Compensation Lead "
-        }
-      ]
-    },
-    {
-      "board": "gt-hq",
-      "jobs": [
-        {
-          "department": "Big Blue Swim School",
-          "id": "49757036-4784-470b-aafc-4207caf13df1",
-          "jobUrl": "https://jobs.ashbyhq.com/gt-hq/49757036-4784-470b-aafc-4207caf13df1",
-          "location": "Europe - Remote",
-          "publishedAt": "2026-03-16T09:59:32.089+00:00",
-          "team": "Big Blue Swim School",
-          "title": "Data Analyst | Big Blue Swim School"
-        }
-      ]
-    },
-    {
-      "board": "everai",
-      "jobs": [
-        {
-          "department": "Operations",
-          "id": "e274af82-4176-434b-b4f2-7241890b1716",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/e274af82-4176-434b-b4f2-7241890b1716",
-          "location": "Europe",
-          "publishedAt": "2026-03-16T09:55:30.757+00:00",
-          "team": "Finance",
-          "title": "Accounts Payable & Finance Operations Specialist (Full Remote - Europe)"
-        }
-      ]
-    },
-    {
-      "board": "splitmetrics",
-      "jobs": [
-        {
-          "department": "Marketing",
-          "id": "8e164fd9-aec6-4917-89a7-43cdd2e60116",
-          "jobUrl": "https://jobs.ashbyhq.com/splitmetrics/8e164fd9-aec6-4917-89a7-43cdd2e60116",
-          "location": "Remote - Europe Time Zones",
-          "publishedAt": "2026-03-16T12:14:11.555+00:00",
-          "team": "Marketing",
-          "title": "Senior Visual Designer "
+          "department": "Customer Success",
+          "id": "e1d3d4ee-8d23-4433-be21-385df9d263c4",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/e1d3d4ee-8d23-4433-be21-385df9d263c4",
+          "location": "Remote - Europe",
+          "publishedAt": "2026-03-16T22:48:16.825+00:00",
+          "team": "Professional Services",
+          "title": "High Touch Implementation Specialist - EMEA"
         },
         {
+          "department": "Customer Success",
+          "id": "be52a88a-02c5-445f-a7c6-60c96b80f19c",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/be52a88a-02c5-445f-a7c6-60c96b80f19c",
+          "location": "Remote - North America",
+          "publishedAt": "2026-03-16T18:52:27.856+00:00",
+          "team": "Professional Services",
+          "title": "High Touch Implementation Specialist - Americas - PST"
+        }
+      ]
+    },
+    {
+      "board": "substack",
+      "jobs": [
+        {
           "department": "Engineering",
-          "id": "fc6389ca-e5be-4ec6-be37-93151f5e46fa",
-          "jobUrl": "https://jobs.ashbyhq.com/splitmetrics/fc6389ca-e5be-4ec6-be37-93151f5e46fa",
-          "location": "Remote - Europe Time Zones",
-          "publishedAt": "2026-03-16T12:07:14.397+00:00",
+          "id": "0478d7f4-1b9d-44a3-a5b3-ad01a7f8a4d6",
+          "jobUrl": "https://jobs.ashbyhq.com/substack/0478d7f4-1b9d-44a3-a5b3-ad01a7f8a4d6",
+          "location": "San Francisco (HQ)",
+          "publishedAt": "2026-03-16T21:43:46.883+00:00",
           "team": "Engineering",
-          "title": " Python Engineer Team Lead"
+          "title": "Android Engineer - Community"
+        }
+      ]
+    },
+    {
+      "board": "1password",
+      "jobs": [
+        {
+          "department": "Technology",
+          "id": "517853ab-4a6b-4749-9370-2d942bbfe2aa",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/517853ab-4a6b-4749-9370-2d942bbfe2aa",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-03-16T16:39:26.232+00:00",
+          "team": "Engineering Operations",
+          "title": "Staff Business Program Manager, New Product Introduction"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-03-16T14:54:07.933270+00:00"
+  "scannedAtUtc": "2026-03-17T06:57:25.374822+00:00"
 }
