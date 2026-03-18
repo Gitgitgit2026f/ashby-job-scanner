@@ -3,42 +3,33 @@
   "firstRun": false,
   "new": [
     {
-      "board": "dourolabs.xyz",
+      "board": "n8n",
       "jobs": [
         {
-          "department": "👋 Spontaneous Application!",
-          "id": "2fb41cbd-cec9-4e81-9b2f-d7bcc01abe9e",
-          "jobUrl": "https://jobs.ashbyhq.com/dourolabs.xyz/2fb41cbd-cec9-4e81-9b2f-d7bcc01abe9e",
-          "location": "Worldwide - Remote",
-          "publishedAt": "2026-03-17T13:01:16.327+00:00",
-          "team": "👋 Spontaneous Application!",
-          "title": "Don't see any role for you? Be the Wild Card"
+          "department": "Engineering",
+          "id": "7ab55fc3-dee1-4fe4-aa6f-8c71417850f6",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/7ab55fc3-dee1-4fe4-aa6f-8c71417850f6",
+          "location": "Berlin Office",
+          "publishedAt": "2026-03-17T15:48:19.363+00:00",
+          "team": "Core 1",
+          "title": "Senior Engineer I-II | Core Workflow Engine | Remote | Europe"
         }
       ]
     },
     {
-      "board": "toogeza",
+      "board": "1password",
       "jobs": [
         {
-          "department": "Product Development",
-          "id": "9b1fff10-8f58-4df2-a2d9-01bff691ea05",
-          "jobUrl": "https://jobs.ashbyhq.com/toogeza/9b1fff10-8f58-4df2-a2d9-01bff691ea05",
-          "location": "Europe",
-          "publishedAt": "2026-03-17T10:30:49.134+00:00",
-          "team": "Product Development",
-          "title": "Senior Product Manager - Subscription Value"
-        },
-        {
-          "department": "Product Development",
-          "id": "8f4fd22f-9fd3-4d74-8ad8-8c6d772360d9",
-          "jobUrl": "https://jobs.ashbyhq.com/toogeza/8f4fd22f-9fd3-4d74-8ad8-8c6d772360d9",
-          "location": "Europe",
-          "publishedAt": "2026-03-17T10:15:49.350+00:00",
-          "team": "Product Development",
-          "title": "Growth Product Manager "
+          "department": "Customer Experience",
+          "id": "4d962f79-8019-4c9d-9ad4-f18f5622d963",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/4d962f79-8019-4c9d-9ad4-f18f5622d963",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-03-17T17:14:11.030+00:00",
+          "team": "CX Operations",
+          "title": "Operations & Program Manager, Implementation"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-03-17T14:49:44.687344+00:00"
+  "scannedAtUtc": "2026-03-18T06:55:10.272497+00:00"
 }
