@@ -6,13 +6,27 @@
       "board": "n8n",
       "jobs": [
         {
-          "department": "Engineering",
-          "id": "7ab55fc3-dee1-4fe4-aa6f-8c71417850f6",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/7ab55fc3-dee1-4fe4-aa6f-8c71417850f6",
+          "department": "Sales",
+          "id": "3be2fb86-fcc6-45da-aa37-7032a20a63d5",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/3be2fb86-fcc6-45da-aa37-7032a20a63d5",
           "location": "Berlin Office",
-          "publishedAt": "2026-03-17T15:48:19.363+00:00",
-          "team": "Core 1",
-          "title": "Senior Engineer I-II | Core Workflow Engine | Remote | Europe"
+          "publishedAt": "2026-03-10T09:32:00.120+00:00",
+          "team": "Sales",
+          "title": "Senior Partnerships Manager GSI (EMEA)"
+        }
+      ]
+    },
+    {
+      "board": "sardine",
+      "jobs": [
+        {
+          "department": "Talent and People",
+          "id": "30fc5127-1677-478c-bf53-19b1e4ad11ea",
+          "jobUrl": "https://jobs.ashbyhq.com/sardine/30fc5127-1677-478c-bf53-19b1e4ad11ea",
+          "location": "United Kingdom",
+          "publishedAt": "2026-03-18T14:02:56.245+00:00",
+          "team": "Talent and People",
+          "title": "Recruiter - GTM"
         }
       ]
     },
@@ -20,16 +34,30 @@
       "board": "1password",
       "jobs": [
         {
-          "department": "Customer Experience",
-          "id": "4d962f79-8019-4c9d-9ad4-f18f5622d963",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/4d962f79-8019-4c9d-9ad4-f18f5622d963",
+          "department": "Product",
+          "id": "d67ffb61-25bb-4194-aa13-2d51bf827a2e",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/d67ffb61-25bb-4194-aa13-2d51bf827a2e",
           "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-03-17T17:14:11.030+00:00",
-          "team": "CX Operations",
-          "title": "Operations & Program Manager, Implementation"
+          "publishedAt": "2026-03-18T14:11:21.496+00:00",
+          "team": "Product Management",
+          "title": "Director, Product Management Onboarding & Activations"
+        }
+      ]
+    },
+    {
+      "board": "v7labs.com",
+      "jobs": [
+        {
+          "department": "Sales",
+          "id": "058bd40a-8f29-41b0-850d-c7ba39891a98",
+          "jobUrl": "https://jobs.ashbyhq.com/v7labs.com/058bd40a-8f29-41b0-850d-c7ba39891a98",
+          "location": "London",
+          "publishedAt": "2026-03-18T10:12:20.494+00:00",
+          "team": "Sales",
+          "title": "Business Development Representative"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-03-18T06:55:10.272497+00:00"
+  "scannedAtUtc": "2026-03-18T14:56:58.880385+00:00"
 }

@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-03-18T06:55:10.272497+00:00
+- **Scanned at (UTC):** 2026-03-18T14:56:58.880385+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 2
+- **New jobs found:** 4
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -24,7 +24,7 @@
 | toogeza | 0 |
 | enode | 0 |
 | cradlebio | 0 |
-| sardine | 0 |
+| sardine | 1 |
 | rerun | 0 |
 | splitmetrics | 0 |
 | oh | 0 |
@@ -34,7 +34,7 @@
 | incard | 0 |
 | atomic-invest | 0 |
 | chronospherejobs | 0 |
-| v7labs.com | 0 |
+| v7labs.com | 1 |
 | poolside | 0 |
 | mazedesign | 0 |
 
@@ -42,9 +42,17 @@
 
 ### n8n
 
-- [Senior Engineer I-II | Core Workflow Engine | Remote | Europe](https://jobs.ashbyhq.com/n8n/7ab55fc3-dee1-4fe4-aa6f-8c71417850f6) — Berlin Office — 2026-03-17T15:48:19.363+00:00
+- [Senior Partnerships Manager GSI (EMEA)](https://jobs.ashbyhq.com/n8n/3be2fb86-fcc6-45da-aa37-7032a20a63d5) — Berlin Office — 2026-03-10T09:32:00.120+00:00
+
+### sardine
+
+- [Recruiter - GTM](https://jobs.ashbyhq.com/sardine/30fc5127-1677-478c-bf53-19b1e4ad11ea) — United Kingdom — 2026-03-18T14:02:56.245+00:00
 
 ### 1password
 
-- [Operations & Program Manager, Implementation](https://jobs.ashbyhq.com/1password/4d962f79-8019-4c9d-9ad4-f18f5622d963) — Remote (United States | Canada) — 2026-03-17T17:14:11.030+00:00
+- [Director, Product Management Onboarding & Activations](https://jobs.ashbyhq.com/1password/d67ffb61-25bb-4194-aa13-2d51bf827a2e) — Remote (United States | Canada) — 2026-03-18T14:11:21.496+00:00
+
+### v7labs.com
+
+- [Business Development Representative](https://jobs.ashbyhq.com/v7labs.com/058bd40a-8f29-41b0-850d-c7ba39891a98) — London — 2026-03-18T10:12:20.494+00:00
 
