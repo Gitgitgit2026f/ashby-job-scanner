@@ -6,27 +6,54 @@
       "board": "n8n",
       "jobs": [
         {
-          "department": "Sales",
-          "id": "3be2fb86-fcc6-45da-aa37-7032a20a63d5",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/3be2fb86-fcc6-45da-aa37-7032a20a63d5",
-          "location": "Berlin Office",
-          "publishedAt": "2026-03-10T09:32:00.120+00:00",
-          "team": "Sales",
-          "title": "Senior Partnerships Manager GSI (EMEA)"
+          "department": "Product",
+          "id": "29521a58-66b0-4666-93dc-7e0d231552ad",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/29521a58-66b0-4666-93dc-7e0d231552ad",
+          "location": "Germany",
+          "publishedAt": "2026-03-18T15:35:19.788+00:00",
+          "team": "Product Design",
+          "title": "Senior/Staff UX Researcher"
         }
       ]
     },
     {
-      "board": "sardine",
+      "board": "ashby",
       "jobs": [
         {
-          "department": "Talent and People",
-          "id": "30fc5127-1677-478c-bf53-19b1e4ad11ea",
-          "jobUrl": "https://jobs.ashbyhq.com/sardine/30fc5127-1677-478c-bf53-19b1e4ad11ea",
-          "location": "United Kingdom",
-          "publishedAt": "2026-03-18T14:02:56.245+00:00",
-          "team": "Talent and People",
-          "title": "Recruiter - GTM"
+          "department": "People & Talent",
+          "id": "9907aaec-1086-49f1-9df1-3ab340ce447e",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/9907aaec-1086-49f1-9df1-3ab340ce447e",
+          "location": "UK",
+          "publishedAt": "2026-03-18T22:38:18.854+00:00",
+          "team": "Recruiting",
+          "title": "Product Support Recruiter - UK/Ireland"
+        },
+        {
+          "department": "Customer Success",
+          "id": "00de3a3d-9914-42f8-8623-d64b912c7791",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/00de3a3d-9914-42f8-8623-d64b912c7791",
+          "location": "Remote - North America",
+          "publishedAt": "2026-03-18T19:50:59.402+00:00",
+          "team": "Contract Management",
+          "title": "Renewal Manager, Enterprise - Americas"
+        },
+        {
+          "department": "Customer Success",
+          "id": "893cd08a-929c-4077-b39c-64bc34f347ea",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/893cd08a-929c-4077-b39c-64bc34f347ea",
+          "location": "Australia",
+          "publishedAt": "2026-03-18T18:57:31.088+00:00",
+          "team": "Strategic Customer Success",
+          "title": "Customer Success Manager, APAC"
+        },
+        {
+          "department": "Customer Success",
+          "id": "1cf7c730-caba-4fc3-8b98-52a0735ef14b",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/1cf7c730-caba-4fc3-8b98-52a0735ef14b",
+          "location": "Remote - Europe",
+          "publishedAt": "2026-01-16T14:17:18.624+00:00",
+          "team": "Strategic Customer Success",
+          "title": "Strategic Customer Success Manager, EMEA"
         }
       ]
     },
@@ -35,29 +62,42 @@
       "jobs": [
         {
           "department": "Product",
-          "id": "d67ffb61-25bb-4194-aa13-2d51bf827a2e",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/d67ffb61-25bb-4194-aa13-2d51bf827a2e",
+          "id": "a89d2e1b-57c3-4911-ad7d-2408a55fbf53",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/a89d2e1b-57c3-4911-ad7d-2408a55fbf53",
           "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-03-18T14:11:21.496+00:00",
-          "team": "Product Management",
-          "title": "Director, Product Management Onboarding & Activations"
-        }
-      ]
-    },
-    {
-      "board": "v7labs.com",
-      "jobs": [
+          "publishedAt": "2026-03-18T19:18:32.650+00:00",
+          "team": "Design & UX",
+          "title": "Senior Product Designer"
+        },
         {
-          "department": "Sales",
-          "id": "058bd40a-8f29-41b0-850d-c7ba39891a98",
-          "jobUrl": "https://jobs.ashbyhq.com/v7labs.com/058bd40a-8f29-41b0-850d-c7ba39891a98",
-          "location": "London",
-          "publishedAt": "2026-03-18T10:12:20.494+00:00",
-          "team": "Sales",
-          "title": "Business Development Representative"
+          "department": "Technology",
+          "id": "f72caf9b-ebfc-4af6-b2a2-7d11ce1803b0",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/f72caf9b-ebfc-4af6-b2a2-7d11ce1803b0",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-03-18T19:05:15.159+00:00",
+          "team": "Technology",
+          "title": "Staff Developer, Growth"
+        },
+        {
+          "department": "Technology",
+          "id": "0ffce67f-0fd2-425d-86c0-32ba2bfb118f",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/0ffce67f-0fd2-425d-86c0-32ba2bfb118f",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-03-18T16:55:33.820+00:00",
+          "team": "Technology",
+          "title": "Engineering Manager, Growth"
+        },
+        {
+          "department": "GTM",
+          "id": "1e44a831-80d6-4d54-8f78-7c24800e976f",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/1e44a831-80d6-4d54-8f78-7c24800e976f",
+          "location": "Remote UK",
+          "publishedAt": "2026-03-18T15:59:19.529+00:00",
+          "team": "Customer Success",
+          "title": "Solutions Engineer Enterprise (German)"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-03-18T14:56:58.880385+00:00"
+  "scannedAtUtc": "2026-03-19T06:51:14.047755+00:00"
 }
