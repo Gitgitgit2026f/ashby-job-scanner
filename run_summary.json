@@ -1,6 +1,86 @@
 {
   "errors": [],
   "firstRun": false,
-  "new": [],
-  "scannedAtUtc": "2026-03-23T07:02:33.192682+00:00"
+  "new": [
+    {
+      "board": "supabase",
+      "jobs": [
+        {
+          "department": "Product",
+          "id": "47282e37-34dc-401d-a1cd-dbe85fdd1c22",
+          "jobUrl": "https://jobs.ashbyhq.com/supabase/47282e37-34dc-401d-a1cd-dbe85fdd1c22",
+          "location": "Remote",
+          "publishedAt": "2026-03-23T14:02:48.327+00:00",
+          "team": "Product",
+          "title": "Product Manager - Pricing & Billing"
+        },
+        {
+          "department": "Engineering",
+          "id": "48950725-e0d9-4025-92d9-f75e1b60ce45",
+          "jobUrl": "https://jobs.ashbyhq.com/supabase/48950725-e0d9-4025-92d9-f75e1b60ce45",
+          "location": "Remote",
+          "publishedAt": "2026-03-23T13:04:10.304+00:00",
+          "team": "Engineering",
+          "title": "Postgres Deployment Engineer"
+        }
+      ]
+    },
+    {
+      "board": "toogeza",
+      "jobs": [
+        {
+          "department": "Marketing",
+          "id": "5319e719-0b1d-40e8-86da-a5f36b059007",
+          "jobUrl": "https://jobs.ashbyhq.com/toogeza/5319e719-0b1d-40e8-86da-a5f36b059007",
+          "location": "Limassol",
+          "publishedAt": "2026-03-23T10:56:08.065+00:00",
+          "team": "Marketing",
+          "title": "Content & Personal Brand Manager"
+        }
+      ]
+    },
+    {
+      "board": "cradlebio",
+      "jobs": [
+        {
+          "department": "Operations",
+          "id": "cd114d49-d46b-470c-ae0a-51cba3393378",
+          "jobUrl": "https://jobs.ashbyhq.com/cradlebio/cd114d49-d46b-470c-ae0a-51cba3393378",
+          "location": "Zürich",
+          "publishedAt": "2026-03-23T07:15:01.092+00:00",
+          "team": "Operations",
+          "title": "People Operations Manager"
+        }
+      ]
+    },
+    {
+      "board": "splitmetrics",
+      "jobs": [
+        {
+          "department": "Engineering",
+          "id": "9ab58b63-82ae-4952-977c-288ef051fa89",
+          "jobUrl": "https://jobs.ashbyhq.com/splitmetrics/9ab58b63-82ae-4952-977c-288ef051fa89",
+          "location": "Poland",
+          "publishedAt": "2026-03-23T13:10:52.740+00:00",
+          "team": "Engineering",
+          "title": "Senior Backend Engineer (Python) "
+        }
+      ]
+    },
+    {
+      "board": "dash0",
+      "jobs": [
+        {
+          "department": "Customer Success",
+          "id": "d7fa3468-1e5c-4109-bdcf-0fa0f2f9c15b",
+          "jobUrl": "https://jobs.ashbyhq.com/dash0/d7fa3468-1e5c-4109-bdcf-0fa0f2f9c15b",
+          "location": "EMEA - Remote",
+          "publishedAt": "2025-09-08T17:07:36.016+00:00",
+          "team": "Customer Success",
+          "title": "Enterprise Solution Architect - EMEA"
+        }
+      ]
+    }
+  ],
+  "scannedAtUtc": "2026-03-23T14:49:42.951672+00:00"
 }
