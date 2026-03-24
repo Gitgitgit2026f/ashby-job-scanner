@@ -3,70 +3,19 @@
   "firstRun": false,
   "new": [
     {
-      "board": "n8n",
-      "jobs": [
-        {
-          "department": "Product",
-          "id": "8e20b1af-1851-4f00-a73c-6b8af2f5d428",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/8e20b1af-1851-4f00-a73c-6b8af2f5d428",
-          "location": "Berlin Office",
-          "publishedAt": "2026-03-23T15:03:40.336+00:00",
-          "team": "Product Management",
-          "title": "Senior Product Builder"
-        }
-      ]
-    },
-    {
-      "board": "ashby",
-      "jobs": [
-        {
-          "department": "Customer Success",
-          "id": "ce9f0432-7abf-4911-b644-69d0fb08d67f",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/ce9f0432-7abf-4911-b644-69d0fb08d67f",
-          "location": "Remote - North America",
-          "publishedAt": "2026-03-24T03:16:38.908+00:00",
-          "team": "Contract Management",
-          "title": "Renewal Manager, SMB - Americas"
-        }
-      ]
-    },
-    {
       "board": "toogeza",
       "jobs": [
         {
-          "department": "Analytics",
-          "id": "d4263764-99ff-4ff6-a0b1-f9f35f8129fa",
-          "jobUrl": "https://jobs.ashbyhq.com/toogeza/d4263764-99ff-4ff6-a0b1-f9f35f8129fa",
+          "department": "Engineering",
+          "id": "646f0294-31b3-4dbf-9b25-798a72b189dc",
+          "jobUrl": "https://jobs.ashbyhq.com/toogeza/646f0294-31b3-4dbf-9b25-798a72b189dc",
           "location": "Europe",
-          "publishedAt": "2026-03-23T16:17:54.140+00:00",
-          "team": "Analytics",
-          "title": "Data Analyst"
-        }
-      ]
-    },
-    {
-      "board": "1password",
-      "jobs": [
-        {
-          "department": "GTM",
-          "id": "bc30bba9-550b-41a3-8f90-e18346405b6b",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/bc30bba9-550b-41a3-8f90-e18346405b6b",
-          "location": "Austin, TX",
-          "publishedAt": "2026-03-23T18:39:08.287+00:00",
-          "team": "BDR",
-          "title": "Business Development Representative, SMB"
-        },
-        {
-          "department": "Marketing",
-          "id": "9515f6e6-9c0d-481b-9c9e-c41b9b110cca",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/9515f6e6-9c0d-481b-9c9e-c41b9b110cca",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-03-23T15:08:14.434+00:00",
-          "team": "Marketing",
-          "title": "Director, Growth Web Experience"
+          "publishedAt": "2026-03-24T12:50:59.724+00:00",
+          "team": "Engineering",
+          "title": "AI Agent Architect"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-03-24T06:57:22.400920+00:00"
+  "scannedAtUtc": "2026-03-24T14:51:51.103093+00:00"
 }
