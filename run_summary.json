@@ -3,25 +3,30 @@
   "firstRun": false,
   "new": [
     {
-      "board": "supabase",
+      "board": "n8n",
       "jobs": [
         {
           "department": "Product",
-          "id": "47282e37-34dc-401d-a1cd-dbe85fdd1c22",
-          "jobUrl": "https://jobs.ashbyhq.com/supabase/47282e37-34dc-401d-a1cd-dbe85fdd1c22",
-          "location": "Remote",
-          "publishedAt": "2026-03-23T14:02:48.327+00:00",
-          "team": "Product",
-          "title": "Product Manager - Pricing & Billing"
-        },
+          "id": "8e20b1af-1851-4f00-a73c-6b8af2f5d428",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/8e20b1af-1851-4f00-a73c-6b8af2f5d428",
+          "location": "Berlin Office",
+          "publishedAt": "2026-03-23T15:03:40.336+00:00",
+          "team": "Product Management",
+          "title": "Senior Product Builder"
+        }
+      ]
+    },
+    {
+      "board": "ashby",
+      "jobs": [
         {
-          "department": "Engineering",
-          "id": "48950725-e0d9-4025-92d9-f75e1b60ce45",
-          "jobUrl": "https://jobs.ashbyhq.com/supabase/48950725-e0d9-4025-92d9-f75e1b60ce45",
-          "location": "Remote",
-          "publishedAt": "2026-03-23T13:04:10.304+00:00",
-          "team": "Engineering",
-          "title": "Postgres Deployment Engineer"
+          "department": "Customer Success",
+          "id": "ce9f0432-7abf-4911-b644-69d0fb08d67f",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/ce9f0432-7abf-4911-b644-69d0fb08d67f",
+          "location": "Remote - North America",
+          "publishedAt": "2026-03-24T03:16:38.908+00:00",
+          "team": "Contract Management",
+          "title": "Renewal Manager, SMB - Americas"
         }
       ]
     },
@@ -29,58 +34,39 @@
       "board": "toogeza",
       "jobs": [
         {
+          "department": "Analytics",
+          "id": "d4263764-99ff-4ff6-a0b1-f9f35f8129fa",
+          "jobUrl": "https://jobs.ashbyhq.com/toogeza/d4263764-99ff-4ff6-a0b1-f9f35f8129fa",
+          "location": "Europe",
+          "publishedAt": "2026-03-23T16:17:54.140+00:00",
+          "team": "Analytics",
+          "title": "Data Analyst"
+        }
+      ]
+    },
+    {
+      "board": "1password",
+      "jobs": [
+        {
+          "department": "GTM",
+          "id": "bc30bba9-550b-41a3-8f90-e18346405b6b",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/bc30bba9-550b-41a3-8f90-e18346405b6b",
+          "location": "Austin, TX",
+          "publishedAt": "2026-03-23T18:39:08.287+00:00",
+          "team": "BDR",
+          "title": "Business Development Representative, SMB"
+        },
+        {
           "department": "Marketing",
-          "id": "5319e719-0b1d-40e8-86da-a5f36b059007",
-          "jobUrl": "https://jobs.ashbyhq.com/toogeza/5319e719-0b1d-40e8-86da-a5f36b059007",
-          "location": "Limassol",
-          "publishedAt": "2026-03-23T10:56:08.065+00:00",
+          "id": "9515f6e6-9c0d-481b-9c9e-c41b9b110cca",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/9515f6e6-9c0d-481b-9c9e-c41b9b110cca",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-03-23T15:08:14.434+00:00",
           "team": "Marketing",
-          "title": "Content & Personal Brand Manager"
-        }
-      ]
-    },
-    {
-      "board": "cradlebio",
-      "jobs": [
-        {
-          "department": "Operations",
-          "id": "cd114d49-d46b-470c-ae0a-51cba3393378",
-          "jobUrl": "https://jobs.ashbyhq.com/cradlebio/cd114d49-d46b-470c-ae0a-51cba3393378",
-          "location": "Zürich",
-          "publishedAt": "2026-03-23T07:15:01.092+00:00",
-          "team": "Operations",
-          "title": "People Operations Manager"
-        }
-      ]
-    },
-    {
-      "board": "splitmetrics",
-      "jobs": [
-        {
-          "department": "Engineering",
-          "id": "9ab58b63-82ae-4952-977c-288ef051fa89",
-          "jobUrl": "https://jobs.ashbyhq.com/splitmetrics/9ab58b63-82ae-4952-977c-288ef051fa89",
-          "location": "Poland",
-          "publishedAt": "2026-03-23T13:10:52.740+00:00",
-          "team": "Engineering",
-          "title": "Senior Backend Engineer (Python) "
-        }
-      ]
-    },
-    {
-      "board": "dash0",
-      "jobs": [
-        {
-          "department": "Customer Success",
-          "id": "d7fa3468-1e5c-4109-bdcf-0fa0f2f9c15b",
-          "jobUrl": "https://jobs.ashbyhq.com/dash0/d7fa3468-1e5c-4109-bdcf-0fa0f2f9c15b",
-          "location": "EMEA - Remote",
-          "publishedAt": "2025-09-08T17:07:36.016+00:00",
-          "team": "Customer Success",
-          "title": "Enterprise Solution Architect - EMEA"
+          "title": "Director, Growth Web Experience"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-03-23T14:49:42.951672+00:00"
+  "scannedAtUtc": "2026-03-24T06:57:22.400920+00:00"
 }
