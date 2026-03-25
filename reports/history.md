@@ -2,6 +2,20 @@
 
 ---
 
+## 2026-03-25T06:55:38.864250+00:00
+
+- Boards: 27
+- New jobs: 4
+- Errors: 0
+- First run: no
+
+New per board:
+- **nango**: 1
+- **ashby**: 2
+- **dourolabs.xyz**: 1
+
+---
+
 ## 2026-03-24T14:51:51.103093+00:00
 
 - Boards: 27
