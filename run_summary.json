@@ -6,71 +6,25 @@
       "board": "n8n",
       "jobs": [
         {
-          "department": "Sales",
-          "id": "250fd347-60dd-4902-b0cd-27a7f3f31617",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/250fd347-60dd-4902-b0cd-27a7f3f31617",
+          "department": "Product",
+          "id": "fe05c209-8069-4a88-aeba-8da23488cd30",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/fe05c209-8069-4a88-aeba-8da23488cd30",
+          "location": "Germany",
+          "publishedAt": "2026-03-26T09:00:17.765+00:00",
+          "team": "Product Design",
+          "title": "Senior/Staff Product Designer"
+        },
+        {
+          "department": "Operations",
+          "id": "c89b86d5-4931-4d63-be5e-b384bfb04179",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/c89b86d5-4931-4d63-be5e-b384bfb04179",
           "location": "Berlin Office",
-          "publishedAt": "2026-03-25T15:06:05.285+00:00",
-          "team": "Account Executives",
-          "title": "Mid-Market Account Executive (w/ German - Remote Europe)"
-        }
-      ]
-    },
-    {
-      "board": "ashby",
-      "jobs": [
-        {
-          "department": "Sales",
-          "id": "f8af6d8b-3f86-4b4f-90db-839b9ae5be7e",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/f8af6d8b-3f86-4b4f-90db-839b9ae5be7e",
-          "location": "Remote - Europe",
-          "publishedAt": "2026-03-24T13:35:15.455+00:00",
-          "team": "Sales",
-          "title": "Business Development Representative - EMEA"
-        }
-      ]
-    },
-    {
-      "board": "1password",
-      "jobs": [
-        {
-          "department": "GTM",
-          "id": "b8abb2b3-7e1b-49c9-a54b-2eca49a1ce60",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/b8abb2b3-7e1b-49c9-a54b-2eca49a1ce60",
-          "location": "Remote US",
-          "publishedAt": "2026-03-26T05:20:40.297+00:00",
-          "team": "Account Executive",
-          "title": "Senior Account Executive - Commercial"
-        },
-        {
-          "department": "G&A",
-          "id": "855bce45-7871-4267-8e4e-26c45aef34b7",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/855bce45-7871-4267-8e4e-26c45aef34b7",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-03-25T18:52:47.914+00:00",
-          "team": "Finance",
-          "title": "Finance Manager, Corporate FP&A"
-        },
-        {
-          "department": "Product",
-          "id": "8ed9401f-383e-42bc-88e6-74f96732a37a",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/8ed9401f-383e-42bc-88e6-74f96732a37a",
-          "location": "Remote UK",
-          "publishedAt": "2026-03-25T16:13:05.355+00:00",
-          "team": "Design & UX",
-          "title": "Senior Product Designer, EPM"
-        },
-        {
-          "department": "Product",
-          "id": "67cc5f47-2fd4-498c-b2bb-006357293eef",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/67cc5f47-2fd4-498c-b2bb-006357293eef",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-03-25T16:12:59.529+00:00",
-          "team": "Design & UX",
-          "title": "Senior Product Designer, EPM"
+          "publishedAt": "2026-03-24T17:58:23.935+00:00",
+          "team": "Automation",
+          "title": "Head of AI & Automation (internal)"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-03-26T07:00:40.244034+00:00"
+  "scannedAtUtc": "2026-03-26T14:57:02.862108+00:00"
 }

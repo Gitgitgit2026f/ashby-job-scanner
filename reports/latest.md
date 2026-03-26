@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-03-26T07:00:40.244034+00:00
+- **Scanned at (UTC):** 2026-03-26T14:57:02.862108+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 6
+- **New jobs found:** 2
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -10,13 +10,13 @@
 
 | Board | New jobs |
 |---|---:|
-| n8n | 1 |
+| n8n | 2 |
 | reedsy | 0 |
 | mazehq | 0 |
 | supabase | 0 |
 | nango | 0 |
 | axelera | 0 |
-| ashby | 1 |
+| ashby | 0 |
 | cargo-one | 0 |
 | gt-hq | 0 |
 | dourolabs.xyz | 0 |
@@ -30,7 +30,7 @@
 | oh | 0 |
 | substack | 0 |
 | dash0 | 0 |
-| 1password | 4 |
+| 1password | 0 |
 | incard | 0 |
 | atomic-invest | 0 |
 | chronospherejobs | 0 |
@@ -42,16 +42,6 @@
 
 ### n8n
 
-- [Mid-Market Account Executive (w/ German - Remote Europe)](https://jobs.ashbyhq.com/n8n/250fd347-60dd-4902-b0cd-27a7f3f31617) — Berlin Office — 2026-03-25T15:06:05.285+00:00
-
-### ashby
-
-- [Business Development Representative - EMEA](https://jobs.ashbyhq.com/ashby/f8af6d8b-3f86-4b4f-90db-839b9ae5be7e) — Remote - Europe — 2026-03-24T13:35:15.455+00:00
-
-### 1password
-
-- [Senior Account Executive - Commercial](https://jobs.ashbyhq.com/1password/b8abb2b3-7e1b-49c9-a54b-2eca49a1ce60) — Remote US — 2026-03-26T05:20:40.297+00:00
-- [Finance Manager, Corporate FP&A](https://jobs.ashbyhq.com/1password/855bce45-7871-4267-8e4e-26c45aef34b7) — Remote (United States | Canada) — 2026-03-25T18:52:47.914+00:00
-- [Senior Product Designer, EPM](https://jobs.ashbyhq.com/1password/8ed9401f-383e-42bc-88e6-74f96732a37a) — Remote UK — 2026-03-25T16:13:05.355+00:00
-- [Senior Product Designer, EPM](https://jobs.ashbyhq.com/1password/67cc5f47-2fd4-498c-b2bb-006357293eef) — Remote (United States | Canada) — 2026-03-25T16:12:59.529+00:00
+- [Senior/Staff Product Designer](https://jobs.ashbyhq.com/n8n/fe05c209-8069-4a88-aeba-8da23488cd30) — Germany — 2026-03-26T09:00:17.765+00:00
+- [Head of AI & Automation (internal)](https://jobs.ashbyhq.com/n8n/c89b86d5-4931-4d63-be5e-b384bfb04179) — Berlin Office — 2026-03-24T17:58:23.935+00:00
 
