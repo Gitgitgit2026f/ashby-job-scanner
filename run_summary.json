@@ -3,65 +3,19 @@
   "firstRun": false,
   "new": [
     {
-      "board": "ashby",
+      "board": "n8n",
       "jobs": [
         {
-          "department": "Legal",
-          "id": "a9de6243-f65f-428f-b16f-59e13340fb67",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/a9de6243-f65f-428f-b16f-59e13340fb67",
-          "location": "Remote - US",
-          "publishedAt": "2026-03-26T16:33:18.860+00:00",
-          "team": "Legal",
-          "title": "Commercial Counsel"
-        },
-        {
-          "department": "Security & IT",
-          "id": "d717c2df-c8ff-4e23-8fd3-b67c395f5ad2",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/d717c2df-c8ff-4e23-8fd3-b67c395f5ad2",
-          "location": "Remote - North America",
-          "publishedAt": "2026-03-26T15:50:46.712+00:00",
-          "team": "IT",
-          "title": "Staff IT Engineer"
-        }
-      ]
-    },
-    {
-      "board": "1password",
-      "jobs": [
-        {
-          "department": "Technology",
-          "id": "74c72a5a-99dd-426a-b4d7-807f6205f969",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/74c72a5a-99dd-426a-b4d7-807f6205f969",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-03-26T19:46:52.094+00:00",
-          "team": "Product Engineering",
-          "title": "Engineering Manager, Authentication Experience"
-        },
-        {
-          "department": "GTM",
-          "id": "4d30b4e9-c586-458c-a982-70a6ca3289a1",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/4d30b4e9-c586-458c-a982-70a6ca3289a1",
-          "location": "Austin, TX",
-          "publishedAt": "2026-03-26T18:46:04.050+00:00",
-          "team": "Account Executive",
-          "title": "Account Executive, SMB - Austin"
-        }
-      ]
-    },
-    {
-      "board": "mazedesign",
-      "jobs": [
-        {
-          "department": "Sales & Customer Success",
-          "id": "cd6ec492-5f06-4bbd-a996-c1ddb282ee71",
-          "jobUrl": "https://jobs.ashbyhq.com/mazedesign/cd6ec492-5f06-4bbd-a996-c1ddb282ee71",
-          "location": "United States",
-          "publishedAt": "2026-03-26T16:52:07.928+00:00",
-          "team": "Sales & Customer Success",
-          "title": "Senior Research Partner - ET/CT"
+          "department": "Operations",
+          "id": "c7af31cb-9701-4748-a49b-04d3fbcccb3c",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/c7af31cb-9701-4748-a49b-04d3fbcccb3c",
+          "location": "Germany",
+          "publishedAt": "2026-03-27T11:16:53.063+00:00",
+          "team": "Finance",
+          "title": "Senior Accountant "
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-03-27T07:00:17.948137+00:00"
+  "scannedAtUtc": "2026-03-27T14:43:38.493467+00:00"
 }
