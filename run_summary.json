@@ -1,6 +1,58 @@
 {
   "errors": [],
   "firstRun": false,
-  "new": [],
-  "scannedAtUtc": "2026-03-30T07:19:24.083410+00:00"
+  "new": [
+    {
+      "board": "axelera",
+      "jobs": [
+        {
+          "department": "Silicon Engineering",
+          "id": "2b47fcbd-d776-4498-81ba-c657f8a01b38",
+          "jobUrl": "https://jobs.ashbyhq.com/axelera/2b47fcbd-d776-4498-81ba-c657f8a01b38",
+          "location": "Eindhoven (on-site)",
+          "publishedAt": "2026-03-30T08:39:56.135+00:00",
+          "team": "Physical Design",
+          "title": "Physical Design Engineer"
+        }
+      ]
+    },
+    {
+      "board": "splitmetrics",
+      "jobs": [
+        {
+          "department": "Product",
+          "id": "9517133e-b4f5-4056-9c70-091ef9451226",
+          "jobUrl": "https://jobs.ashbyhq.com/splitmetrics/9517133e-b4f5-4056-9c70-091ef9451226",
+          "location": "Remote - Europe Time Zones",
+          "publishedAt": "2026-03-30T09:42:09.377+00:00",
+          "team": "Product",
+          "title": "Senior Product Manager - Core "
+        }
+      ]
+    },
+    {
+      "board": "1password",
+      "jobs": [
+        {
+          "department": "GTM",
+          "id": "dd74446b-49c2-424c-ac3d-9494778eb0d7",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/dd74446b-49c2-424c-ac3d-9494778eb0d7",
+          "location": "Remote UK",
+          "publishedAt": "2026-03-30T13:51:01.038+00:00",
+          "team": "Revenue Operations",
+          "title": "Revenue Operations Analyst, Territory Management"
+        },
+        {
+          "department": "GTM",
+          "id": "774bb337-cda3-4097-81a6-988ebb45ebcc",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/774bb337-cda3-4097-81a6-988ebb45ebcc",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-03-30T13:50:48.599+00:00",
+          "team": "Revenue Operations",
+          "title": "Revenue Operations Analyst, Territory Management"
+        }
+      ]
+    }
+  ],
+  "scannedAtUtc": "2026-03-30T14:56:41.396993+00:00"
 }
