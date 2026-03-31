@@ -3,30 +3,30 @@
   "firstRun": false,
   "new": [
     {
-      "board": "axelera",
+      "board": "n8n",
       "jobs": [
         {
-          "department": "Silicon Engineering",
-          "id": "2b47fcbd-d776-4498-81ba-c657f8a01b38",
-          "jobUrl": "https://jobs.ashbyhq.com/axelera/2b47fcbd-d776-4498-81ba-c657f8a01b38",
-          "location": "Eindhoven (on-site)",
-          "publishedAt": "2026-03-30T08:39:56.135+00:00",
-          "team": "Physical Design",
-          "title": "Physical Design Engineer"
+          "department": "Operations",
+          "id": "ac47d549-6a8e-4109-8dae-3733406dacf4",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/ac47d549-6a8e-4109-8dae-3733406dacf4",
+          "location": "New York",
+          "publishedAt": "2026-03-30T16:33:11.548+00:00",
+          "team": "Revenue Operations",
+          "title": "Revenue Enablement Specialist (Remote East Coast - Boston or NY)"
         }
       ]
     },
     {
-      "board": "splitmetrics",
+      "board": "ashby",
       "jobs": [
         {
-          "department": "Product",
-          "id": "9517133e-b4f5-4056-9c70-091ef9451226",
-          "jobUrl": "https://jobs.ashbyhq.com/splitmetrics/9517133e-b4f5-4056-9c70-091ef9451226",
-          "location": "Remote - Europe Time Zones",
-          "publishedAt": "2026-03-30T09:42:09.377+00:00",
-          "team": "Product",
-          "title": "Senior Product Manager - Core "
+          "department": "Customer Success",
+          "id": "62d4f71e-f56c-447a-a965-a9c2ea8eac5e",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/62d4f71e-f56c-447a-a965-a9c2ea8eac5e",
+          "location": "Remote - Europe",
+          "publishedAt": "2026-03-30T22:21:10.294+00:00",
+          "team": "High Touch Customer Success",
+          "title": "Mid-Market Customer Success Manager - EMEA"
         }
       ]
     },
@@ -34,25 +34,43 @@
       "board": "1password",
       "jobs": [
         {
-          "department": "GTM",
-          "id": "dd74446b-49c2-424c-ac3d-9494778eb0d7",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/dd74446b-49c2-424c-ac3d-9494778eb0d7",
-          "location": "Remote UK",
-          "publishedAt": "2026-03-30T13:51:01.038+00:00",
-          "team": "Revenue Operations",
-          "title": "Revenue Operations Analyst, Territory Management"
+          "department": "G&A",
+          "id": "f1c71ce1-3092-4950-a498-4f7c53a5c18a",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/f1c71ce1-3092-4950-a498-4f7c53a5c18a",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-03-30T21:58:24.105+00:00",
+          "team": "Finance",
+          "title": "Senior Revenue Accountant"
+        },
+        {
+          "department": "Technology",
+          "id": "842b3d5c-a19a-43f2-9dbc-4126192dd677",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/842b3d5c-a19a-43f2-9dbc-4126192dd677",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-03-30T20:53:50.775+00:00",
+          "team": "Developer AI",
+          "title": "Senior Developer, Machine Identity"
+        },
+        {
+          "department": "Technology",
+          "id": "14fdf4e4-78f0-41a3-ab72-57ce1fdb501f",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/14fdf4e4-78f0-41a3-ab72-57ce1fdb501f",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-03-30T20:26:04.961+00:00",
+          "team": "Developer AI",
+          "title": "Developer, Machine Identity"
         },
         {
           "department": "GTM",
-          "id": "774bb337-cda3-4097-81a6-988ebb45ebcc",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/774bb337-cda3-4097-81a6-988ebb45ebcc",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-03-30T13:50:48.599+00:00",
-          "team": "Revenue Operations",
-          "title": "Revenue Operations Analyst, Territory Management"
+          "id": "e417ba5c-c24a-424d-a0c4-051727adbac9",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/e417ba5c-c24a-424d-a0c4-051727adbac9",
+          "location": "Toronto, ON | Austin, TX",
+          "publishedAt": "2026-03-30T18:35:32.044+00:00",
+          "team": "BDR",
+          "title": "Business Development Representative, Enterprise"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-03-30T14:56:41.396993+00:00"
+  "scannedAtUtc": "2026-03-31T07:05:19.801412+00:00"
 }
