@@ -3,19 +3,56 @@
   "firstRun": false,
   "new": [
     {
-      "board": "incard",
+      "board": "n8n",
       "jobs": [
         {
-          "department": "Engineering",
-          "id": "fd1b1e06-6a57-4d83-b684-184a81bdc6da",
-          "jobUrl": "https://jobs.ashbyhq.com/incard/fd1b1e06-6a57-4d83-b684-184a81bdc6da",
-          "location": "London",
-          "publishedAt": "2026-03-31T09:37:26.928+00:00",
-          "team": "Engineering",
-          "title": "Senior Card Processing Software Engineer"
+          "department": "Operations",
+          "id": "40711139-33bc-4f84-a9b2-a50132ae4393",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/40711139-33bc-4f84-a9b2-a50132ae4393",
+          "location": "Berlin Office",
+          "publishedAt": "2026-03-31T16:33:55.135+00:00",
+          "team": "Revenue Operations",
+          "title": "Senior Customer Care Operations EMEA"
+        },
+        {
+          "department": "Operations",
+          "id": "9c2030d8-03a2-462f-a81e-dee9d24bf044",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/9c2030d8-03a2-462f-a81e-dee9d24bf044",
+          "location": "Germany",
+          "publishedAt": "2026-03-31T15:59:59.643+00:00",
+          "team": "Finance",
+          "title": "Head of Accounting and Tax"
+        }
+      ]
+    },
+    {
+      "board": "substack",
+      "jobs": [
+        {
+          "department": "Marketing",
+          "id": "1c6ec89e-4cfe-42a0-aa4e-641133e17a1c",
+          "jobUrl": "https://jobs.ashbyhq.com/substack/1c6ec89e-4cfe-42a0-aa4e-641133e17a1c",
+          "location": "San Francisco (HQ)",
+          "publishedAt": "2026-03-31T21:54:26.272+00:00",
+          "team": "Marketing",
+          "title": "Campaign Strategist, Creator Marketing"
+        }
+      ]
+    },
+    {
+      "board": "1password",
+      "jobs": [
+        {
+          "department": "Technology",
+          "id": "f7fa1ca7-5439-4848-a398-090a5cdf7d9d",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/f7fa1ca7-5439-4848-a398-090a5cdf7d9d",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-03-31T22:06:45.174+00:00",
+          "team": "Technology",
+          "title": "Senior Developer, Growth"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-03-31T14:54:44.527779+00:00"
+  "scannedAtUtc": "2026-04-01T07:12:35.190781+00:00"
 }
