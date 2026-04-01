@@ -1,6 +1,6 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-04-01T07:12:35.190781+00:00
+- **Scanned at (UTC):** 2026-04-01T14:57:12.476000+00:00
 - **Boards scanned:** 27
 - **New jobs found:** 4
 - **Errors:** 0
@@ -10,12 +10,12 @@
 
 | Board | New jobs |
 |---|---:|
-| n8n | 2 |
+| n8n | 0 |
 | reedsy | 0 |
 | mazehq | 0 |
 | supabase | 0 |
 | nango | 0 |
-| axelera | 0 |
+| axelera | 2 |
 | ashby | 0 |
 | cargo-one | 0 |
 | gt-hq | 0 |
@@ -30,26 +30,26 @@
 | oh | 0 |
 | substack | 1 |
 | dash0 | 0 |
-| 1password | 1 |
+| 1password | 0 |
 | incard | 0 |
 | atomic-invest | 0 |
 | chronospherejobs | 0 |
-| v7labs.com | 0 |
+| v7labs.com | 1 |
 | poolside | 0 |
 | mazedesign | 0 |
 
 ## New jobs
 
-### n8n
+### axelera
 
-- [Senior Customer Care Operations EMEA](https://jobs.ashbyhq.com/n8n/40711139-33bc-4f84-a9b2-a50132ae4393) — Berlin Office — 2026-03-31T16:33:55.135+00:00
-- [Head of Accounting and Tax](https://jobs.ashbyhq.com/n8n/9c2030d8-03a2-462f-a81e-dee9d24bf044) — Germany — 2026-03-31T15:59:59.643+00:00
+- [High-Speed Interface Test & Characterisation Engineer](https://jobs.ashbyhq.com/axelera/47c6c921-c69c-48f6-9add-becc06b8e5c6) — Bristol (on-site) — 2026-04-01T10:02:01.285+00:00
+- [Senior/Staff ATE Test Engineer](https://jobs.ashbyhq.com/axelera/c0785c52-d3c6-46c8-8d02-199e2681cde5) — Bristol (on-site) — 2026-04-01T09:58:06.965+00:00
 
 ### substack
 
-- [Campaign Strategist, Creator Marketing](https://jobs.ashbyhq.com/substack/1c6ec89e-4cfe-42a0-aa4e-641133e17a1c) — San Francisco (HQ) — 2026-03-31T21:54:26.272+00:00
+- [Communications Manager, Product & Community](https://jobs.ashbyhq.com/substack/166bb9e3-ec9a-43c0-a99d-decb86379151) — New York — 2026-04-01T13:19:46.124+00:00
 
-### 1password
+### v7labs.com
 
-- [Senior Developer, Growth](https://jobs.ashbyhq.com/1password/f7fa1ca7-5439-4848-a398-090a5cdf7d9d) — Remote (United States | Canada) — 2026-03-31T22:06:45.174+00:00
+- [Forward Deployed Engineer](https://jobs.ashbyhq.com/v7labs.com/04848878-7901-42a6-9bbe-43ed2c1f9b12) — New York City — 2026-04-01T13:45:23.363+00:00
 
