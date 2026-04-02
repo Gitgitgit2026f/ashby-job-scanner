@@ -3,37 +3,56 @@
   "firstRun": false,
   "new": [
     {
-      "board": "n8n",
+      "board": "supabase",
       "jobs": [
         {
-          "department": "Sales",
-          "id": "3be2fb86-fcc6-45da-aa37-7032a20a63d5",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/3be2fb86-fcc6-45da-aa37-7032a20a63d5",
-          "location": "Berlin Office",
-          "publishedAt": "2026-04-01T16:18:42.205+00:00",
-          "team": "Sales",
-          "title": "Senior Partnerships Manager GSI (EMEA)"
+          "department": "Engineering",
+          "id": "0fd4c79c-9caf-4f50-960a-a0e53d323183",
+          "jobUrl": "https://jobs.ashbyhq.com/supabase/0fd4c79c-9caf-4f50-960a-a0e53d323183",
+          "location": "Remote",
+          "publishedAt": "2026-04-02T07:44:24.925+00:00",
+          "team": "Engineering",
+          "title": "Documentation Engineer"
         },
         {
-          "department": "Sales",
-          "id": "acab26f0-2d08-4ae1-b2b4-2ba5c3b11d3e",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/acab26f0-2d08-4ae1-b2b4-2ba5c3b11d3e",
-          "location": "Berlin Office",
-          "publishedAt": "2026-04-01T16:18:31.982+00:00",
-          "team": "Sales",
-          "title": "Strategic Partnerships Manager (DACH)"
-        },
+          "department": "Engineering",
+          "id": "8a49c4b3-a48b-4d6a-9c3c-36943fcd0dfb",
+          "jobUrl": "https://jobs.ashbyhq.com/supabase/8a49c4b3-a48b-4d6a-9c3c-36943fcd0dfb",
+          "location": "Remote",
+          "publishedAt": "2026-03-27T08:30:21.983+00:00",
+          "team": "Engineering",
+          "title": "Software Engineer - Supavisor"
+        }
+      ]
+    },
+    {
+      "board": "enode",
+      "jobs": [
         {
-          "department": "Sales",
-          "id": "9cde277e-80b1-4a15-8473-9d046f789715",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/9cde277e-80b1-4a15-8473-9d046f789715",
-          "location": "Berlin Office",
-          "publishedAt": "2026-03-09T10:40:28.010+00:00",
-          "team": "Sales",
-          "title": "Senior Partnerships Manager, Hyperscaler Alliances (Azure/AWS) (Remote Europe)"
+          "department": "Customer Success",
+          "id": "0d36e3d4-263b-496f-876e-bee24c75e689",
+          "jobUrl": "https://jobs.ashbyhq.com/enode/0d36e3d4-263b-496f-876e-bee24c75e689",
+          "location": "Remote - Europe",
+          "publishedAt": "2026-04-02T12:40:09.942+00:00",
+          "team": "Customer Success",
+          "title": "Client Delivery Lead"
+        }
+      ]
+    },
+    {
+      "board": "dash0",
+      "jobs": [
+        {
+          "department": "Growth & Marketing",
+          "id": "545807d0-841e-402f-b837-be4913bfd221",
+          "jobUrl": "https://jobs.ashbyhq.com/dash0/545807d0-841e-402f-b837-be4913bfd221",
+          "location": "EMEA - Remote",
+          "publishedAt": "2026-04-02T11:33:27.219+00:00",
+          "team": "Growth & Marketing",
+          "title": "Senior Website Developer "
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-04-02T07:05:05.028577+00:00"
+  "scannedAtUtc": "2026-04-02T14:48:24.095750+00:00"
 }
