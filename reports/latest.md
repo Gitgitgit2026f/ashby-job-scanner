@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-04-01T14:57:12.476000+00:00
+- **Scanned at (UTC):** 2026-04-02T07:05:05.028577+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 4
+- **New jobs found:** 3
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -10,12 +10,12 @@
 
 | Board | New jobs |
 |---|---:|
-| n8n | 0 |
+| n8n | 3 |
 | reedsy | 0 |
 | mazehq | 0 |
 | supabase | 0 |
 | nango | 0 |
-| axelera | 2 |
+| axelera | 0 |
 | ashby | 0 |
 | cargo-one | 0 |
 | gt-hq | 0 |
@@ -28,28 +28,21 @@
 | rerun | 0 |
 | splitmetrics | 0 |
 | oh | 0 |
-| substack | 1 |
+| substack | 0 |
 | dash0 | 0 |
 | 1password | 0 |
 | incard | 0 |
 | atomic-invest | 0 |
 | chronospherejobs | 0 |
-| v7labs.com | 1 |
+| v7labs.com | 0 |
 | poolside | 0 |
 | mazedesign | 0 |
 
 ## New jobs
 
-### axelera
+### n8n
 
-- [High-Speed Interface Test & Characterisation Engineer](https://jobs.ashbyhq.com/axelera/47c6c921-c69c-48f6-9add-becc06b8e5c6) — Bristol (on-site) — 2026-04-01T10:02:01.285+00:00
-- [Senior/Staff ATE Test Engineer](https://jobs.ashbyhq.com/axelera/c0785c52-d3c6-46c8-8d02-199e2681cde5) — Bristol (on-site) — 2026-04-01T09:58:06.965+00:00
-
-### substack
-
-- [Communications Manager, Product & Community](https://jobs.ashbyhq.com/substack/166bb9e3-ec9a-43c0-a99d-decb86379151) — New York — 2026-04-01T13:19:46.124+00:00
-
-### v7labs.com
-
-- [Forward Deployed Engineer](https://jobs.ashbyhq.com/v7labs.com/04848878-7901-42a6-9bbe-43ed2c1f9b12) — New York City — 2026-04-01T13:45:23.363+00:00
+- [Senior Partnerships Manager GSI (EMEA)](https://jobs.ashbyhq.com/n8n/3be2fb86-fcc6-45da-aa37-7032a20a63d5) — Berlin Office — 2026-04-01T16:18:42.205+00:00
+- [Strategic Partnerships Manager (DACH)](https://jobs.ashbyhq.com/n8n/acab26f0-2d08-4ae1-b2b4-2ba5c3b11d3e) — Berlin Office — 2026-04-01T16:18:31.982+00:00
+- [Senior Partnerships Manager, Hyperscaler Alliances (Azure/AWS) (Remote Europe)](https://jobs.ashbyhq.com/n8n/9cde277e-80b1-4a15-8473-9d046f789715) — Berlin Office — 2026-03-09T10:40:28.010+00:00
 

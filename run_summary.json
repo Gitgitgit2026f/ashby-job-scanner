@@ -3,56 +3,37 @@
   "firstRun": false,
   "new": [
     {
-      "board": "axelera",
+      "board": "n8n",
       "jobs": [
         {
-          "department": "Silicon Engineering",
-          "id": "47c6c921-c69c-48f6-9add-becc06b8e5c6",
-          "jobUrl": "https://jobs.ashbyhq.com/axelera/47c6c921-c69c-48f6-9add-becc06b8e5c6",
-          "location": "Bristol (on-site)",
-          "publishedAt": "2026-04-01T10:02:01.285+00:00",
-          "team": "Silicon Product",
-          "title": "High-Speed Interface Test & Characterisation Engineer"
+          "department": "Sales",
+          "id": "3be2fb86-fcc6-45da-aa37-7032a20a63d5",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/3be2fb86-fcc6-45da-aa37-7032a20a63d5",
+          "location": "Berlin Office",
+          "publishedAt": "2026-04-01T16:18:42.205+00:00",
+          "team": "Sales",
+          "title": "Senior Partnerships Manager GSI (EMEA)"
         },
         {
-          "department": "Silicon Engineering",
-          "id": "c0785c52-d3c6-46c8-8d02-199e2681cde5",
-          "jobUrl": "https://jobs.ashbyhq.com/axelera/c0785c52-d3c6-46c8-8d02-199e2681cde5",
-          "location": "Bristol (on-site)",
-          "publishedAt": "2026-04-01T09:58:06.965+00:00",
-          "team": "Silicon Product",
-          "title": "Senior/Staff ATE Test Engineer"
-        }
-      ]
-    },
-    {
-      "board": "substack",
-      "jobs": [
+          "department": "Sales",
+          "id": "acab26f0-2d08-4ae1-b2b4-2ba5c3b11d3e",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/acab26f0-2d08-4ae1-b2b4-2ba5c3b11d3e",
+          "location": "Berlin Office",
+          "publishedAt": "2026-04-01T16:18:31.982+00:00",
+          "team": "Sales",
+          "title": "Strategic Partnerships Manager (DACH)"
+        },
         {
-          "department": "Communications",
-          "id": "166bb9e3-ec9a-43c0-a99d-decb86379151",
-          "jobUrl": "https://jobs.ashbyhq.com/substack/166bb9e3-ec9a-43c0-a99d-decb86379151",
-          "location": "New York",
-          "publishedAt": "2026-04-01T13:19:46.124+00:00",
-          "team": "Communications",
-          "title": "Communications Manager, Product & Community "
-        }
-      ]
-    },
-    {
-      "board": "v7labs.com",
-      "jobs": [
-        {
-          "department": "Solutions Engineering",
-          "id": "04848878-7901-42a6-9bbe-43ed2c1f9b12",
-          "jobUrl": "https://jobs.ashbyhq.com/v7labs.com/04848878-7901-42a6-9bbe-43ed2c1f9b12",
-          "location": "New York City",
-          "publishedAt": "2026-04-01T13:45:23.363+00:00",
-          "team": "Solutions Engineering",
-          "title": "Forward Deployed Engineer"
+          "department": "Sales",
+          "id": "9cde277e-80b1-4a15-8473-9d046f789715",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/9cde277e-80b1-4a15-8473-9d046f789715",
+          "location": "Berlin Office",
+          "publishedAt": "2026-03-09T10:40:28.010+00:00",
+          "team": "Sales",
+          "title": "Senior Partnerships Manager, Hyperscaler Alliances (Azure/AWS) (Remote Europe)"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-04-01T14:57:12.476000+00:00"
+  "scannedAtUtc": "2026-04-02T07:05:05.028577+00:00"
 }
