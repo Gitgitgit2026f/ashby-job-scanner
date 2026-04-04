@@ -1,44 +1,6 @@
 {
   "errors": [],
   "firstRun": false,
-  "new": [
-    {
-      "board": "ashby",
-      "jobs": [
-        {
-          "department": "Customer Success",
-          "id": "e49766d4-bce0-4775-bc58-40223026f716",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/e49766d4-bce0-4775-bc58-40223026f716",
-          "location": "Remote - Europe",
-          "publishedAt": "2026-04-03T15:41:08.118+00:00",
-          "team": "Contract Management",
-          "title": "Renewal Manager, Startup - EMEA"
-        },
-        {
-          "department": "Customer Success",
-          "id": "005b33d2-2ee3-4a5e-9292-596dd70477de",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/005b33d2-2ee3-4a5e-9292-596dd70477de",
-          "location": "Remote - Europe",
-          "publishedAt": "2026-03-19T15:00:44.108+00:00",
-          "team": "Customer Support",
-          "title": "Support Manager - EMEA"
-        }
-      ]
-    },
-    {
-      "board": "mazedesign",
-      "jobs": [
-        {
-          "department": "Sales & Customer Success",
-          "id": "03afca37-ac10-4fad-a210-a5eca57a4150",
-          "jobUrl": "https://jobs.ashbyhq.com/mazedesign/03afca37-ac10-4fad-a210-a5eca57a4150",
-          "location": "United Kingdom",
-          "publishedAt": "2026-04-03T19:28:19.590+00:00",
-          "team": "Strategic Sales",
-          "title": "Account Executive, Strategic Accounts - EMEA"
-        }
-      ]
-    }
-  ],
-  "scannedAtUtc": "2026-04-04T06:53:19.317109+00:00"
+  "new": [],
+  "scannedAtUtc": "2026-04-04T14:26:59.722362+00:00"
 }
