@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-04-06T07:21:26.026116+00:00
+- **Scanned at (UTC):** 2026-04-06T14:40:33.719593+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 0
+- **New jobs found:** 1
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -24,7 +24,7 @@
 | toogeza | 0 |
 | enode | 0 |
 | cradlebio | 0 |
-| sardine | 0 |
+| sardine | 1 |
 | rerun | 0 |
 | splitmetrics | 0 |
 | oh | 0 |
@@ -40,5 +40,7 @@
 
 ## New jobs
 
-_No new jobs found._
+### sardine
+
+- [Controller](https://jobs.ashbyhq.com/sardine/b1496f06-ff1a-46e8-9160-b6ee1135a76e) — United States — 2026-04-06T14:03:26.545+00:00
 

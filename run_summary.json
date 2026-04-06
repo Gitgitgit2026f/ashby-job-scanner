@@ -1,6 +1,21 @@
 {
   "errors": [],
   "firstRun": false,
-  "new": [],
-  "scannedAtUtc": "2026-04-06T07:21:26.026116+00:00"
+  "new": [
+    {
+      "board": "sardine",
+      "jobs": [
+        {
+          "department": "Finance",
+          "id": "b1496f06-ff1a-46e8-9160-b6ee1135a76e",
+          "jobUrl": "https://jobs.ashbyhq.com/sardine/b1496f06-ff1a-46e8-9160-b6ee1135a76e",
+          "location": "United States",
+          "publishedAt": "2026-04-06T14:03:26.545+00:00",
+          "team": "Finance",
+          "title": "Controller"
+        }
+      ]
+    }
+  ],
+  "scannedAtUtc": "2026-04-06T14:40:33.719593+00:00"
 }
