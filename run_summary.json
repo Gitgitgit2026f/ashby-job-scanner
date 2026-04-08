@@ -6,36 +6,22 @@
       "board": "n8n",
       "jobs": [
         {
-          "department": "Sales",
-          "id": "f28f3346-de5e-4973-a1ec-1127b5c9094a",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/f28f3346-de5e-4973-a1ec-1127b5c9094a",
-          "location": "Boston",
-          "publishedAt": "2026-04-07T10:35:48.811+00:00",
-          "team": "Customer Success",
-          "title": "Senior Technical Customer Success Manager - OEM - US - East Coast"
+          "department": "Operations",
+          "id": "e0ab33cc-db1a-4c0b-8d30-78b253c8d69c",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/e0ab33cc-db1a-4c0b-8d30-78b253c8d69c",
+          "location": "Berlin Office",
+          "publishedAt": "2026-04-08T05:21:46.880+00:00",
+          "team": "Revenue Operations",
+          "title": "Senior Lifecycle Marketing Manager"
         },
         {
-          "department": "Sales",
-          "id": "175146a4-c670-45a5-8ec0-5568350ed15d",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/175146a4-c670-45a5-8ec0-5568350ed15d",
+          "department": "Engineering",
+          "id": "86dac484-02e1-4600-856e-ac527e084677",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/86dac484-02e1-4600-856e-ac527e084677",
           "location": "Berlin Office",
-          "publishedAt": "2026-04-07T10:18:32.496+00:00",
-          "team": "Customer Success",
-          "title": "Senior Technical Success Manager - OEM - EMEA"
-        }
-      ]
-    },
-    {
-      "board": "supabase",
-      "jobs": [
-        {
-          "department": "Growth",
-          "id": "a5a5a35a-ff03-4777-bb05-6eaaf5e8a1a6",
-          "jobUrl": "https://jobs.ashbyhq.com/supabase/a5a5a35a-ff03-4777-bb05-6eaaf5e8a1a6",
-          "location": "AMER",
-          "publishedAt": "2026-04-07T14:20:14.906+00:00",
-          "team": "Solutions Architecture",
-          "title": "Strategic Customer Solutions Architect (AMER)"
+          "publishedAt": "2026-04-07T17:17:12.711+00:00",
+          "team": "Community",
+          "title": "Engineering Manager | n8n Community | Remote-Europe"
         }
       ]
     },
@@ -43,71 +29,53 @@
       "board": "ashby",
       "jobs": [
         {
-          "department": "People & Talent",
-          "id": "f310f690-cfad-45d7-9fed-0691dca3d67f",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/f310f690-cfad-45d7-9fed-0691dca3d67f",
-          "location": "Remote - North America",
-          "publishedAt": "2026-04-07T13:58:05.675+00:00",
-          "team": "Recruiting",
-          "title": "Technical Recruiter - Americas"
-        },
-        {
           "department": "Sales",
-          "id": "80e74f0d-6f21-4492-baaa-0d5773466435",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/80e74f0d-6f21-4492-baaa-0d5773466435",
-          "location": "Remote - North America",
-          "publishedAt": "2026-04-07T13:52:44.279+00:00",
-          "team": "Revenue Operations",
-          "title": "GTM Engineering and Systems Manager"
+          "id": "f8af6d8b-3f86-4b4f-90db-839b9ae5be7e",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/f8af6d8b-3f86-4b4f-90db-839b9ae5be7e",
+          "location": "Remote - Europe",
+          "publishedAt": "2026-03-24T13:35:15.455+00:00",
+          "team": "Sales",
+          "title": "Business Development Representative - EMEA"
         }
       ]
     },
     {
-      "board": "everai",
+      "board": "sardine",
       "jobs": [
         {
-          "department": "Operations",
-          "id": "41702b6c-5b70-457a-9ea8-f2e2c64007c9",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/41702b6c-5b70-457a-9ea8-f2e2c64007c9",
-          "location": "Philippines",
-          "publishedAt": "2026-04-07T10:27:37.951+00:00",
-          "team": "Customer Service",
-          "title": "Customer Support Specialist (Full Remote - Philippines)"
+          "department": "Talent and People",
+          "id": "d9881c28-7796-4c56-9c2e-87164629b331",
+          "jobUrl": "https://jobs.ashbyhq.com/sardine/d9881c28-7796-4c56-9c2e-87164629b331",
+          "location": "North America",
+          "publishedAt": "2026-03-26T22:55:25.180+00:00",
+          "team": "Talent and People",
+          "title": "GTM Recruiting Lead"
         }
       ]
     },
     {
-      "board": "dash0",
+      "board": "1password",
       "jobs": [
         {
-          "department": "Growth & Marketing",
-          "id": "5be40de5-ab4e-43cf-bff4-85794535a0a3",
-          "jobUrl": "https://jobs.ashbyhq.com/dash0/5be40de5-ab4e-43cf-bff4-85794535a0a3",
-          "location": "EMEA - Remote",
-          "publishedAt": "2026-04-07T08:21:27.989+00:00",
-          "team": "Growth & Marketing",
-          "title": "Senior Product Marketing Manager"
+          "department": "Technology",
+          "id": "7323da26-15a1-46f5-b268-1b5e91ed7158",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/7323da26-15a1-46f5-b268-1b5e91ed7158",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-04-07T19:23:43.918+00:00",
+          "team": "Security",
+          "title": "Senior Security Engineer, Threat Intelligence"
         },
         {
-          "department": "Growth & Marketing",
-          "id": "e3449d92-3fef-4904-b466-a478a7a19094",
-          "jobUrl": "https://jobs.ashbyhq.com/dash0/e3449d92-3fef-4904-b466-a478a7a19094",
-          "location": "EMEA - Remote",
-          "publishedAt": "2026-04-07T08:17:00.946+00:00",
-          "team": "Growth & Marketing",
-          "title": "Content Engineer"
-        },
-        {
-          "department": "Growth & Marketing",
-          "id": "69d4d0fa-c8a1-4f7a-b2e2-3340af7621a4",
-          "jobUrl": "https://jobs.ashbyhq.com/dash0/69d4d0fa-c8a1-4f7a-b2e2-3340af7621a4",
-          "location": "EMEA - Remote",
-          "publishedAt": "2026-04-07T08:10:18.377+00:00",
-          "team": "Growth & Marketing",
-          "title": "Senior Content Marketing Manager, Technical"
+          "department": "Technology",
+          "id": "5908ef1d-2c43-4942-bf11-130fd824b484",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/5908ef1d-2c43-4942-bf11-130fd824b484",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-04-07T19:19:18.304+00:00",
+          "team": "Security",
+          "title": "Engineering Manager - Vulnerability Management"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-04-07T15:00:36.276993+00:00"
+  "scannedAtUtc": "2026-04-08T07:10:13.884563+00:00"
 }

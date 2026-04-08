@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-04-07T15:00:36.276993+00:00
+- **Scanned at (UTC):** 2026-04-08T07:10:13.884563+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 9
+- **New jobs found:** 6
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -13,24 +13,24 @@
 | n8n | 2 |
 | reedsy | 0 |
 | mazehq | 0 |
-| supabase | 1 |
+| supabase | 0 |
 | nango | 0 |
 | axelera | 0 |
-| ashby | 2 |
+| ashby | 1 |
 | cargo-one | 0 |
 | gt-hq | 0 |
 | dourolabs.xyz | 0 |
-| everai | 1 |
+| everai | 0 |
 | toogeza | 0 |
 | enode | 0 |
 | cradlebio | 0 |
-| sardine | 0 |
+| sardine | 1 |
 | rerun | 0 |
 | splitmetrics | 0 |
 | oh | 0 |
 | substack | 0 |
-| dash0 | 3 |
-| 1password | 0 |
+| dash0 | 0 |
+| 1password | 2 |
 | incard | 0 |
 | atomic-invest | 0 |
 | chronospherejobs | 0 |
@@ -42,25 +42,19 @@
 
 ### n8n
 
-- [Senior Technical Customer Success Manager - OEM - US - East Coast](https://jobs.ashbyhq.com/n8n/f28f3346-de5e-4973-a1ec-1127b5c9094a) — Boston — 2026-04-07T10:35:48.811+00:00
-- [Senior Technical Success Manager - OEM - EMEA](https://jobs.ashbyhq.com/n8n/175146a4-c670-45a5-8ec0-5568350ed15d) — Berlin Office — 2026-04-07T10:18:32.496+00:00
-
-### supabase
-
-- [Strategic Customer Solutions Architect (AMER)](https://jobs.ashbyhq.com/supabase/a5a5a35a-ff03-4777-bb05-6eaaf5e8a1a6) — AMER — 2026-04-07T14:20:14.906+00:00
+- [Senior Lifecycle Marketing Manager](https://jobs.ashbyhq.com/n8n/e0ab33cc-db1a-4c0b-8d30-78b253c8d69c) — Berlin Office — 2026-04-08T05:21:46.880+00:00
+- [Engineering Manager | n8n Community | Remote-Europe](https://jobs.ashbyhq.com/n8n/86dac484-02e1-4600-856e-ac527e084677) — Berlin Office — 2026-04-07T17:17:12.711+00:00
 
 ### ashby
 
-- [Technical Recruiter - Americas](https://jobs.ashbyhq.com/ashby/f310f690-cfad-45d7-9fed-0691dca3d67f) — Remote - North America — 2026-04-07T13:58:05.675+00:00
-- [GTM Engineering and Systems Manager](https://jobs.ashbyhq.com/ashby/80e74f0d-6f21-4492-baaa-0d5773466435) — Remote - North America — 2026-04-07T13:52:44.279+00:00
+- [Business Development Representative - EMEA](https://jobs.ashbyhq.com/ashby/f8af6d8b-3f86-4b4f-90db-839b9ae5be7e) — Remote - Europe — 2026-03-24T13:35:15.455+00:00
 
-### everai
+### sardine
 
-- [Customer Support Specialist (Full Remote - Philippines)](https://jobs.ashbyhq.com/everai/41702b6c-5b70-457a-9ea8-f2e2c64007c9) — Philippines — 2026-04-07T10:27:37.951+00:00
+- [GTM Recruiting Lead](https://jobs.ashbyhq.com/sardine/d9881c28-7796-4c56-9c2e-87164629b331) — North America — 2026-03-26T22:55:25.180+00:00
 
-### dash0
+### 1password
 
-- [Senior Product Marketing Manager](https://jobs.ashbyhq.com/dash0/5be40de5-ab4e-43cf-bff4-85794535a0a3) — EMEA - Remote — 2026-04-07T08:21:27.989+00:00
-- [Content Engineer](https://jobs.ashbyhq.com/dash0/e3449d92-3fef-4904-b466-a478a7a19094) — EMEA - Remote — 2026-04-07T08:17:00.946+00:00
-- [Senior Content Marketing Manager, Technical](https://jobs.ashbyhq.com/dash0/69d4d0fa-c8a1-4f7a-b2e2-3340af7621a4) — EMEA - Remote — 2026-04-07T08:10:18.377+00:00
+- [Senior Security Engineer, Threat Intelligence](https://jobs.ashbyhq.com/1password/7323da26-15a1-46f5-b268-1b5e91ed7158) — Remote (United States | Canada) — 2026-04-07T19:23:43.918+00:00
+- [Engineering Manager - Vulnerability Management](https://jobs.ashbyhq.com/1password/5908ef1d-2c43-4942-bf11-130fd824b484) — Remote (United States | Canada) — 2026-04-07T19:19:18.304+00:00
 
