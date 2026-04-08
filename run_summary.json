@@ -6,50 +6,55 @@
       "board": "n8n",
       "jobs": [
         {
+          "department": "Product",
+          "id": "29521a58-66b0-4666-93dc-7e0d231552ad",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/29521a58-66b0-4666-93dc-7e0d231552ad",
+          "location": "Germany",
+          "publishedAt": "2026-04-08T09:53:52.447+00:00",
+          "team": "Product Design",
+          "title": "Senior/Staff UX Researcher"
+        }
+      ]
+    },
+    {
+      "board": "reedsy",
+      "jobs": [
+        {
           "department": "Operations",
-          "id": "e0ab33cc-db1a-4c0b-8d30-78b253c8d69c",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/e0ab33cc-db1a-4c0b-8d30-78b253c8d69c",
-          "location": "Berlin Office",
-          "publishedAt": "2026-04-08T05:21:46.880+00:00",
-          "team": "Revenue Operations",
-          "title": "Senior Lifecycle Marketing Manager"
-        },
+          "id": "c1b5eb7d-a948-4468-8584-d8c8783b84f0",
+          "jobUrl": "https://jobs.ashbyhq.com/reedsy/c1b5eb7d-a948-4468-8584-d8c8783b84f0",
+          "location": "United Kingdom",
+          "publishedAt": "2026-04-08T08:54:13.270+00:00",
+          "team": "Customer Support",
+          "title": "Copy of Customer Happiness Manager - Remote Anywhere"
+        }
+      ]
+    },
+    {
+      "board": "supabase",
+      "jobs": [
         {
           "department": "Engineering",
-          "id": "86dac484-02e1-4600-856e-ac527e084677",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/86dac484-02e1-4600-856e-ac527e084677",
-          "location": "Berlin Office",
-          "publishedAt": "2026-04-07T17:17:12.711+00:00",
-          "team": "Community",
-          "title": "Engineering Manager | n8n Community | Remote-Europe"
+          "id": "e569b7f7-fa8f-4139-86f6-4f52b456882d",
+          "jobUrl": "https://jobs.ashbyhq.com/supabase/e569b7f7-fa8f-4139-86f6-4f52b456882d",
+          "location": "Remote",
+          "publishedAt": "2026-04-08T14:16:04.915+00:00",
+          "team": "Engineering",
+          "title": "Product Engineer - Auth"
         }
       ]
     },
     {
-      "board": "ashby",
+      "board": "dash0",
       "jobs": [
         {
-          "department": "Sales",
-          "id": "f8af6d8b-3f86-4b4f-90db-839b9ae5be7e",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/f8af6d8b-3f86-4b4f-90db-839b9ae5be7e",
-          "location": "Remote - Europe",
-          "publishedAt": "2026-03-24T13:35:15.455+00:00",
-          "team": "Sales",
-          "title": "Business Development Representative - EMEA"
-        }
-      ]
-    },
-    {
-      "board": "sardine",
-      "jobs": [
-        {
-          "department": "Talent and People",
-          "id": "d9881c28-7796-4c56-9c2e-87164629b331",
-          "jobUrl": "https://jobs.ashbyhq.com/sardine/d9881c28-7796-4c56-9c2e-87164629b331",
-          "location": "North America",
-          "publishedAt": "2026-03-26T22:55:25.180+00:00",
-          "team": "Talent and People",
-          "title": "GTM Recruiting Lead"
+          "department": "Growth & Marketing",
+          "id": "b1e15c1e-b33b-463b-adac-b78fecd42a0f",
+          "jobUrl": "https://jobs.ashbyhq.com/dash0/b1e15c1e-b33b-463b-adac-b78fecd42a0f",
+          "location": "EMEA - Remote",
+          "publishedAt": "2026-04-08T07:49:24.415+00:00",
+          "team": "Growth & Marketing",
+          "title": "Demand Generation Manager"
         }
       ]
     },
@@ -57,25 +62,16 @@
       "board": "1password",
       "jobs": [
         {
-          "department": "Technology",
-          "id": "7323da26-15a1-46f5-b268-1b5e91ed7158",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/7323da26-15a1-46f5-b268-1b5e91ed7158",
+          "department": "G&A",
+          "id": "37d81a8a-3d69-41bb-9306-2a59fd0b1580",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/37d81a8a-3d69-41bb-9306-2a59fd0b1580",
           "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-04-07T19:23:43.918+00:00",
-          "team": "Security",
-          "title": "Senior Security Engineer, Threat Intelligence"
-        },
-        {
-          "department": "Technology",
-          "id": "5908ef1d-2c43-4942-bf11-130fd824b484",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/5908ef1d-2c43-4942-bf11-130fd824b484",
-          "location": "Remote (United States | Canada)",
-          "publishedAt": "2026-04-07T19:19:18.304+00:00",
-          "team": "Security",
-          "title": "Engineering Manager - Vulnerability Management"
+          "publishedAt": "2026-04-08T13:23:02.485+00:00",
+          "team": "Legal",
+          "title": "Contracts Manager"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-04-08T07:10:13.884563+00:00"
+  "scannedAtUtc": "2026-04-08T15:02:29.930894+00:00"
 }
