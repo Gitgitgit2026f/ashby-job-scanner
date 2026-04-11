@@ -3,51 +3,74 @@
   "firstRun": false,
   "new": [
     {
-      "board": "cradlebio",
+      "board": "n8n",
       "jobs": [
         {
           "department": "Sales",
-          "id": "cbf8f13a-0606-4553-bc3c-2d18ece58b2a",
-          "jobUrl": "https://jobs.ashbyhq.com/cradlebio/cbf8f13a-0606-4553-bc3c-2d18ece58b2a",
-          "location": "US East (Remote)",
-          "publishedAt": "2026-04-10T10:04:01.998+00:00",
-          "team": "Sales",
-          "title": "Solutions Consultant, Machine Learning"
+          "id": "49726418-ca77-4370-aa69-6e8d1eb42ddf",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/49726418-ca77-4370-aa69-6e8d1eb42ddf",
+          "location": "Berlin Office",
+          "publishedAt": "2026-04-10T14:45:05.123+00:00",
+          "team": "Support Engineering",
+          "title": "Junior Support Engineer (EMEA)"
         }
       ]
     },
     {
-      "board": "dash0",
+      "board": "ashby",
       "jobs": [
         {
-          "department": "Engineering / R&D",
-          "id": "22fc8d57-5d22-4510-83ba-7147362657a6",
-          "jobUrl": "https://jobs.ashbyhq.com/dash0/22fc8d57-5d22-4510-83ba-7147362657a6",
-          "location": "EMEA - Remote",
-          "publishedAt": "2026-04-10T07:51:43.488+00:00",
-          "team": "Engineering / R&D",
-          "title": "Senior Product Engineer - Backend (General / Flex)"
+          "department": "Customer Success",
+          "id": "bf3a9621-0ff5-4f6a-a90d-081562d4dad2",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/bf3a9621-0ff5-4f6a-a90d-081562d4dad2",
+          "location": "Remote - North to South America",
+          "publishedAt": "2026-04-10T18:34:55.792+00:00",
+          "team": "Customer Support",
+          "title": "Director of Support Engineering - Americas "
         },
         {
-          "department": "Engineering / R&D",
-          "id": "96c6e13c-fc8e-46e5-a749-b3c30746fc21",
-          "jobUrl": "https://jobs.ashbyhq.com/dash0/96c6e13c-fc8e-46e5-a749-b3c30746fc21",
-          "location": "EMEA - Remote",
-          "publishedAt": "2026-04-10T07:49:20.242+00:00",
-          "team": "Engineering / R&D",
-          "title": "Senior Product Engineer, Backend (Node.js + Go)"
+          "department": "Sales",
+          "id": "e1eba70b-51ae-422c-ae5d-a36bc5d72441",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/e1eba70b-51ae-422c-ae5d-a36bc5d72441",
+          "location": "Remote - Europe",
+          "publishedAt": "2026-04-10T18:30:57.126+00:00",
+          "team": "Solutions Engineering",
+          "title": "Solutions Engineer - DACH"
         },
         {
-          "department": "Engineering / R&D",
-          "id": "bb433d72-7241-49b4-acfb-a6a403f9422c",
-          "jobUrl": "https://jobs.ashbyhq.com/dash0/bb433d72-7241-49b4-acfb-a6a403f9422c",
-          "location": "EMEA - Remote",
-          "publishedAt": "2026-04-10T07:48:08.147+00:00",
-          "team": "Engineering / R&D",
-          "title": "Senior Product Engineer, Frontend (React, TypeScript)"
+          "department": "Customer Success",
+          "id": "46998ea2-cea7-47c0-9812-238f161b6fc7",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/46998ea2-cea7-47c0-9812-238f161b6fc7",
+          "location": "Remote - North to South America",
+          "publishedAt": "2026-03-19T15:01:46.016+00:00",
+          "team": "Customer Support",
+          "title": "Support Manager - Americas"
+        },
+        {
+          "department": "Customer Success",
+          "id": "5bd4b700-1969-4c18-8020-a382de524672",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/5bd4b700-1969-4c18-8020-a382de524672",
+          "location": "Australia",
+          "publishedAt": "2026-01-30T14:53:41.965+00:00",
+          "team": "Customer Support",
+          "title": "Manager, Product Support - APAC"
+        }
+      ]
+    },
+    {
+      "board": "1password",
+      "jobs": [
+        {
+          "department": "Technology",
+          "id": "9f10bf0f-615b-4da7-8439-94c72293d3fd",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/9f10bf0f-615b-4da7-8439-94c72293d3fd",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-04-10T19:29:11.842+00:00",
+          "team": "Product Engineering",
+          "title": "Engineering Manager, Billing Scale"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-04-10T14:42:36.831741+00:00"
+  "scannedAtUtc": "2026-04-11T06:54:22.857929+00:00"
 }

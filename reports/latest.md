@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-04-10T14:42:36.831741+00:00
+- **Scanned at (UTC):** 2026-04-11T06:54:22.857929+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 4
+- **New jobs found:** 6
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -10,27 +10,27 @@
 
 | Board | New jobs |
 |---|---:|
-| n8n | 0 |
+| n8n | 1 |
 | reedsy | 0 |
 | mazehq | 0 |
 | supabase | 0 |
 | nango | 0 |
 | axelera | 0 |
-| ashby | 0 |
+| ashby | 4 |
 | cargo-one | 0 |
 | gt-hq | 0 |
 | dourolabs.xyz | 0 |
 | everai | 0 |
 | toogeza | 0 |
 | enode | 0 |
-| cradlebio | 1 |
+| cradlebio | 0 |
 | sardine | 0 |
 | rerun | 0 |
 | splitmetrics | 0 |
 | oh | 0 |
 | substack | 0 |
-| dash0 | 3 |
-| 1password | 0 |
+| dash0 | 0 |
+| 1password | 1 |
 | incard | 0 |
 | atomic-invest | 0 |
 | chronospherejobs | 0 |
@@ -40,13 +40,18 @@
 
 ## New jobs
 
-### cradlebio
+### n8n
 
-- [Solutions Consultant, Machine Learning](https://jobs.ashbyhq.com/cradlebio/cbf8f13a-0606-4553-bc3c-2d18ece58b2a) — US East (Remote) — 2026-04-10T10:04:01.998+00:00
+- [Junior Support Engineer (EMEA)](https://jobs.ashbyhq.com/n8n/49726418-ca77-4370-aa69-6e8d1eb42ddf) — Berlin Office — 2026-04-10T14:45:05.123+00:00
 
-### dash0
+### ashby
 
-- [Senior Product Engineer - Backend (General / Flex)](https://jobs.ashbyhq.com/dash0/22fc8d57-5d22-4510-83ba-7147362657a6) — EMEA - Remote — 2026-04-10T07:51:43.488+00:00
-- [Senior Product Engineer, Backend (Node.js + Go)](https://jobs.ashbyhq.com/dash0/96c6e13c-fc8e-46e5-a749-b3c30746fc21) — EMEA - Remote — 2026-04-10T07:49:20.242+00:00
-- [Senior Product Engineer, Frontend (React, TypeScript)](https://jobs.ashbyhq.com/dash0/bb433d72-7241-49b4-acfb-a6a403f9422c) — EMEA - Remote — 2026-04-10T07:48:08.147+00:00
+- [Director of Support Engineering - Americas](https://jobs.ashbyhq.com/ashby/bf3a9621-0ff5-4f6a-a90d-081562d4dad2) — Remote - North to South America — 2026-04-10T18:34:55.792+00:00
+- [Solutions Engineer - DACH](https://jobs.ashbyhq.com/ashby/e1eba70b-51ae-422c-ae5d-a36bc5d72441) — Remote - Europe — 2026-04-10T18:30:57.126+00:00
+- [Support Manager - Americas](https://jobs.ashbyhq.com/ashby/46998ea2-cea7-47c0-9812-238f161b6fc7) — Remote - North to South America — 2026-03-19T15:01:46.016+00:00
+- [Manager, Product Support - APAC](https://jobs.ashbyhq.com/ashby/5bd4b700-1969-4c18-8020-a382de524672) — Australia — 2026-01-30T14:53:41.965+00:00
+
+### 1password
+
+- [Engineering Manager, Billing Scale](https://jobs.ashbyhq.com/1password/9f10bf0f-615b-4da7-8439-94c72293d3fd) — Remote (United States | Canada) — 2026-04-10T19:29:11.842+00:00
 
