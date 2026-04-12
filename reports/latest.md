@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-04-12T07:06:30.484827+00:00
+- **Scanned at (UTC):** 2026-04-12T14:35:23.669335+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 1
+- **New jobs found:** 0
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -16,7 +16,7 @@
 | supabase | 0 |
 | nango | 0 |
 | axelera | 0 |
-| ashby | 1 |
+| ashby | 0 |
 | cargo-one | 0 |
 | gt-hq | 0 |
 | dourolabs.xyz | 0 |
@@ -40,7 +40,5 @@
 
 ## New jobs
 
-### ashby
-
-- [Global Head of Renewals](https://jobs.ashbyhq.com/ashby/99eff99f-1232-4af2-b0ae-06508167ce18) — Remote - North America — 2026-04-12T02:40:19.521+00:00
+_No new jobs found._
 

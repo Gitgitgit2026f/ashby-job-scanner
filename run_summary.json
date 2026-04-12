@@ -1,21 +1,6 @@
 {
   "errors": [],
   "firstRun": false,
-  "new": [
-    {
-      "board": "ashby",
-      "jobs": [
-        {
-          "department": "Customer Success",
-          "id": "99eff99f-1232-4af2-b0ae-06508167ce18",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/99eff99f-1232-4af2-b0ae-06508167ce18",
-          "location": "Remote - North America",
-          "publishedAt": "2026-04-12T02:40:19.521+00:00",
-          "team": "Contract Management",
-          "title": "Global Head of Renewals"
-        }
-      ]
-    }
-  ],
-  "scannedAtUtc": "2026-04-12T07:06:30.484827+00:00"
+  "new": [],
+  "scannedAtUtc": "2026-04-12T14:35:23.669335+00:00"
 }
