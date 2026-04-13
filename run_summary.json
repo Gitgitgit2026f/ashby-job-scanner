@@ -3,19 +3,47 @@
   "firstRun": false,
   "new": [
     {
-      "board": "splitmetrics",
+      "board": "n8n",
       "jobs": [
         {
           "department": "Engineering",
-          "id": "9b7eb345-e9fe-40ad-acb4-4bfb9b05372d",
-          "jobUrl": "https://jobs.ashbyhq.com/splitmetrics/9b7eb345-e9fe-40ad-acb4-4bfb9b05372d",
-          "location": "Remote - Europe Time Zones",
-          "publishedAt": "2026-04-13T03:51:32.735+00:00",
+          "id": "f814f5ce-b615-413d-bbe0-b5786b3872e9",
+          "jobUrl": "https://jobs.ashbyhq.com/n8n/f814f5ce-b615-413d-bbe0-b5786b3872e9",
+          "location": "Berlin Office",
+          "publishedAt": "2026-04-13T09:32:19.081+00:00",
           "team": "Engineering",
-          "title": "Full-stack Engineer"
+          "title": "Engineering Manager | Remote | Europe "
+        }
+      ]
+    },
+    {
+      "board": "ashby",
+      "jobs": [
+        {
+          "department": "Customer Success",
+          "id": "3dfc4bf1-7ccc-4ca6-a07c-91016a5ebc2e",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/3dfc4bf1-7ccc-4ca6-a07c-91016a5ebc2e",
+          "location": "Remote - Europe",
+          "publishedAt": "2026-01-26T16:32:30.974+00:00",
+          "team": "Professional Services",
+          "title": "Integrations Consultant - EMEA"
+        }
+      ]
+    },
+    {
+      "board": "cradlebio",
+      "jobs": [
+        {
+          "department": "Biology",
+          "id": "9dce87b6-16d7-41b4-bfd6-ab8cdef3ba47",
+          "jobUrl": "https://jobs.ashbyhq.com/cradlebio/9dce87b6-16d7-41b4-bfd6-ab8cdef3ba47",
+          "location": "Amsterdam",
+          "publishedAt": "2026-04-13T10:55:38.454+00:00",
+          "team": "Biology",
+          "title": "Scientist, Large Libraries"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-04-13T07:53:23.998848+00:00"
+  "scannedAtUtc": "2026-04-13T15:09:20.702405+00:00"
 }
