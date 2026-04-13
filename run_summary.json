@@ -1,6 +1,21 @@
 {
   "errors": [],
   "firstRun": false,
-  "new": [],
-  "scannedAtUtc": "2026-04-12T14:35:23.669335+00:00"
+  "new": [
+    {
+      "board": "splitmetrics",
+      "jobs": [
+        {
+          "department": "Engineering",
+          "id": "9b7eb345-e9fe-40ad-acb4-4bfb9b05372d",
+          "jobUrl": "https://jobs.ashbyhq.com/splitmetrics/9b7eb345-e9fe-40ad-acb4-4bfb9b05372d",
+          "location": "Remote - Europe Time Zones",
+          "publishedAt": "2026-04-13T03:51:32.735+00:00",
+          "team": "Engineering",
+          "title": "Full-stack Engineer"
+        }
+      ]
+    }
+  ],
+  "scannedAtUtc": "2026-04-13T07:53:23.998848+00:00"
 }

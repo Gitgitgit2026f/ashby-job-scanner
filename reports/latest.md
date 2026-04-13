@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-04-12T14:35:23.669335+00:00
+- **Scanned at (UTC):** 2026-04-13T07:53:23.998848+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 0
+- **New jobs found:** 1
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -26,7 +26,7 @@
 | cradlebio | 0 |
 | sardine | 0 |
 | rerun | 0 |
-| splitmetrics | 0 |
+| splitmetrics | 1 |
 | oh | 0 |
 | substack | 0 |
 | dash0 | 0 |
@@ -40,5 +40,7 @@
 
 ## New jobs
 
-_No new jobs found._
+### splitmetrics
+
+- [Full-stack Engineer](https://jobs.ashbyhq.com/splitmetrics/9b7eb345-e9fe-40ad-acb4-4bfb9b05372d) — Remote - Europe Time Zones — 2026-04-13T03:51:32.735+00:00
 
