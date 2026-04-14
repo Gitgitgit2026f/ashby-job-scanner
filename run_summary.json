@@ -3,47 +3,19 @@
   "firstRun": false,
   "new": [
     {
-      "board": "n8n",
+      "board": "1password",
       "jobs": [
         {
-          "department": "Engineering",
-          "id": "f814f5ce-b615-413d-bbe0-b5786b3872e9",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/f814f5ce-b615-413d-bbe0-b5786b3872e9",
-          "location": "Berlin Office",
-          "publishedAt": "2026-04-13T09:32:19.081+00:00",
-          "team": "Engineering",
-          "title": "Engineering Manager | Remote | Europe "
-        }
-      ]
-    },
-    {
-      "board": "ashby",
-      "jobs": [
-        {
-          "department": "Customer Success",
-          "id": "3dfc4bf1-7ccc-4ca6-a07c-91016a5ebc2e",
-          "jobUrl": "https://jobs.ashbyhq.com/ashby/3dfc4bf1-7ccc-4ca6-a07c-91016a5ebc2e",
-          "location": "Remote - Europe",
-          "publishedAt": "2026-01-26T16:32:30.974+00:00",
-          "team": "Professional Services",
-          "title": "Integrations Consultant - EMEA"
-        }
-      ]
-    },
-    {
-      "board": "cradlebio",
-      "jobs": [
-        {
-          "department": "Biology",
-          "id": "9dce87b6-16d7-41b4-bfd6-ab8cdef3ba47",
-          "jobUrl": "https://jobs.ashbyhq.com/cradlebio/9dce87b6-16d7-41b4-bfd6-ab8cdef3ba47",
-          "location": "Amsterdam",
-          "publishedAt": "2026-04-13T10:55:38.454+00:00",
-          "team": "Biology",
-          "title": "Scientist, Large Libraries"
+          "department": "GTM",
+          "id": "b392b70e-ed8b-4fe0-acb3-1b1e4f3339fa",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/b392b70e-ed8b-4fe0-acb3-1b1e4f3339fa",
+          "location": "Austin, TX",
+          "publishedAt": "2026-04-13T18:47:18.746+00:00",
+          "team": "BDR",
+          "title": "Senior Manager, Business Development"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-04-13T15:09:20.702405+00:00"
+  "scannedAtUtc": "2026-04-14T07:22:23.812944+00:00"
 }
