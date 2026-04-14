@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-04-14T07:22:23.812944+00:00
+- **Scanned at (UTC):** 2026-04-14T15:07:07.826327+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 1
+- **New jobs found:** 2
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -21,7 +21,7 @@
 | gt-hq | 0 |
 | dourolabs.xyz | 0 |
 | everai | 0 |
-| toogeza | 0 |
+| toogeza | 2 |
 | enode | 0 |
 | cradlebio | 0 |
 | sardine | 0 |
@@ -30,7 +30,7 @@
 | oh | 0 |
 | substack | 0 |
 | dash0 | 0 |
-| 1password | 1 |
+| 1password | 0 |
 | incard | 0 |
 | atomic-invest | 0 |
 | chronospherejobs | 0 |
@@ -40,7 +40,8 @@
 
 ## New jobs
 
-### 1password
+### toogeza
 
-- [Senior Manager, Business Development](https://jobs.ashbyhq.com/1password/b392b70e-ed8b-4fe0-acb3-1b1e4f3339fa) — Austin, TX — 2026-04-13T18:47:18.746+00:00
+- [Creative Producer for Kidology](https://jobs.ashbyhq.com/toogeza/0545e1a5-787a-4457-b32c-da7bca2d3ed8) — Europe — 2026-04-14T10:28:43.934+00:00
+- [Lawyer](https://jobs.ashbyhq.com/toogeza/fb092950-1f12-4230-8f7a-1ec21b353d7d) — Kyiv — 2026-04-14T07:34:28.258+00:00
 
