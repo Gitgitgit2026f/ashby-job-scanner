@@ -1,6 +1,378 @@
 {
   "errors": [],
   "firstRun": false,
-  "new": [],
-  "scannedAtUtc": "2026-04-15T07:22:50.393341+00:00"
+  "new": [
+    {
+      "board": "gt-hq",
+      "jobs": [
+        {
+          "department": "Feeld",
+          "id": "f2cdfde7-b133-4eb2-bb92-d06a651fde7a",
+          "jobUrl": "https://jobs.ashbyhq.com/gt-hq/f2cdfde7-b133-4eb2-bb92-d06a651fde7a",
+          "location": "Europe - Remote",
+          "publishedAt": "2026-04-15T08:43:21.351+00:00",
+          "team": "Feeld",
+          "title": "Senior QE Automation Engineer (Mobile) | Feeld, UK"
+        }
+      ]
+    },
+    {
+      "board": "everai",
+      "jobs": [
+        {
+          "department": "Growth",
+          "id": "02ad6810-f9df-49fd-acd0-4ea292f6d8ab",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/02ad6810-f9df-49fd-acd0-4ea292f6d8ab",
+          "location": "Estonia",
+          "publishedAt": "2026-04-15T10:57:35.723+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Estonia)"
+        },
+        {
+          "department": "Growth",
+          "id": "f2f03817-63b1-4155-a463-cf1a1cf69d85",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/f2f03817-63b1-4155-a463-cf1a1cf69d85",
+          "location": "Finland",
+          "publishedAt": "2026-04-15T10:55:43.446+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Finland)"
+        },
+        {
+          "department": "Growth",
+          "id": "bb3fe3d3-b6eb-40af-9ab6-35aad27e672b",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/bb3fe3d3-b6eb-40af-9ab6-35aad27e672b",
+          "location": "France",
+          "publishedAt": "2026-04-15T10:55:05.233+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - France)"
+        },
+        {
+          "department": "Growth",
+          "id": "b49f9434-3b4a-4941-931b-0f88a2714847",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/b49f9434-3b4a-4941-931b-0f88a2714847",
+          "location": "Georgia",
+          "publishedAt": "2026-04-15T10:53:20.216+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Georgia)"
+        },
+        {
+          "department": "Growth",
+          "id": "1251d29e-c1b2-42d8-ae75-d94515720776",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/1251d29e-c1b2-42d8-ae75-d94515720776",
+          "location": "Germany",
+          "publishedAt": "2026-04-15T10:52:51.651+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Germany)"
+        },
+        {
+          "department": "Growth",
+          "id": "606a091a-15d7-485d-8232-2f5386625a96",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/606a091a-15d7-485d-8232-2f5386625a96",
+          "location": "Gibraltar",
+          "publishedAt": "2026-04-15T10:51:57.209+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Gibraltar)"
+        },
+        {
+          "department": "Growth",
+          "id": "2859e2ec-639a-42e9-9076-417483fd7343",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/2859e2ec-639a-42e9-9076-417483fd7343",
+          "location": "Greece",
+          "publishedAt": "2026-04-15T10:51:29.598+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Greece)"
+        },
+        {
+          "department": "Growth",
+          "id": "39ee14e7-876e-49a8-86a7-243bdc920a40",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/39ee14e7-876e-49a8-86a7-243bdc920a40",
+          "location": "Hungary",
+          "publishedAt": "2026-04-15T10:51:03.535+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Hungary)"
+        },
+        {
+          "department": "Growth",
+          "id": "c5ba678e-d6eb-4514-850c-b6008ac61eb4",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/c5ba678e-d6eb-4514-850c-b6008ac61eb4",
+          "location": "Ireland",
+          "publishedAt": "2026-04-15T10:50:36.485+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Ireland)"
+        },
+        {
+          "department": "Growth",
+          "id": "1d75ba3c-669a-4879-a6c8-224be28a82b2",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/1d75ba3c-669a-4879-a6c8-224be28a82b2",
+          "location": "Italy",
+          "publishedAt": "2026-04-15T10:50:07.318+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Italy)"
+        },
+        {
+          "department": "Growth",
+          "id": "cbac83a6-20b8-4f4d-b88e-01530ce882ca",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/cbac83a6-20b8-4f4d-b88e-01530ce882ca",
+          "location": "Latvia",
+          "publishedAt": "2026-04-15T10:49:06.326+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Latvia)"
+        },
+        {
+          "department": "Growth",
+          "id": "b47eba7d-b137-4846-880a-a956f64e23b0",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/b47eba7d-b137-4846-880a-a956f64e23b0",
+          "location": "Lithuania",
+          "publishedAt": "2026-04-15T10:48:43.454+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Lithuania)"
+        },
+        {
+          "department": "Growth",
+          "id": "07705812-2699-4edb-bd5f-a97c059b962f",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/07705812-2699-4edb-bd5f-a97c059b962f",
+          "location": "Luxembourg",
+          "publishedAt": "2026-04-15T10:46:54.688+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Luxembourg)"
+        },
+        {
+          "department": "Growth",
+          "id": "080bd214-4ce6-4dac-b5cd-07ac57845f86",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/080bd214-4ce6-4dac-b5cd-07ac57845f86",
+          "location": "Malta",
+          "publishedAt": "2026-04-15T10:46:28.829+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Malta)"
+        },
+        {
+          "department": "Growth",
+          "id": "efcd5c3e-487e-4387-a6bd-e1cc4e83432c",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/efcd5c3e-487e-4387-a6bd-e1cc4e83432c",
+          "location": "Moldova",
+          "publishedAt": "2026-04-15T10:45:12.114+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Moldova)"
+        },
+        {
+          "department": "Growth",
+          "id": "9c5a41ee-47e0-4e15-aa05-ff2502082b1b",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/9c5a41ee-47e0-4e15-aa05-ff2502082b1b",
+          "location": "Montenegro",
+          "publishedAt": "2026-04-15T10:44:43.373+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Montenegro)"
+        },
+        {
+          "department": "Growth",
+          "id": "f6ce0267-2918-4235-aba9-439c40f49452",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/f6ce0267-2918-4235-aba9-439c40f49452",
+          "location": "Netherlands",
+          "publishedAt": "2026-04-15T10:38:22.891+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Netherlands)"
+        },
+        {
+          "department": "Growth",
+          "id": "79c6ba90-4f3c-49e1-8c28-414c72a3d58a",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/79c6ba90-4f3c-49e1-8c28-414c72a3d58a",
+          "location": "North Macedonia",
+          "publishedAt": "2026-04-15T10:37:46.364+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - North Macedonia)"
+        },
+        {
+          "department": "Growth",
+          "id": "1524e38c-a269-4d3d-a608-fb22f0407057",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/1524e38c-a269-4d3d-a608-fb22f0407057",
+          "location": "Norway",
+          "publishedAt": "2026-04-15T10:37:22.562+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Norway)"
+        },
+        {
+          "department": "Growth",
+          "id": "6ac4ebaf-2596-45e3-857d-0066ad060d7d",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/6ac4ebaf-2596-45e3-857d-0066ad060d7d",
+          "location": "Poland",
+          "publishedAt": "2026-04-15T10:36:32.212+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Poland)"
+        },
+        {
+          "department": "Growth",
+          "id": "0ca6e944-0902-474e-ad6f-f84a0e8c7585",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/0ca6e944-0902-474e-ad6f-f84a0e8c7585",
+          "location": "Portugal",
+          "publishedAt": "2026-04-15T10:31:45.981+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Portugal)"
+        },
+        {
+          "department": "Growth",
+          "id": "9331a98c-73fd-4824-9e26-2b6e055edf08",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/9331a98c-73fd-4824-9e26-2b6e055edf08",
+          "location": "Romania",
+          "publishedAt": "2026-04-15T10:28:59.904+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Romania)"
+        },
+        {
+          "department": "Growth",
+          "id": "31721d52-275b-4a62-a136-9377be6f8bf1",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/31721d52-275b-4a62-a136-9377be6f8bf1",
+          "location": "Serbia",
+          "publishedAt": "2026-04-15T10:28:37.155+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Serbia)"
+        },
+        {
+          "department": "Growth",
+          "id": "1c002084-6f8e-4326-aa47-007d58d6528a",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/1c002084-6f8e-4326-aa47-007d58d6528a",
+          "location": "Slovakia",
+          "publishedAt": "2026-04-15T10:28:12.452+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Slovakia)"
+        },
+        {
+          "department": "Growth",
+          "id": "fc97c720-0dc4-44cd-a069-15f37b343046",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/fc97c720-0dc4-44cd-a069-15f37b343046",
+          "location": "Slovenia",
+          "publishedAt": "2026-04-15T10:27:24.587+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Slovenia)"
+        },
+        {
+          "department": "Growth",
+          "id": "896ab538-f8c6-40c4-b56a-37e9ba74c71b",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/896ab538-f8c6-40c4-b56a-37e9ba74c71b",
+          "location": "Spain",
+          "publishedAt": "2026-04-15T10:26:46.021+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Spain)"
+        },
+        {
+          "department": "Growth",
+          "id": "4866780a-aa72-4133-a66b-40d03e655400",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/4866780a-aa72-4133-a66b-40d03e655400",
+          "location": "Sweden",
+          "publishedAt": "2026-04-15T10:26:27.662+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Sweden)"
+        },
+        {
+          "department": "Growth",
+          "id": "3c520f5f-51d0-4889-bfa3-7c14eec960f4",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/3c520f5f-51d0-4889-bfa3-7c14eec960f4",
+          "location": "Switzerland",
+          "publishedAt": "2026-04-15T10:26:04.325+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Switzerland)"
+        },
+        {
+          "department": "Growth",
+          "id": "56b8b5fb-1401-4bd8-8eb4-b9e54f425815",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/56b8b5fb-1401-4bd8-8eb4-b9e54f425815",
+          "location": "Ukraine",
+          "publishedAt": "2026-04-15T10:25:01.340+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Ukraine)"
+        },
+        {
+          "department": "Growth",
+          "id": "5f8e1508-5965-42aa-ba66-5ef7fda971f9",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/5f8e1508-5965-42aa-ba66-5ef7fda971f9",
+          "location": "United States of America",
+          "publishedAt": "2026-04-15T10:24:33.859+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - USA)"
+        },
+        {
+          "department": "Growth",
+          "id": "a1934e80-b38a-40c6-84d8-81752607fcca",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/a1934e80-b38a-40c6-84d8-81752607fcca",
+          "location": "Canada",
+          "publishedAt": "2026-04-15T10:23:29.659+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Canada)"
+        },
+        {
+          "department": "Growth",
+          "id": "d9904e1d-3a56-49d1-b29d-c3353d77d1de",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/d9904e1d-3a56-49d1-b29d-c3353d77d1de",
+          "location": "Argentina",
+          "publishedAt": "2026-04-15T10:22:43.927+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Argentina)"
+        },
+        {
+          "department": "Growth",
+          "id": "461df948-29b2-4ce8-939f-4581952411b7",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/461df948-29b2-4ce8-939f-4581952411b7",
+          "location": "Brazil",
+          "publishedAt": "2026-04-15T10:22:17.152+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Brazil)"
+        },
+        {
+          "department": "Growth",
+          "id": "1e4abb06-791f-4821-8765-27e11963916e",
+          "jobUrl": "https://jobs.ashbyhq.com/everai/1e4abb06-791f-4821-8765-27e11963916e",
+          "location": "Peru",
+          "publishedAt": "2026-04-15T10:21:47.390+00:00",
+          "team": "Adult Marketing",
+          "title": "Mid/Senior Marketing Video Artist (Full Remote - Peru)"
+        }
+      ]
+    },
+    {
+      "board": "dash0",
+      "jobs": [
+        {
+          "department": "Engineering / R&D",
+          "id": "9c68e515-e83f-4f09-8bbd-a753fcdf0506",
+          "jobUrl": "https://jobs.ashbyhq.com/dash0/9c68e515-e83f-4f09-8bbd-a753fcdf0506",
+          "location": "EMEA - Remote",
+          "publishedAt": "2026-04-15T08:20:56.057+00:00",
+          "team": "Engineering / R&D",
+          "title": "Principal Product Engineer"
+        }
+      ]
+    },
+    {
+      "board": "incard",
+      "jobs": [
+        {
+          "department": "Sales",
+          "id": "b269f0ae-115c-494f-bfba-43a9c16f530b",
+          "jobUrl": "https://jobs.ashbyhq.com/incard/b269f0ae-115c-494f-bfba-43a9c16f530b",
+          "location": "London",
+          "publishedAt": "2026-04-15T11:39:19.524+00:00",
+          "team": "Sales",
+          "title": "Account manager"
+        },
+        {
+          "department": "Sales",
+          "id": "ae0eab77-0459-43cd-a545-d49f81b608a5",
+          "jobUrl": "https://jobs.ashbyhq.com/incard/ae0eab77-0459-43cd-a545-d49f81b608a5",
+          "location": "London",
+          "publishedAt": "2026-04-15T11:37:53.344+00:00",
+          "team": "Sales",
+          "title": "Account Activation Specialist"
+        },
+        {
+          "department": "Sales",
+          "id": "3712d7c1-fd4f-40a9-b490-e32810e880fa",
+          "jobUrl": "https://jobs.ashbyhq.com/incard/3712d7c1-fd4f-40a9-b490-e32810e880fa",
+          "location": "London",
+          "publishedAt": "2026-04-15T11:36:39.597+00:00",
+          "team": "Sales",
+          "title": "New Business Account Executive"
+        }
+      ]
+    }
+  ],
+  "scannedAtUtc": "2026-04-15T15:00:03.432588+00:00"
 }
