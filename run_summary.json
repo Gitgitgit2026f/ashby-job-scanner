@@ -1,30 +1,6 @@
 {
   "errors": [],
   "firstRun": false,
-  "new": [
-    {
-      "board": "toogeza",
-      "jobs": [
-        {
-          "department": "Creative",
-          "id": "0545e1a5-787a-4457-b32c-da7bca2d3ed8",
-          "jobUrl": "https://jobs.ashbyhq.com/toogeza/0545e1a5-787a-4457-b32c-da7bca2d3ed8",
-          "location": "Europe",
-          "publishedAt": "2026-04-14T10:28:43.934+00:00",
-          "team": "Creative",
-          "title": "Creative Producer for Kidology"
-        },
-        {
-          "department": "Legal",
-          "id": "fb092950-1f12-4230-8f7a-1ec21b353d7d",
-          "jobUrl": "https://jobs.ashbyhq.com/toogeza/fb092950-1f12-4230-8f7a-1ec21b353d7d",
-          "location": "Kyiv",
-          "publishedAt": "2026-04-14T07:34:28.258+00:00",
-          "team": "Legal",
-          "title": "Lawyer"
-        }
-      ]
-    }
-  ],
-  "scannedAtUtc": "2026-04-14T15:07:07.826327+00:00"
+  "new": [],
+  "scannedAtUtc": "2026-04-15T07:22:50.393341+00:00"
 }

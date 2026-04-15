@@ -1,8 +1,8 @@
 # Ashby scan report
 
-- **Scanned at (UTC):** 2026-04-14T15:07:07.826327+00:00
+- **Scanned at (UTC):** 2026-04-15T07:22:50.393341+00:00
 - **Boards scanned:** 27
-- **New jobs found:** 2
+- **New jobs found:** 0
 - **Errors:** 0
 - **First run (baseline):** no
 
@@ -21,7 +21,7 @@
 | gt-hq | 0 |
 | dourolabs.xyz | 0 |
 | everai | 0 |
-| toogeza | 2 |
+| toogeza | 0 |
 | enode | 0 |
 | cradlebio | 0 |
 | sardine | 0 |
@@ -40,8 +40,5 @@
 
 ## New jobs
 
-### toogeza
-
-- [Creative Producer for Kidology](https://jobs.ashbyhq.com/toogeza/0545e1a5-787a-4457-b32c-da7bca2d3ed8) — Europe — 2026-04-14T10:28:43.934+00:00
-- [Lawyer](https://jobs.ashbyhq.com/toogeza/fb092950-1f12-4230-8f7a-1ec21b353d7d) — Kyiv — 2026-04-14T07:34:28.258+00:00
+_No new jobs found._
 
