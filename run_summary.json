@@ -3,98 +3,16 @@
   "firstRun": false,
   "new": [
     {
-      "board": "everai",
+      "board": "ashby",
       "jobs": [
         {
-          "department": "Growth",
-          "id": "9bfaad64-cb31-4817-bed0-70ec6e4bf812",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/9bfaad64-cb31-4817-bed0-70ec6e4bf812",
-          "location": "Colombia",
-          "publishedAt": "2026-04-17T09:16:45.910+00:00",
-          "team": "Adult Marketing",
-          "title": "Mid/Senior Marketing Video Artist (Full Remote - Colombia)"
-        },
-        {
-          "department": "Growth",
-          "id": "f30d6747-4f0f-4ea8-a4a6-931f8b7cc445",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/f30d6747-4f0f-4ea8-a4a6-931f8b7cc445",
-          "location": "Bolivia",
-          "publishedAt": "2026-04-17T09:16:16.801+00:00",
-          "team": "Adult Marketing",
-          "title": "Mid/Senior Marketing Video Artist (Full Remote - Bolivia)"
-        },
-        {
-          "department": "Growth",
-          "id": "be20fab6-f289-4eed-abca-62d91d95a764",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/be20fab6-f289-4eed-abca-62d91d95a764",
-          "location": "Ecuador",
-          "publishedAt": "2026-04-17T09:15:45.233+00:00",
-          "team": "Adult Marketing",
-          "title": "Mid/Senior Marketing Video Artist (Full Remote - Ecuador)"
-        },
-        {
-          "department": "Growth",
-          "id": "872dc90a-57a6-4277-9228-56289dd1d974",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/872dc90a-57a6-4277-9228-56289dd1d974",
-          "location": "Puerto Rico",
-          "publishedAt": "2026-04-17T09:15:04.856+00:00",
-          "team": "Adult Marketing",
-          "title": "Mid/Senior Marketing Video Artist (Full Remote - Puerto Rico)"
-        },
-        {
-          "department": "Growth",
-          "id": "4ed474a6-d895-417b-810f-a95250336209",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/4ed474a6-d895-417b-810f-a95250336209",
-          "location": "Dominican Republic",
-          "publishedAt": "2026-04-17T09:14:31.852+00:00",
-          "team": "Adult Marketing",
-          "title": "Mid/Senior Marketing Video Artist (Full Remote - Dominican Republic)"
-        },
-        {
-          "department": "Growth",
-          "id": "93e65b7b-4052-407f-931a-5599a88ce29c",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/93e65b7b-4052-407f-931a-5599a88ce29c",
-          "location": "Costa Rica",
-          "publishedAt": "2026-04-17T09:14:02.111+00:00",
-          "team": "Adult Marketing",
-          "title": "Mid/Senior Marketing Video Artist (Full Remote - Costa Rica)"
-        },
-        {
-          "department": "Growth",
-          "id": "df4b0984-251f-490a-a873-145718b8545f",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/df4b0984-251f-490a-a873-145718b8545f",
-          "location": "Mexico",
-          "publishedAt": "2026-04-17T09:13:26.603+00:00",
-          "team": "Adult Marketing",
-          "title": "Mid/Senior Marketing Video Artist (Full Remote - Mexico)"
-        }
-      ]
-    },
-    {
-      "board": "toogeza",
-      "jobs": [
-        {
-          "department": "Marketing",
-          "id": "ba1729e1-2d10-4d21-bdaf-ddce4ff9c2d6",
-          "jobUrl": "https://jobs.ashbyhq.com/toogeza/ba1729e1-2d10-4d21-bdaf-ddce4ff9c2d6",
-          "location": "Europe",
-          "publishedAt": "2026-04-17T14:00:32.127+00:00",
-          "team": "Marketing",
-          "title": "Product Marketing Manager (Stylio)"
-        }
-      ]
-    },
-    {
-      "board": "dash0",
-      "jobs": [
-        {
-          "department": "G&A",
-          "id": "dc02edfc-f509-4f4f-86e4-1d002fd5fbe3",
-          "jobUrl": "https://jobs.ashbyhq.com/dash0/dc02edfc-f509-4f4f-86e4-1d002fd5fbe3",
-          "location": "East Coast - remote",
-          "publishedAt": "2026-04-17T10:56:58.173+00:00",
-          "team": "Finance",
-          "title": "Senior Strategic Finance Manger"
+          "department": "Legal",
+          "id": "06408097-75e6-41d2-a431-94fd9f9b6822",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/06408097-75e6-41d2-a431-94fd9f9b6822",
+          "location": "Remote - US",
+          "publishedAt": "2026-04-17T19:17:25.779+00:00",
+          "team": "Legal",
+          "title": "Legal Ops Manager"
         }
       ]
     },
@@ -102,13 +20,31 @@
       "board": "1password",
       "jobs": [
         {
+          "department": "Technology",
+          "id": "4cfbdbbf-fe20-4dd4-8b4e-2912e4711122",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/4cfbdbbf-fe20-4dd4-8b4e-2912e4711122",
+          "location": "Remote (United States | Canada)",
+          "publishedAt": "2026-04-17T17:53:23.697+00:00",
+          "team": "Security",
+          "title": "Senior Security Engineer, Vulnerability Management"
+        },
+        {
           "department": "GTM",
-          "id": "9fe6dc3b-23e7-498e-bb4b-bbeb7ecbb931",
-          "jobUrl": "https://jobs.ashbyhq.com/1password/9fe6dc3b-23e7-498e-bb4b-bbeb7ecbb931",
-          "location": "Remote UK",
-          "publishedAt": "2026-04-17T14:29:23.917+00:00",
-          "team": "Customer Success",
-          "title": "Solutions Engineer, Enterprise"
+          "id": "d334527b-ff26-4002-a872-ab64c016230f",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/d334527b-ff26-4002-a872-ab64c016230f",
+          "location": "Chicago, IL",
+          "publishedAt": "2026-04-17T17:20:34.132+00:00",
+          "team": "Account Executive",
+          "title": "Account Executive, Enterprise - Chicago"
+        },
+        {
+          "department": "GTM",
+          "id": "dbb1f986-d140-4cc6-9760-5b718316b21a",
+          "jobUrl": "https://jobs.ashbyhq.com/1password/dbb1f986-d140-4cc6-9760-5b718316b21a",
+          "location": "Los Angeles, CA",
+          "publishedAt": "2026-04-17T17:14:39.002+00:00",
+          "team": "Account Executive",
+          "title": "Account Executive, Enterprise - Los Angeles, Orange County, San Diego"
         }
       ]
     },
@@ -116,16 +52,39 @@
       "board": "poolside",
       "jobs": [
         {
-          "department": "Engineering",
-          "id": "e9f7c7e9-e307-4cc8-8ea3-857f98b59b0b",
-          "jobUrl": "https://jobs.ashbyhq.com/poolside/e9f7c7e9-e307-4cc8-8ea3-857f98b59b0b",
-          "location": "Remote (EMEA)",
-          "publishedAt": "2026-04-17T12:49:57.017+00:00",
-          "team": "Engineering",
-          "title": "Member of Engineering (Console, Full-Stack)"
+          "department": "Applied Research",
+          "id": "df54a608-9fd9-4c09-aad1-7de71a0d487e",
+          "jobUrl": "https://jobs.ashbyhq.com/poolside/df54a608-9fd9-4c09-aad1-7de71a0d487e",
+          "location": "Remote (EMEA/East Coast)",
+          "publishedAt": "2026-04-17T14:53:01.622+00:00",
+          "team": "Applied Research",
+          "title": "Member of Engineering (Evaluations / Engineering)"
+        },
+        {
+          "department": "Applied Research",
+          "id": "ba11fe78-f6f6-4165-b76b-020a46ad8fee",
+          "jobUrl": "https://jobs.ashbyhq.com/poolside/ba11fe78-f6f6-4165-b76b-020a46ad8fee",
+          "location": "Remote (EMEA/East Coast)",
+          "publishedAt": "2026-04-17T14:52:57.953+00:00",
+          "team": "Applied Research",
+          "title": "Member of Engineering (Evaluations)"
+        }
+      ]
+    },
+    {
+      "board": "mazedesign",
+      "jobs": [
+        {
+          "department": "Operations",
+          "id": "2fc856d6-0dc3-410a-80e5-3b5f3a629ff7",
+          "jobUrl": "https://jobs.ashbyhq.com/mazedesign/2fc856d6-0dc3-410a-80e5-3b5f3a629ff7",
+          "location": "United States",
+          "publishedAt": "2026-04-17T20:26:59.658+00:00",
+          "team": "Finance",
+          "title": "Fractional Chief Financial Officer (CFO)"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-04-17T14:48:25.276628+00:00"
+  "scannedAtUtc": "2026-04-18T06:59:47.569166+00:00"
 }
