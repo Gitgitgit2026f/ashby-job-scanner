@@ -2,8 +2,8 @@ name: Scan Ashby job boards
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # 07:00 Stockholm in winter (UTC+1)
-    - cron: "0 14 * * *"  # 15:00 Stockholm in winter (UTC+1)
+    # - cron: "0 6 * * *"   # 07:00 Stockholm in winter (UTC+1)
+    # - cron: "0 14 * * *"  # 15:00 Stockholm in winter (UTC+1)
   workflow_dispatch:
 
 jobs:
