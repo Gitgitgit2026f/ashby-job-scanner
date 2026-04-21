@@ -3,327 +3,16 @@
   "firstRun": false,
   "new": [
     {
-      "board": "n8n",
+      "board": "ashby",
       "jobs": [
         {
-          "department": "Marketing",
-          "id": "47aa16e3-fb99-466c-b5d9-96f5ca1326f7",
-          "jobUrl": "https://jobs.ashbyhq.com/n8n/47aa16e3-fb99-466c-b5d9-96f5ca1326f7",
-          "location": "Europe",
-          "publishedAt": "2026-04-20T10:23:02.147+00:00",
-          "team": "Marketing",
-          "title": "Field Marketing Manager"
-        }
-      ]
-    },
-    {
-      "board": "everai",
-      "jobs": [
-        {
-          "department": "R&D",
-          "id": "3d88d14f-47f4-47a8-9a94-9f882318ea99",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/3d88d14f-47f4-47a8-9a94-9f882318ea99",
-          "location": "Finland",
-          "publishedAt": "2026-04-20T12:16:15.804+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Finland)"
-        },
-        {
-          "department": "R&D",
-          "id": "6f6bd118-5a90-4da3-8300-365eb697974a",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/6f6bd118-5a90-4da3-8300-365eb697974a",
-          "location": "Norway",
-          "publishedAt": "2026-04-20T12:15:54.297+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Norway)"
-        },
-        {
-          "department": "R&D",
-          "id": "4001c06d-3c55-44a6-8a78-c36e85b1b336",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/4001c06d-3c55-44a6-8a78-c36e85b1b336",
-          "location": "Sweden",
-          "publishedAt": "2026-04-20T12:15:38.980+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Sweden)"
-        },
-        {
-          "department": "R&D",
-          "id": "ea00907c-c5be-4512-bfb0-e4de79ea31eb",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/ea00907c-c5be-4512-bfb0-e4de79ea31eb",
-          "location": "Ukraine",
-          "publishedAt": "2026-04-20T12:15:09.010+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Ukraine)"
-        },
-        {
-          "department": "R&D",
-          "id": "87b2b9d5-7d9b-4696-b431-4f45dc6961be",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/87b2b9d5-7d9b-4696-b431-4f45dc6961be",
-          "location": "Romania",
-          "publishedAt": "2026-04-20T12:14:49.050+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Romania)"
-        },
-        {
-          "department": "R&D",
-          "id": "15a893ef-581c-49c4-a18e-5001def4ee70",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/15a893ef-581c-49c4-a18e-5001def4ee70",
-          "location": "Germany",
-          "publishedAt": "2026-04-20T12:14:27.186+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Germany)"
-        },
-        {
-          "department": "R&D",
-          "id": "54148205-8820-4f79-a028-27659eb856dd",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/54148205-8820-4f79-a028-27659eb856dd",
-          "location": "Uruguay",
-          "publishedAt": "2026-04-20T12:13:30.981+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Uruguay)"
-        },
-        {
-          "department": "R&D",
-          "id": "1c0cfcdd-c924-4c47-bf7b-defec3fdde5e",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/1c0cfcdd-c924-4c47-bf7b-defec3fdde5e",
-          "location": "Peru",
-          "publishedAt": "2026-04-20T12:13:12.252+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Peru)"
-        },
-        {
-          "department": "R&D",
-          "id": "723d1fd0-a346-4fe2-aad0-cbee91c53b89",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/723d1fd0-a346-4fe2-aad0-cbee91c53b89",
-          "location": "Spain",
-          "publishedAt": "2026-04-20T12:12:43.580+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Spain)"
-        },
-        {
-          "department": "R&D",
-          "id": "dad62efb-ec9e-4cb2-857f-87ce61787400",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/dad62efb-ec9e-4cb2-857f-87ce61787400",
-          "location": "Poland",
-          "publishedAt": "2026-04-20T12:11:49.477+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Poland)"
-        },
-        {
-          "department": "R&D",
-          "id": "037fa47e-af74-47e3-8ac3-3d00de71bff8",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/037fa47e-af74-47e3-8ac3-3d00de71bff8",
-          "location": "Italy",
-          "publishedAt": "2026-04-20T12:11:32.452+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Italy)"
-        },
-        {
-          "department": "R&D",
-          "id": "a7771089-e765-4bf8-9e23-87982d867aaa",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/a7771089-e765-4bf8-9e23-87982d867aaa",
-          "location": "Hungary",
-          "publishedAt": "2026-04-20T12:11:15.648+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Hungary)"
-        },
-        {
-          "department": "R&D",
-          "id": "9eea3b08-5383-473f-842a-a3e636d1156b",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/9eea3b08-5383-473f-842a-a3e636d1156b",
-          "location": "France",
-          "publishedAt": "2026-04-20T12:10:14.963+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - France)"
-        },
-        {
-          "department": "R&D",
-          "id": "0b4dcca4-ca9d-45e9-908b-dfe0f021caa2",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/0b4dcca4-ca9d-45e9-908b-dfe0f021caa2",
-          "location": "Denmark",
-          "publishedAt": "2026-04-20T12:09:59.657+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Denmark)"
-        },
-        {
-          "department": "R&D",
-          "id": "a5e5791a-a4b0-4607-a3ed-1fa0270b9472",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/a5e5791a-a4b0-4607-a3ed-1fa0270b9472",
-          "location": "Czech Republic",
-          "publishedAt": "2026-04-20T12:09:35.558+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Czech Republic)"
-        },
-        {
-          "department": "R&D",
-          "id": "315b825a-30e7-4cd4-bc72-1bfcfdca7d2d",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/315b825a-30e7-4cd4-bc72-1bfcfdca7d2d",
-          "location": "Croatia",
-          "publishedAt": "2026-04-20T12:09:17.242+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Croatia)"
-        },
-        {
-          "department": "R&D",
-          "id": "6661a8e8-994e-4779-a53a-15b7690cc0ae",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/6661a8e8-994e-4779-a53a-15b7690cc0ae",
-          "location": "Bulgaria",
-          "publishedAt": "2026-04-20T12:08:54.495+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Bulgaria)"
-        },
-        {
-          "department": "R&D",
-          "id": "428e12a7-1c6b-46aa-9fc8-6c54ecd0cb22",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/428e12a7-1c6b-46aa-9fc8-6c54ecd0cb22",
-          "location": "Bosnia and Herzegovina",
-          "publishedAt": "2026-04-20T12:08:38.502+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Bosnia and Herzegovina)"
-        },
-        {
-          "department": "R&D",
-          "id": "7c7e2351-6041-42dc-a8c9-71ac003104f8",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/7c7e2351-6041-42dc-a8c9-71ac003104f8",
-          "location": "Belgium",
-          "publishedAt": "2026-04-20T12:08:04.541+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Belgium)"
-        },
-        {
-          "department": "R&D",
-          "id": "21160a77-4b76-4a3f-8422-d859f530af36",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/21160a77-4b76-4a3f-8422-d859f530af36",
-          "location": "Azerbaijan",
-          "publishedAt": "2026-04-20T12:07:47.499+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Azerbaijan)"
-        },
-        {
-          "department": "R&D",
-          "id": "25590cfd-53b4-4429-8f97-7137caa3db2a",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/25590cfd-53b4-4429-8f97-7137caa3db2a",
-          "location": "Austria",
-          "publishedAt": "2026-04-20T12:07:24.954+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Austria)"
-        },
-        {
-          "department": "R&D",
-          "id": "45ce492e-6a57-43ca-9527-224c35c2439e",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/45ce492e-6a57-43ca-9527-224c35c2439e",
-          "location": "Albania",
-          "publishedAt": "2026-04-20T12:06:58.254+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Albania)"
-        },
-        {
-          "department": "R&D",
-          "id": "c4646c43-58a2-436e-9569-e88d9b3cb47d",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/c4646c43-58a2-436e-9569-e88d9b3cb47d",
-          "location": "United Kingdom",
-          "publishedAt": "2026-04-20T12:06:19.415+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - UK)"
-        },
-        {
-          "department": "R&D",
-          "id": "5f2b7e8b-8a5e-43be-a141-80e11f08315a",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/5f2b7e8b-8a5e-43be-a141-80e11f08315a",
-          "location": "Mexico",
-          "publishedAt": "2026-04-20T12:05:50.862+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Mexico)"
-        },
-        {
-          "department": "R&D",
-          "id": "49468bf9-1057-42fc-af97-60180994c0f5",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/49468bf9-1057-42fc-af97-60180994c0f5",
-          "location": "Costa Rica",
-          "publishedAt": "2026-04-20T12:05:31.020+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Costa Rica)"
-        },
-        {
-          "department": "R&D",
-          "id": "02a3f72c-1316-4e05-a7ae-67b77a2bcff0",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/02a3f72c-1316-4e05-a7ae-67b77a2bcff0",
-          "location": "Dominican Republic",
-          "publishedAt": "2026-04-20T12:05:15.663+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Dominican Republic)"
-        },
-        {
-          "department": "R&D",
-          "id": "9b7ceffc-7c11-4cbc-a820-0a2fa1759e0a",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/9b7ceffc-7c11-4cbc-a820-0a2fa1759e0a",
-          "location": "Puerto Rico",
-          "publishedAt": "2026-04-20T12:04:54.252+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Puerto Rico)"
-        },
-        {
-          "department": "R&D",
-          "id": "e777c4e0-f87a-40d9-baf0-f19ec4aa35ac",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/e777c4e0-f87a-40d9-baf0-f19ec4aa35ac",
-          "location": "Ecuador",
-          "publishedAt": "2026-04-20T12:04:41.386+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Ecuador)"
-        },
-        {
-          "department": "R&D",
-          "id": "d22967db-1883-41f0-90b4-77c8118ebb09",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/d22967db-1883-41f0-90b4-77c8118ebb09",
-          "location": "Bolivia",
-          "publishedAt": "2026-04-20T12:04:20.356+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Bolivia)"
-        },
-        {
-          "department": "R&D",
-          "id": "70cdfd56-2383-4f3d-bb5b-ddbbe95a9b0b",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/70cdfd56-2383-4f3d-bb5b-ddbbe95a9b0b",
-          "location": "Colombia",
-          "publishedAt": "2026-04-20T12:04:00.525+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Colombia)"
-        },
-        {
-          "department": "R&D",
-          "id": "ca976f7a-3c5b-4458-b837-f69a4925e7be",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/ca976f7a-3c5b-4458-b837-f69a4925e7be",
-          "location": "Argentina",
-          "publishedAt": "2026-04-20T12:02:16.476+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Argentina)"
-        },
-        {
-          "department": "R&D",
-          "id": "4cc2f5bf-9eed-4f5b-9525-bdd2210006a3",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/4cc2f5bf-9eed-4f5b-9525-bdd2210006a3",
-          "location": "Brazil",
-          "publishedAt": "2026-04-20T12:02:00.962+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Brazil)"
-        },
-        {
-          "department": "R&D",
-          "id": "ae628056-0319-4c05-b951-0aac3ecbd6d7",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/ae628056-0319-4c05-b951-0aac3ecbd6d7",
-          "location": "United States of America",
-          "publishedAt": "2026-04-20T12:01:37.104+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - USA)"
-        },
-        {
-          "department": "R&D",
-          "id": "249827ac-285c-44ed-91f0-b948fe81ed39",
-          "jobUrl": "https://jobs.ashbyhq.com/everai/249827ac-285c-44ed-91f0-b948fe81ed39",
-          "location": "Worldwide",
-          "publishedAt": "2026-04-20T12:01:21.157+00:00",
-          "team": "Content",
-          "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Worldwide)"
+          "department": "Customer Success",
+          "id": "2b401986-a491-4f9b-9c22-63079bcd64c2",
+          "jobUrl": "https://jobs.ashbyhq.com/ashby/2b401986-a491-4f9b-9c22-63079bcd64c2",
+          "location": "Remote - North America",
+          "publishedAt": "2026-04-09T19:58:41.802+00:00",
+          "team": "Strategic Customer Success",
+          "title": "Strategic Customer Success Manager - Americas"
         }
       ]
     },
@@ -332,12 +21,40 @@
       "jobs": [
         {
           "department": "Marketing",
-          "id": "34c63724-0ed3-4c9a-915e-9990c8099e3d",
-          "jobUrl": "https://jobs.ashbyhq.com/toogeza/34c63724-0ed3-4c9a-915e-9990c8099e3d",
+          "id": "2e2ed73a-784a-435a-8216-8775afa2daca",
+          "jobUrl": "https://jobs.ashbyhq.com/toogeza/2e2ed73a-784a-435a-8216-8775afa2daca",
           "location": "Europe",
-          "publishedAt": "2026-04-20T14:39:00.274+00:00",
+          "publishedAt": "2026-04-20T19:26:32.932+00:00",
           "team": "Marketing",
-          "title": "User Acquisition Manager (Meta)"
+          "title": "User Acquisition Manager "
+        }
+      ]
+    },
+    {
+      "board": "sardine",
+      "jobs": [
+        {
+          "department": "Post-Sales ",
+          "id": "92da1cab-a832-4a34-b8fc-18a5b0a675d9",
+          "jobUrl": "https://jobs.ashbyhq.com/sardine/92da1cab-a832-4a34-b8fc-18a5b0a675d9",
+          "location": "Berkeley, California",
+          "publishedAt": "2026-01-27T16:21:52.355+00:00",
+          "team": "Accounts Management",
+          "title": "Key Account Manager"
+        }
+      ]
+    },
+    {
+      "board": "substack",
+      "jobs": [
+        {
+          "department": "Operations",
+          "id": "0c21564f-4382-4272-9631-cfb9318e80dc",
+          "jobUrl": "https://jobs.ashbyhq.com/substack/0c21564f-4382-4272-9631-cfb9318e80dc",
+          "location": "San Francisco (HQ)",
+          "publishedAt": "2026-04-20T21:43:33.781+00:00",
+          "team": "People & Talent",
+          "title": "Senior Recruiter"
         }
       ]
     },
@@ -345,16 +62,16 @@
       "board": "dash0",
       "jobs": [
         {
-          "department": "Sales",
-          "id": "f74f8254-17e7-43d9-a4a3-3f95b7fd7eff",
-          "jobUrl": "https://jobs.ashbyhq.com/dash0/f74f8254-17e7-43d9-a4a3-3f95b7fd7eff",
-          "location": "East Coast - remote",
-          "publishedAt": "2026-04-20T14:05:37.400+00:00",
-          "team": "Sales",
-          "title": "Regional Enterprise Director - US"
+          "department": "Engineering / R&D",
+          "id": "eee4fe11-d3b6-4f95-8c24-dca5b9c040e5",
+          "jobUrl": "https://jobs.ashbyhq.com/dash0/eee4fe11-d3b6-4f95-8c24-dca5b9c040e5",
+          "location": "EMEA - Remote",
+          "publishedAt": "2026-04-20T16:21:13.018+00:00",
+          "team": "Engineering / R&D",
+          "title": "Senior Product Manager – Cyber0 (Security Platform)"
         }
       ]
     }
   ],
-  "scannedAtUtc": "2026-04-20T15:11:20.867461+00:00"
+  "scannedAtUtc": "2026-04-21T07:26:10.655099+00:00"
 }
